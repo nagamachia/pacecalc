@@ -1,1 +1,68 @@
-IiIicGFjZWNhbGMucHJlZGljdCDjga7jg4bjgrnjg4jjgIIiIiIKCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCB1bml0dGVzdAoKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICIuLiIpKQoKZnJvbSBwYWNlY2FsYyBpbXBvcnQgZmluaXNoX3RpbWVfc2VjLCBmb3JtYXRfaG1zLCByaWVnZWxfcHJlZGljdF9zZWMKCgpjbGFzcyBUZXN0RmluaXNoVGltZSh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9ub3JtYWwoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChmaW5pc2hfdGltZV9zZWMoMTAsIDMwMCksIDMwMDAuMCkKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKGZpbmlzaF90aW1lX3NlYyg0Mi4xOTUsIDMzMCksIDEzOTI0LjM1KQoKICAgIGRlZiB0ZXN0X21hcmF0aG9uX2Zvcm1hdChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdF9obXMoZmluaXNoX3RpbWVfc2VjKDQyLjE5NSwgMzMwKSksICIzOjUyOjA0IikKCiAgICBkZWYgdGVzdF9pbnZhbGlkX2Rpc3RhbmNlKHNlbGYpOgogICAgICAgIGZvciBkIGluICgwLCAtMSwgLTAuMSk6CiAgICAgICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgICAgICBmaW5pc2hfdGltZV9zZWMoZCwgMzAwKQoKICAgIGRlZiB0ZXN0X2ludmFsaWRfcGFjZShzZWxmKToKICAgICAgICBmb3IgcCBpbiAoMCwgLTMwMCk6CiAgICAgICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgICAgICBmaW5pc2hfdGltZV9zZWMoMTAsIHApCgoKY2xhc3MgVGVzdFJpZWdlbCh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9zYW1lX2Rpc3RhbmNlKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwocmllZ2VsX3ByZWRpY3Rfc2VjKDEwLCAzMDAwLCAxMCksIDMwMDAuMCkKCiAgICBkZWYgdGVzdF9kZWZhdWx0X2V4cG9uZW50KHNlbGYpOgogICAgICAgICMgMTBrbSA1MOWIhiDihpIg44OP44O844OVOiAzMDAwIMOXICgyMS4wOTc1LzEwKV4xLjA2IOKJkiA2NjE5LjIg56eSCiAgICAgICAgZXhwZWN0ZWQgPSAzMDAwICogKDIxLjA5NzUgLyAxMCkgKiogMS4wNgogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwocmllZ2VsX3ByZWRpY3Rfc2VjKDEwLCAzMDAwLCAyMS4wOTc1KSwgZXhwZWN0ZWQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfaG1zKGV4cGVjdGVkKSwgIjE6NTA6MTkiKQoKICAgIGRlZiB0ZXN0X2N1c3RvbV9leHBvbmVudChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHJpZWdlbF9wcmVkaWN0X3NlYyg1LCAxMjAwLCAxMCwgZXhwb25lbnQ9MS4wKSwgMjQwMC4wKQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwocmllZ2VsX3ByZWRpY3Rfc2VjKDUsIDEyMDAsIDEwLCAxLjEpLCAxMjAwICogMiAqKiAxLjEpCgogICAgZGVmIHRlc3Rfc2hvcnRlcl90YXJnZXQoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRMZXNzKHJpZWdlbF9wcmVkaWN0X3NlYygxMCwgMzAwMCwgNSksIDE1MDAuMCkKCiAgICBkZWYgdGVzdF9pbnZhbGlkX2lucHV0cyhzZWxmKToKICAgICAgICBjYXNlcyA9IFsKICAgICAgICAgICAgKDAsIDMwMDAsIDEwKSwKICAgICAgICAgICAgKC0xMCwgMzAwMCwgMTApLAogICAgICAgICAgICAoMTAsIDAsIDEwKSwKICAgICAgICAgICAgKDEwLCAtMSwgMTApLAogICAgICAgICAgICAoMTAsIDMwMDAsIDApLAogICAgICAgICAgICAoMTAsIDMwMDAsIC01KSwKICAgICAgICBdCiAgICAgICAgZm9yIGFyZ3MgaW4gY2FzZXM6CiAgICAgICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoVmFsdWVFcnJvciwgbXNnPXN0cihhcmdzKSk6CiAgICAgICAgICAgICAgICByaWVnZWxfcHJlZGljdF9zZWMoKmFyZ3MpCgogICAgZGVmIHRlc3RfaW52YWxpZF9leHBvbmVudChzZWxmKToKICAgICAgICBmb3IgZSBpbiAoMCwgLTEuMDYpOgogICAgICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICAgICAgcmllZ2VsX3ByZWRpY3Rfc2VjKDEwLCAzMDAwLCAyMS4wOTc1LCBleHBvbmVudD1lKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICB1bml0dGVzdC5tYWluKCkK
+"""pacecalc.predict のテスト。"""
+
+import os
+import sys
+import unittest
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+
+from pacecalc import finish_time_sec, format_hms, riegel_predict_sec
+
+
+class TestFinishTime(unittest.TestCase):
+    def test_normal(self):
+        self.assertAlmostEqual(finish_time_sec(10, 300), 3000.0)
+        self.assertAlmostEqual(finish_time_sec(42.195, 330), 13924.35)
+
+    def test_marathon_format(self):
+        self.assertEqual(format_hms(finish_time_sec(42.195, 330)), "3:52:04")
+
+    def test_invalid_distance(self):
+        for d in (0, -1, -0.1):
+            with self.assertRaises(ValueError):
+                finish_time_sec(d, 300)
+
+    def test_invalid_pace(self):
+        for p in (0, -300):
+            with self.assertRaises(ValueError):
+                finish_time_sec(10, p)
+
+
+class TestRiegel(unittest.TestCase):
+    def test_same_distance(self):
+        self.assertAlmostEqual(riegel_predict_sec(10, 3000, 10), 3000.0)
+
+    def test_default_exponent(self):
+        # 10km 50分 → ハーフ: 3000 × (21.0975/10)^1.06 ≒ 6619.2 秒
+        expected = 3000 * (21.0975 / 10) ** 1.06
+        self.assertAlmostEqual(riegel_predict_sec(10, 3000, 21.0975), expected)
+        self.assertEqual(format_hms(expected), "1:50:19")
+
+    def test_custom_exponent(self):
+        self.assertAlmostEqual(riegel_predict_sec(5, 1200, 10, exponent=1.0), 2400.0)
+        self.assertAlmostEqual(riegel_predict_sec(5, 1200, 10, 1.1), 1200 * 2 ** 1.1)
+
+    def test_shorter_target(self):
+        self.assertLess(riegel_predict_sec(10, 3000, 5), 1500.0)
+
+    def test_invalid_inputs(self):
+        cases = [
+            (0, 3000, 10),
+            (-10, 3000, 10),
+            (10, 0, 10),
+            (10, -1, 10),
+            (10, 3000, 0),
+            (10, 3000, -5),
+        ]
+        for args in cases:
+            with self.assertRaises(ValueError, msg=str(args)):
+                riegel_predict_sec(*args)
+
+    def test_invalid_exponent(self):
+        for e in (0, -1.06):
+            with self.assertRaises(ValueError):
+                riegel_predict_sec(10, 3000, 21.0975, exponent=e)
+
+
+if __name__ == "__main__":
+    unittest.main()
