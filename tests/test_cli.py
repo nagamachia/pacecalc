@@ -1,1 +1,107 @@
-IiIicGFjZWNhbGMuY2xpIOOBruODhuOCueODiO+8iG1haW4g6Zai5pWw44Gu5ZG844Gz5Ye644GX44GoIHN1YnByb2Nlc3Mg44Gu5Lih5pa544Gn5qSc6Ki877yJ44CCIiIiCgppbXBvcnQgY29udGV4dGxpYgppbXBvcnQgaW8KaW1wb3J0IG9zCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHVuaXR0ZXN0CgpST09UID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgIi4uIikKc3lzLnBhdGguaW5zZXJ0KDAsIFJPT1QpCgpmcm9tIHBhY2VjYWxjLmNsaSBpbXBvcnQgbWFpbiwgcGFyc2VfcGFjZQoKCmRlZiBydW5fbWFpbihhcmd2KToKICAgICIiIm1haW4g44KS5ZG844Gz5Ye644GX44CBKOe1guS6huOCs+ODvOODiSwg5qiZ5rqW5Ye65YqbLCDmqJnmupbjgqjjg6njg7wpIOOCkui/lOOBmeOAgiIiIgogICAgb3V0LCBlcnIgPSBpby5TdHJpbmdJTygpLCBpby5TdHJpbmdJTygpCiAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KG91dCksIGNvbnRleHRsaWIucmVkaXJlY3Rfc3RkZXJyKGVycik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb2RlID0gbWFpbihhcmd2KQogICAgICAgIGV4Y2VwdCBTeXN0ZW1FeGl0IGFzIGV4YzogICMgYXJncGFyc2Ug44Gu44Ko44Op44O8CiAgICAgICAgICAgIGNvZGUgPSBleGMuY29kZQogICAgcmV0dXJuIGNvZGUsIG91dC5nZXR2YWx1ZSgpLCBlcnIuZ2V0dmFsdWUoKQoKCmNsYXNzIFRlc3RQYXJzZVBhY2UodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3Rfbm9ybWFsKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocGFyc2VfcGFjZSgiNTozMCIpLCAzMzApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwYXJzZV9wYWNlKCIwOjQ1IiksIDQ1KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocGFyc2VfcGFjZSgiMTI6MDUiKSwgNzI1KQoKICAgIGRlZiB0ZXN0X2ludmFsaWQoc2VsZik6CiAgICAgICAgZm9yIHRleHQgaW4gKCI1IiwgIjU6MyIsICI1OjYwIiwgIjU6MzA6MDAiLCAiYTozMCIsICItNTozMCIsICI1OjNhIiwgIiIpOgogICAgICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IsIG1zZz10ZXh0KToKICAgICAgICAgICAgICAgIHBhcnNlX3BhY2UodGV4dCkKCgpjbGFzcyBUZXN0TWFpbih1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9wYWNlKHNlbGYpOgogICAgICAgIGNvZGUsIG91dCwgXyA9IHJ1bl9tYWluKFsicGFjZSIsICItLXNwZWVkIiwgIjEyIl0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb2RlLCAwKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwob3V0LCAiNTowMCAva21cbiIpCgogICAgZGVmIHRlc3RfcGFjZV9mcmFjdGlvbihzZWxmKToKICAgICAgICBjb2RlLCBvdXQsIF8gPSBydW5fbWFpbihbInBhY2UiLCAiLS1zcGVlZCIsICIxMSJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29kZSwgMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG91dCwgIjU6MjcgL2ttXG4iKSAgIyAzMjcuMjcuLi4g4oaSIDU6MjcKCiAgICBkZWYgdGVzdF9maW5pc2goc2VsZik6CiAgICAgICAgY29kZSwgb3V0LCBfID0gcnVuX21haW4oWyJmaW5pc2giLCAiLS1kaXN0YW5jZSIsICI0Mi4xOTUiLCAiLS1wYWNlIiwgIjU6MzAiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvZGUsIDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChvdXQsICIzOjUyOjA0XG4iKQoKICAgIGRlZiB0ZXN0X3BhY2VfemVyb19zcGVlZF9lcnJvcihzZWxmKToKICAgICAgICBjb2RlLCBvdXQsIGVyciA9IHJ1bl9tYWluKFsicGFjZSIsICItLXNwZWVkIiwgIjAiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvZGUsIDIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChvdXQsICIiKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oIuOCqOODqeODvCIsIGVycikKCiAgICBkZWYgdGVzdF9maW5pc2hfYmFkX3BhY2VfZXJyb3Ioc2VsZik6CiAgICAgICAgY29kZSwgb3V0LCBlcnIgPSBydW5fbWFpbihbImZpbmlzaCIsICItLWRpc3RhbmNlIiwgIjEwIiwgIi0tcGFjZSIsICI1Ojc1Il0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb2RlLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwob3V0LCAiIikKICAgICAgICBzZWxmLmFzc2VydEluKCLjgqjjg6njg7wiLCBlcnIpCgogICAgZGVmIHRlc3RfZmluaXNoX3plcm9fZGlzdGFuY2VfZXJyb3Ioc2VsZik6CiAgICAgICAgY29kZSwgXywgZXJyID0gcnVuX21haW4oWyJmaW5pc2giLCAiLS1kaXN0YW5jZSIsICIwIiwgIi0tcGFjZSIsICI1OjMwIl0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb2RlLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oIuOCqOODqeODvCIsIGVycikKCiAgICBkZWYgdGVzdF9taXNzaW5nX2NvbW1hbmQoc2VsZik6CiAgICAgICAgY29kZSwgXywgXyA9IHJ1bl9tYWluKFtdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29kZSwgMikKCiAgICBkZWYgdGVzdF9taXNzaW5nX2FyZ3VtZW50KHNlbGYpOgogICAgICAgIGNvZGUsIF8sIF8gPSBydW5fbWFpbihbImZpbmlzaCIsICItLWRpc3RhbmNlIiwgIjEwIl0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb2RlLCAyKQoKCmNsYXNzIFRlc3RTdWJwcm9jZXNzKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiBydW5fY2xpKHNlbGYsICphcmdzKToKICAgICAgICByZXR1cm4gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFtzeXMuZXhlY3V0YWJsZSwgIi1tIiwgInBhY2VjYWxjIl0gKyBsaXN0KGFyZ3MpLAogICAgICAgICAgICBjd2Q9Uk9PVCwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwKICAgICAgICAgICAgdGV4dD1UcnVlLAogICAgICAgICkKCiAgICBkZWYgdGVzdF9wYWNlKHNlbGYpOgogICAgICAgIHJlc3VsdCA9IHNlbGYucnVuX2NsaSgicGFjZSIsICItLXNwZWVkIiwgIjEyIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5yZXR1cm5jb2RlLCAwKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0LnN0ZG91dC5zdHJpcCgpLCAiNTowMCAva20iKQoKICAgIGRlZiB0ZXN0X2ZpbmlzaChzZWxmKToKICAgICAgICByZXN1bHQgPSBzZWxmLnJ1bl9jbGkoImZpbmlzaCIsICItLWRpc3RhbmNlIiwgIjQyLjE5NSIsICItLXBhY2UiLCAiNTozMCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQucmV0dXJuY29kZSwgMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5zdGRvdXQuc3RyaXAoKSwgIjM6NTI6MDQiKQoKICAgIGRlZiB0ZXN0X2Vycm9yX2V4aXRfY29kZShzZWxmKToKICAgICAgICByZXN1bHQgPSBzZWxmLnJ1bl9jbGkoImZpbmlzaCIsICItLWRpc3RhbmNlIiwgIi0xIiwgIi0tcGFjZSIsICI1OjMwIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5yZXR1cm5jb2RlLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oIuOCqOODqeODvCIsIHJlc3VsdC5zdGRlcnIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHVuaXR0ZXN0Lm1haW4oKQo=
+"""pacecalc.cli のテスト（main 関数の呼び出しと subprocess の両方で検証）。"""
+
+import contextlib
+import io
+import os
+import subprocess
+import sys
+import unittest
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+sys.path.insert(0, ROOT)
+
+from pacecalc.cli import main, parse_pace
+
+
+def run_main(argv):
+    """main を呼び出し、(終了コード, 標準出力, 標準エラー) を返す。"""
+    out, err = io.StringIO(), io.StringIO()
+    with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
+        try:
+            code = main(argv)
+        except SystemExit as exc:  # argparse のエラー
+            code = exc.code
+    return code, out.getvalue(), err.getvalue()
+
+
+class TestParsePace(unittest.TestCase):
+    def test_normal(self):
+        self.assertEqual(parse_pace("5:30"), 330)
+        self.assertEqual(parse_pace("0:45"), 45)
+        self.assertEqual(parse_pace("12:05"), 725)
+
+    def test_invalid(self):
+        for text in ("5", "5:3", "5:60", "5:30:00", "a:30", "-5:30", "5:3a", ""):
+            with self.assertRaises(ValueError, msg=text):
+                parse_pace(text)
+
+
+class TestMain(unittest.TestCase):
+    def test_pace(self):
+        code, out, _ = run_main(["pace", "--speed", "12"])
+        self.assertEqual(code, 0)
+        self.assertEqual(out, "5:00 /km\n")
+
+    def test_pace_fraction(self):
+        code, out, _ = run_main(["pace", "--speed", "11"])
+        self.assertEqual(code, 0)
+        self.assertEqual(out, "5:27 /km\n")  # 327.27... → 5:27
+
+    def test_finish(self):
+        code, out, _ = run_main(["finish", "--distance", "42.195", "--pace", "5:30"])
+        self.assertEqual(code, 0)
+        self.assertEqual(out, "3:52:04\n")
+
+    def test_pace_zero_speed_error(self):
+        code, out, err = run_main(["pace", "--speed", "0"])
+        self.assertEqual(code, 2)
+        self.assertEqual(out, "")
+        self.assertIn("エラー", err)
+
+    def test_finish_bad_pace_error(self):
+        code, out, err = run_main(["finish", "--distance", "10", "--pace", "5:75"])
+        self.assertEqual(code, 2)
+        self.assertEqual(out, "")
+        self.assertIn("エラー", err)
+
+    def test_finish_zero_distance_error(self):
+        code, _, err = run_main(["finish", "--distance", "0", "--pace", "5:30"])
+        self.assertEqual(code, 2)
+        self.assertIn("エラー", err)
+
+    def test_missing_command(self):
+        code, _, _ = run_main([])
+        self.assertEqual(code, 2)
+
+    def test_missing_argument(self):
+        code, _, _ = run_main(["finish", "--distance", "10"])
+        self.assertEqual(code, 2)
+
+
+class TestSubprocess(unittest.TestCase):
+    def run_cli(self, *args):
+        return subprocess.run(
+            [sys.executable, "-m", "pacecalc"] + list(args),
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+
+    def test_pace(self):
+        result = self.run_cli("pace", "--speed", "12")
+        self.assertEqual(result.returncode, 0)
+        self.assertEqual(result.stdout.strip(), "5:00 /km")
+
+    def test_finish(self):
+        result = self.run_cli("finish", "--distance", "42.195", "--pace", "5:30")
+        self.assertEqual(result.returncode, 0)
+        self.assertEqual(result.stdout.strip(), "3:52:04")
+
+    def test_error_exit_code(self):
+        result = self.run_cli("finish", "--distance", "-1", "--pace", "5:30")
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("エラー", result.stderr)
+
+
+if __name__ == "__main__":
+    unittest.main()
