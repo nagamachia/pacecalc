@@ -1,1 +1,26 @@
-IiIicGFjZWNhbGM6IOOCqOODs+ODh+ODpeODqeODs+OCueOCueODneODvOODhO+8iOODqeODs++8j+OCteOCpOOCr+ODquODs+OCsO+8ieWQkeOBkeOBruODmuODvOOCueioiOeul+ODqeOCpOODluODqeODquOAgiIiIgoKZnJvbSAuY2xpbWIgaW1wb3J0IGNsaW1iX3RpbWVfc2VjLCByZXF1aXJlZF9wb3dlcl93CmZyb20gLmNvcmUgaW1wb3J0IGZvcm1hdF9obXMsIGZvcm1hdF9wYWNlLCBwYWNlX3RvX3NwZWVkX2ttaCwgc3BlZWRfdG9fcGFjZV9zZWMKZnJvbSAuY291cnNlIGltcG9ydCBjb3Vyc2Vfc2VnbWVudHMsIGhhdmVyc2luZV9tLCBsb2FkX2dweF9wb2ludHMsIHBsYW5fY291cnNlCmZyb20gLnByZWRpY3QgaW1wb3J0IGZpbmlzaF90aW1lX3NlYywgcmllZ2VsX3ByZWRpY3Rfc2VjCmZyb20gLnNwbGl0cyBpbXBvcnQgc3BsaXRfdGFibGUKCl9fdmVyc2lvbl9fID0gIjEuMC4wIgoKX19hbGxfXyA9IFsKICAgICJfX3ZlcnNpb25fXyIsCiAgICAic3BlZWRfdG9fcGFjZV9zZWMiLAogICAgInBhY2VfdG9fc3BlZWRfa21oIiwKICAgICJmb3JtYXRfcGFjZSIsCiAgICAiZm9ybWF0X2htcyIsCiAgICAiZmluaXNoX3RpbWVfc2VjIiwKICAgICJyaWVnZWxfcHJlZGljdF9zZWMiLAogICAgInNwbGl0X3RhYmxlIiwKICAgICJjbGltYl90aW1lX3NlYyIsCiAgICAicmVxdWlyZWRfcG93ZXJfdyIsCiAgICAibG9hZF9ncHhfcG9pbnRzIiwKICAgICJoYXZlcnNpbmVfbSIsCiAgICAiY291cnNlX3NlZ21lbnRzIiwKICAgICJwbGFuX2NvdXJzZSIsCl0K
+"""pacecalc: エンデュランススポーツ（ラン／サイクリング）向けのペース計算ライブラリ。"""
+
+from .climb import climb_time_sec, required_power_w
+from .core import format_hms, format_pace, pace_to_speed_kmh, speed_to_pace_sec
+from .course import course_segments, haversine_m, load_gpx_points, plan_course
+from .predict import finish_time_sec, riegel_predict_sec
+from .splits import split_table
+
+__version__ = "1.0.0"
+
+__all__ = [
+    "__version__",
+    "speed_to_pace_sec",
+    "pace_to_speed_kmh",
+    "format_pace",
+    "format_hms",
+    "finish_time_sec",
+    "riegel_predict_sec",
+    "split_table",
+    "climb_time_sec",
+    "required_power_w",
+    "load_gpx_points",
+    "haversine_m",
+    "course_segments",
+    "plan_course",
+]
