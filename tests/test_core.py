@@ -1,1 +1,94 @@
-IiIicGFjZWNhbGMuY29yZSDjga7jg4bjgrnjg4jjgIIiIiIKCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCB1bml0dGVzdAoKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICIuLiIpKQoKZnJvbSBwYWNlY2FsYyBpbXBvcnQgZm9ybWF0X2htcywgZm9ybWF0X3BhY2UsIHBhY2VfdG9fc3BlZWRfa21oLCBzcGVlZF90b19wYWNlX3NlYwoKCmNsYXNzIFRlc3RTcGVlZFRvUGFjZSh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9ub3JtYWwoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzcGVlZF90b19wYWNlX3NlYygxMi4wKSwgMzAwLjApCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzcGVlZF90b19wYWNlX3NlYygxMC4wKSwgMzYwLjApCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzcGVlZF90b19wYWNlX3NlYygzNi4wKSwgMTAwLjApCgogICAgZGVmIHRlc3RfemVyb19yYWlzZXMoc2VsZik6CiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc3BlZWRfdG9fcGFjZV9zZWMoMCkKCiAgICBkZWYgdGVzdF9uZWdhdGl2ZV9yYWlzZXMoc2VsZik6CiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc3BlZWRfdG9fcGFjZV9zZWMoLTUpCgoKY2xhc3MgVGVzdFBhY2VUb1NwZWVkKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X25vcm1hbChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHBhY2VfdG9fc3BlZWRfa21oKDMwMCksIDEyLjApCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChwYWNlX3RvX3NwZWVkX2ttaCgzMzApLCAzNjAwIC8gMzMwKQoKICAgIGRlZiB0ZXN0X3JvdW5kX3RyaXAoc2VsZik6CiAgICAgICAgZm9yIHNwZWVkIGluICg1LjAsIDkuNywgMTIuMCwgNDIuMTk1KToKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChwYWNlX3RvX3NwZWVkX2ttaChzcGVlZF90b19wYWNlX3NlYyhzcGVlZCkpLCBzcGVlZCkKCiAgICBkZWYgdGVzdF96ZXJvX3JhaXNlcyhzZWxmKToKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBwYWNlX3RvX3NwZWVkX2ttaCgwKQoKICAgIGRlZiB0ZXN0X25lZ2F0aXZlX3JhaXNlcyhzZWxmKToKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBwYWNlX3RvX3NwZWVkX2ttaCgtMSkKCgpjbGFzcyBUZXN0Rm9ybWF0UGFjZSh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9ub3JtYWwoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfcGFjZSgzMzApLCAiNTozMCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfcGFjZSgzMDApLCAiNTowMCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfcGFjZSg2NSksICIxOjA1IikKCiAgICBkZWYgdGVzdF9yb3VuZGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdF9wYWNlKDMzMC40KSwgIjU6MzAiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZm9ybWF0X3BhY2UoMzMwLjUpLCAiNTozMSIpICAjIOWbm+aNqOS6lOWFpe+8iOWBtuaVsOS4uOOCgeOBp+OBr+OBquOBhO+8iQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZm9ybWF0X3BhY2UoMzMyLjUpLCAiNTozMyIpCgogICAgZGVmIHRlc3RfY2Fycnlfb3Zlcl82MChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdF9wYWNlKDM1OS41KSwgIjY6MDAiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZm9ybWF0X3BhY2UoMzU5LjYpLCAiNjowMCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfcGFjZSg1OS43KSwgIjE6MDAiKQoKICAgIGRlZiB0ZXN0X3plcm8oc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfcGFjZSgwKSwgIjA6MDAiKQoKICAgIGRlZiB0ZXN0X2xhcmdlX21pbnV0ZXMoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfcGFjZSg3NTQpLCAiMTI6MzQiKQoKICAgIGRlZiB0ZXN0X25lZ2F0aXZlX3JhaXNlcyhzZWxmKToKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBmb3JtYXRfcGFjZSgtMSkKCgpjbGFzcyBUZXN0Rm9ybWF0SG1zKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X25vcm1hbChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdF9obXMoMzcyNSksICIxOjAyOjA1IikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdF9obXMoNTkpLCAiMDowMDo1OSIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtYXRfaG1zKDM2MDAwKSwgIjEwOjAwOjAwIikKCiAgICBkZWYgdGVzdF96ZXJvKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZm9ybWF0X2htcygwKSwgIjA6MDA6MDAiKQoKICAgIGRlZiB0ZXN0X3JvdW5kaW5nX2FuZF9jYXJyeShzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdF9obXMoMzcyNS40KSwgIjE6MDI6MDUiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZm9ybWF0X2htcyg1OS41KSwgIjA6MDE6MDAiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZm9ybWF0X2htcygzNTk5LjUpLCAiMTowMDowMCIpCgogICAgZGVmIHRlc3RfbmVnYXRpdmVfcmFpc2VzKHNlbGYpOgogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIGZvcm1hdF9obXMoLTEpCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgZm9ybWF0X2htcygtMC4xKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICB1bml0dGVzdC5tYWluKCkK
+"""pacecalc.core のテスト。"""
+
+import os
+import sys
+import unittest
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+
+from pacecalc import format_hms, format_pace, pace_to_speed_kmh, speed_to_pace_sec
+
+
+class TestSpeedToPace(unittest.TestCase):
+    def test_normal(self):
+        self.assertAlmostEqual(speed_to_pace_sec(12.0), 300.0)
+        self.assertAlmostEqual(speed_to_pace_sec(10.0), 360.0)
+        self.assertAlmostEqual(speed_to_pace_sec(36.0), 100.0)
+
+    def test_zero_raises(self):
+        with self.assertRaises(ValueError):
+            speed_to_pace_sec(0)
+
+    def test_negative_raises(self):
+        with self.assertRaises(ValueError):
+            speed_to_pace_sec(-5)
+
+
+class TestPaceToSpeed(unittest.TestCase):
+    def test_normal(self):
+        self.assertAlmostEqual(pace_to_speed_kmh(300), 12.0)
+        self.assertAlmostEqual(pace_to_speed_kmh(330), 3600 / 330)
+
+    def test_round_trip(self):
+        for speed in (5.0, 9.7, 12.0, 42.195):
+            self.assertAlmostEqual(pace_to_speed_kmh(speed_to_pace_sec(speed)), speed)
+
+    def test_zero_raises(self):
+        with self.assertRaises(ValueError):
+            pace_to_speed_kmh(0)
+
+    def test_negative_raises(self):
+        with self.assertRaises(ValueError):
+            pace_to_speed_kmh(-1)
+
+
+class TestFormatPace(unittest.TestCase):
+    def test_normal(self):
+        self.assertEqual(format_pace(330), "5:30")
+        self.assertEqual(format_pace(300), "5:00")
+        self.assertEqual(format_pace(65), "1:05")
+
+    def test_rounding(self):
+        self.assertEqual(format_pace(330.4), "5:30")
+        self.assertEqual(format_pace(330.5), "5:31")  # 四捨五入（偶数丸めではない）
+        self.assertEqual(format_pace(332.5), "5:33")
+
+    def test_carry_over_60(self):
+        self.assertEqual(format_pace(359.5), "6:00")
+        self.assertEqual(format_pace(359.6), "6:00")
+        self.assertEqual(format_pace(59.7), "1:00")
+
+    def test_zero(self):
+        self.assertEqual(format_pace(0), "0:00")
+
+    def test_large_minutes(self):
+        self.assertEqual(format_pace(754), "12:34")
+
+    def test_negative_raises(self):
+        with self.assertRaises(ValueError):
+            format_pace(-1)
+
+
+class TestFormatHms(unittest.TestCase):
+    def test_normal(self):
+        self.assertEqual(format_hms(3725), "1:02:05")
+        self.assertEqual(format_hms(59), "0:00:59")
+        self.assertEqual(format_hms(36000), "10:00:00")
+
+    def test_zero(self):
+        self.assertEqual(format_hms(0), "0:00:00")
+
+    def test_rounding_and_carry(self):
+        self.assertEqual(format_hms(3725.4), "1:02:05")
+        self.assertEqual(format_hms(59.5), "0:01:00")
+        self.assertEqual(format_hms(3599.5), "1:00:00")
+
+    def test_negative_raises(self):
+        with self.assertRaises(ValueError):
+            format_hms(-1)
+        with self.assertRaises(ValueError):
+            format_hms(-0.1)
+
+
+if __name__ == "__main__":
+    unittest.main()
