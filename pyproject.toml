@@ -1,1 +1,24 @@
-W2J1aWxkLXN5c3RlbV0KcmVxdWlyZXMgPSBbInNldHVwdG9vbHM+PTYxIl0KYnVpbGQtYmFja2VuZCA9ICJzZXR1cHRvb2xzLmJ1aWxkX21ldGEiCgpbcHJvamVjdF0KbmFtZSA9ICJwYWNlY2FsYyIKdmVyc2lvbiA9ICIxLjAuMCIKZGVzY3JpcHRpb24gPSAiUGFjZSwgc3BsaXQsIGFuZCBmaW5pc2gtdGltZSBjYWxjdWxhdG9yIGxpYnJhcnkgYW5kIENMSSBmb3IgcnVubmluZyBhbmQgY3ljbGluZy4iCnJlYWRtZSA9ICJSRUFETUUubWQiCnJlcXVpcmVzLXB5dGhvbiA9ICI+PTMuMTAiCmRlcGVuZGVuY2llcyA9IFtdCmNsYXNzaWZpZXJzID0gWwogICAgIlByb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzIiwKICAgICJPcGVyYXRpbmcgU3lzdGVtIDo6IE9TIEluZGVwZW5kZW50IiwKXQoKW3Byb2plY3QudXJsc10KSG9tZXBhZ2UgPSAiaHR0cHM6Ly9naXRodWIuY29tL25hZ2FtYWNoaWEvcGFjZWNhbGMiCgpbcHJvamVjdC5zY3JpcHRzXQpwYWNlY2FsYyA9ICJwYWNlY2FsYy5jbGk6bWFpbiIKClt0b29sLnNldHVwdG9vbHNdCnBhY2thZ2VzID0gWyJwYWNlY2FsYyJdCg==
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pacecalc"
+version = "1.0.0"
+description = "Pace, split, and finish-time calculator library and CLI for running and cycling."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/nagamachia/pacecalc"
+
+[project.scripts]
+pacecalc = "pacecalc.cli:main"
+
+[tool.setuptools]
+packages = ["pacecalc"]
