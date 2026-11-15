@@ -1,1 +1,185 @@
-IiIicGFjZWNhbGMg44Gu44Kz44Oe44Oz44OJ44Op44Kk44Oz44Kk44Oz44K/44O844OV44Kn44O844K544CCCgrkvb/jgYTmlrk6CiAgICBweXRob24gLW0gcGFjZWNhbGMgcGFjZSAtLXNwZWVkIDEyCiAgICBweXRob24gLW0gcGFjZWNhbGMgZmluaXNoIC0tZGlzdGFuY2UgNDIuMTk1IC0tcGFjZSA1OjMwCiAgICBweXRob24gLW0gcGFjZWNhbGMgc3BsaXRzIC0tZGlzdGFuY2UgMTAgLS1wYWNlIDU6MDAKICAgIHB5dGhvbiAtbSBwYWNlY2FsYyBzcGxpdHMgLS1kaXN0YW5jZSAxMCAtLXRhcmdldCA1MDowMCAtLWludGVydmFsIDUgLS1mb3JtYXQgY3N2CiAgICBweXRob24gLW0gcGFjZWNhbGMgY2xpbWIgLS1kaXN0YW5jZSAyNC4wMyAtLWdhaW4gMTIxMSAtLXdlaWdodCA3NiAtLXBvd2VyIDIyNi42CiAgICBweXRob24gLW0gcGFjZWNhbGMgY291cnNlIC0tZ3B4IGNvdXJzZS5ncHggLS1wb3dlciAyMzAgLS13ZWlnaHQgNzYKIiIiCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGNzdgppbXBvcnQgc3lzCmltcG9ydCB1bmljb2RlZGF0YQoKZnJvbSAuY2xpbWIgaW1wb3J0IGNsaW1iX3RpbWVfc2VjCmZyb20gLmNvcmUgaW1wb3J0IGZvcm1hdF9obXMsIGZvcm1hdF9wYWNlLCBzcGVlZF90b19wYWNlX3NlYwpmcm9tIC5jb3Vyc2UgaW1wb3J0IGxvYWRfZ3B4X3BvaW50cywgcGxhbl9jb3Vyc2UKZnJvbSAucHJlZGljdCBpbXBvcnQgZmluaXNoX3RpbWVfc2VjCmZyb20gLnNwbGl0cyBpbXBvcnQgc3BsaXRfdGFibGUKCgpkZWYgcGFyc2VfcGFjZSh0ZXh0KToKICAgICIiIiJNOlNTIiDlvaLlvI/jga7jg5rjg7zjgrnmloflrZfliJfjgpLnp5Iva20g44Gr5aSJ5o+b44GZ44KL77yI5L6LOiAiNTozMCIg4oaSIDMzMO+8ieOAggoKICAgIOenkuOBryAw44CcNTkg44Gu5pW05pWwIDIg5qGB44CB5YiG44GvIDAg5Lul5LiK44Gu5pW05pWw44Go44GZ44KL44CC5b2i5byP5LiN5q2j44GvIFZhbHVlRXJyb3LjgIIKICAgICIiIgogICAgcGFydHMgPSB0ZXh0LnN0cmlwKCkuc3BsaXQoIjoiKQogICAgaWYgbGVuKHBhcnRzKSAhPSAyOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuODmuODvOOCueOBryBNOlNTIOW9ouW8j+OBp+aMh+WumuOBl+OBpuOBj+OBoOOBleOBhDogJXIiICUgdGV4dCkKICAgIG1pbnV0ZXNfc3RyLCBzZWNvbmRzX3N0ciA9IHBhcnRzCiAgICBpZiBub3QgbWludXRlc19zdHIuaXNkaWdpdCgpIG9yIG5vdCBzZWNvbmRzX3N0ci5pc2RpZ2l0KCkgb3IgbGVuKHNlY29uZHNfc3RyKSAhPSAyOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuODmuODvOOCueOBryBNOlNTIOW9ouW8j+OBp+aMh+WumuOBl+OBpuOBj+OBoOOBleOBhDogJXIiICUgdGV4dCkKICAgIG1pbnV0ZXMsIHNlY29uZHMgPSBpbnQobWludXRlc19zdHIpLCBpbnQoc2Vjb25kc19zdHIpCiAgICBpZiBzZWNvbmRzID49IDYwOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuODmuODvOOCueOBruenkuOBryAwMOOAnDU5IOOBp+aMh+WumuOBl+OBpuOBj+OBoOOBleOBhDogJXIiICUgdGV4dCkKICAgIHJldHVybiBtaW51dGVzICogNjAgKyBzZWNvbmRzCgoKZGVmIHBhcnNlX3RpbWUodGV4dCk6CiAgICAiIiIiTU06U1MiIOOBvuOBn+OBryAiSDpNTTpTUyIg5b2i5byP44Gu44K/44Kk44Og5paH5a2X5YiX44KS56eS44Gr5aSJ5o+b44GZ44KL77yI5L6LOiAiNTA6MDAiIOKGkiAzMDAw77yJ44CCCgogICAgIk1NOlNTIiDjga7liIbjga8gMCDku6XkuIrjga7mlbTmlbDvvIjmoYHmlbDliLbpmZDjgarjgZfvvInjgIHnp5Ljga8gMiDmoYHjga4gMDDjgJw1OeOAggogICAgIkg6TU06U1MiIOOBruaZguOBryAwIOS7peS4iuOBruaVtOaVsOOAgeWIhuODu+enkuOBryAyIOahgeOBriAwMOOAnDU544CC5b2i5byP5LiN5q2j44GvIFZhbHVlRXJyb3LjgIIKICAgICIiIgogICAgcGFydHMgPSB0ZXh0LnN0cmlwKCkuc3BsaXQoIjoiKQogICAgaWYgbGVuKHBhcnRzKSBub3QgaW4gKDIsIDMpIG9yIG5vdCBhbGwocC5pc2RpZ2l0KCkgZm9yIHAgaW4gcGFydHMpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuOCv+OCpOODoOOBryBNTTpTUyDjgb7jgZ/jga8gSDpNTTpTUyDlvaLlvI/jgafmjIflrprjgZfjgabjgY/jgaDjgZXjgYQ6ICVyIiAlIHRleHQpCiAgICBpZiBsZW4ocGFydHNbLTFdKSAhPSAyIG9yIGludChwYXJ0c1stMV0pID49IDYwOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuOCv+OCpOODoOOBruenkuOBryAwMOOAnDU5IOOBriAyIOahgeOBp+aMh+WumuOBl+OBpuOBj+OBoOOBleOBhDogJXIiICUgdGV4dCkKICAgIGlmIGxlbihwYXJ0cykgPT0gMyBhbmQgKGxlbihwYXJ0c1sxXSkgIT0gMiBvciBpbnQocGFydHNbMV0pID49IDYwKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLjgr/jgqTjg6Djga7liIbjga8gMDDjgJw1OSDjga4gMiDmoYHjgafmjIflrprjgZfjgabjgY/jgaDjgZXjgYQ6ICVyIiAlIHRleHQpCiAgICB0b3RhbCA9IDAKICAgIGZvciBwYXJ0IGluIHBhcnRzOgogICAgICAgIHRvdGFsID0gdG90YWwgKiA2MCArIGludChwYXJ0KQogICAgcmV0dXJuIHRvdGFsCgoKZGVmIF9mb3JtYXRfa20odmFsdWUpOgogICAgIiIi6Led6Zui77yIa23vvInjgpLooajnpLrnlKjjgavmlbTlvaLjgZnjgovvvIjlsI/mlbDnrKwgNCDkvY3jgb7jgafjgIHmnKvlsL7jga4gMCDjga/nnIHjgY/jgILkvos6IDEuMCDihpIgIjEi77yJ44CCIiIiCiAgICB0ZXh0ID0gIiUuNGYiICUgdmFsdWUKICAgIHJldHVybiB0ZXh0LnJzdHJpcCgiMCIpLnJzdHJpcCgiLiIpCgoKZGVmIF9kaXNwbGF5X3dpZHRoKHRleHQpOgogICAgIiIi56uv5pyr5LiK44Gu6KGo56S65bmF44KS6L+U44GZ77yI5YWo6KeS5paH5a2X44GvIDIg5qGB44Go44GX44Gm5pWw44GI44KL77yJ44CCIiIiCiAgICByZXR1cm4gc3VtKDIgaWYgdW5pY29kZWRhdGEuZWFzdF9hc2lhbl93aWR0aChjaCkgaW4gKCJXIiwgIkYiKSBlbHNlIDEgZm9yIGNoIGluIHRleHQpCgoKZGVmIF9yanVzdCh0ZXh0LCB3aWR0aCk6CiAgICAiIiLooajnpLrluYXjgpLogIPmha7jgZfjgablj7Pmj4PjgYjjgZnjgovjgIIiIiIKICAgIHJldHVybiAiICIgKiAod2lkdGggLSBfZGlzcGxheV93aWR0aCh0ZXh0KSkgKyB0ZXh0CgoKZGVmIF9wcmludF9zcGxpdHMocm93cywgZm10KToKICAgICIiIuOCueODl+ODquODg+ODiOihqOOCkuihqOW9ouW8j+OBvuOBn+OBryBDU1Yg44Gn5qiZ5rqW5Ye65Yqb44Gr5pu444GP44CCIiIiCiAgICBpZiBmbXQgPT0gImNzdiI6CiAgICAgICAgd3JpdGVyID0gY3N2LndyaXRlcihzeXMuc3Rkb3V0LCBsaW5ldGVybWluYXRvcj0iXG4iKQogICAgICAgIHdyaXRlci53cml0ZXJvdyhbImRpc3RhbmNlX2ttIiwgImxhcCIsICJlbGFwc2VkIl0pCiAgICAgICAgZm9yIHBvaW50LCBsYXAsIGVsYXBzZWQgaW4gcm93czoKICAgICAgICAgICAgd3JpdGVyLndyaXRlcm93KFtfZm9ybWF0X2ttKHBvaW50KSwgZm9ybWF0X3BhY2UobGFwKSwgZm9ybWF0X2htcyhlbGFwc2VkKV0pCiAgICAgICAgcmV0dXJuCiAgICB0YWJsZSA9IFsoIui3nemboihrbSkiLCAi44Op44OD44OXIiwgIue0r+ioiCIpXQogICAgdGFibGUgKz0gWyhfZm9ybWF0X2ttKHApLCBmb3JtYXRfcGFjZShsYXApLCBmb3JtYXRfaG1zKGVsKSkgZm9yIHAsIGxhcCwgZWwgaW4gcm93c10KICAgIHdpZHRocyA9IFttYXgoX2Rpc3BsYXlfd2lkdGgocm93W2ldKSBmb3Igcm93IGluIHRhYmxlKSBmb3IgaSBpbiByYW5nZSgzKV0KICAgIGZvciByb3cgaW4gdGFibGU6CiAgICAgICAgcHJpbnQoIiAgIi5qb2luKF9yanVzdChjZWxsLCB3aWR0aCkgZm9yIGNlbGwsIHdpZHRoIGluIHppcChyb3csIHdpZHRocykpKQoKCmRlZiBfcHJpbnRfY291cnNlKHJvd3MsIHRvdGFsX3NlYyk6CiAgICAiIiLjgrPjg7zjgrnoqIjnlLvjga7ljLrplpPooajjgajnt4/miYDopoHmmYLplpPjgpLmqJnmupblh7rlipvjgavmm7jjgY/jgIIiIiIKICAgIHRhYmxlID0gWygi5Yy66ZaTKGttKSIsICLli77phY0oJSkiLCAi6YCf5bqmKGttL2gpIiwgIuaJgOimgSIsICLntK/oqIgiKV0KICAgIGVsYXBzZWQgPSAwLjAKICAgIGZvciBzdGFydCwgZW5kLCBncmFkaWVudCwgc3BlZWQsIHRpbWVfc2VjIGluIHJvd3M6CiAgICAgICAgZWxhcHNlZCArPSB0aW1lX3NlYwogICAgICAgIHRhYmxlLmFwcGVuZCgoCiAgICAgICAgICAgICIlcy0lcyIgJSAoX2Zvcm1hdF9rbShzdGFydCksIF9mb3JtYXRfa20oZW5kKSksCiAgICAgICAgICAgICIlKy4xZiIgJSBncmFkaWVudCwKICAgICAgICAgICAgIiUuMWYiICUgc3BlZWQsCiAgICAgICAgICAgIGZvcm1hdF9wYWNlKHRpbWVfc2VjKSwKICAgICAgICAgICAgZm9ybWF0X2htcyhlbGFwc2VkKSwKICAgICAgICApKQogICAgd2lkdGhzID0gW21heChfZGlzcGxheV93aWR0aChyb3dbaV0pIGZvciByb3cgaW4gdGFibGUpIGZvciBpIGluIHJhbmdlKGxlbih0YWJsZVswXSkpXQogICAgZm9yIHJvdyBpbiB0YWJsZToKICAgICAgICBwcmludCgiICAiLmpvaW4oX3JqdXN0KGNlbGwsIHdpZHRoKSBmb3IgY2VsbCwgd2lkdGggaW4gemlwKHJvdywgd2lkdGhzKSkpCiAgICBwcmludCgi57eP5omA6KaB5pmC6ZaTOiAlcyIgJSBmb3JtYXRfaG1zKHRvdGFsX3NlYykpCgoKZGVmIF9idWlsZF9wYXJzZXIoKToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKAogICAgICAgIHByb2c9InBhY2VjYWxjIiwKICAgICAgICBkZXNjcmlwdGlvbj0i44Op44Oz77yP44K144Kk44Kv44Oq44Oz44Kw5ZCR44GR44Gu44Oa44O844K56KiI566X44OE44O844OrIiwKICAgICkKICAgIHN1YiA9IHBhcnNlci5hZGRfc3VicGFyc2VycyhkZXN0PSJjb21tYW5kIiwgbWV0YXZhcj0iQ09NTUFORCIpCiAgICBzdWIucmVxdWlyZWQgPSBUcnVlCgogICAgcF9wYWNlID0gc3ViLmFkZF9wYXJzZXIoInBhY2UiLCBoZWxwPSLpgJ/luqbvvIhrbS9o77yJ44GL44KJ44Oa44O844K577yIL2tt77yJ44KS6KGo56S644GZ44KLIikKICAgIHBfcGFjZS5hZGRfYXJndW1lbnQoIi0tc3BlZWQiLCB0eXBlPWZsb2F0LCByZXF1aXJlZD1UcnVlLCBoZWxwPSLpgJ/luqbvvIhrbS9o77yJIikKCiAgICBwX2ZpbmlzaCA9IHN1Yi5hZGRfcGFyc2VyKCJmaW5pc2giLCBoZWxwPSLot53pm6Ljgajjg5rjg7zjgrnjgYvjgonlrozotbDjgr/jgqTjg6DjgpLooajnpLrjgZnjgosiKQogICAgcF9maW5pc2guYWRkX2FyZ3VtZW50KCItLWRpc3RhbmNlIiwgdHlwZT1mbG9hdCwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0i6Led6Zui77yIa23vvIkiKQogICAgcF9maW5pc2guYWRkX2FyZ3VtZW50KCItLXBhY2UiLCByZXF1aXJlZD1UcnVlLCBoZWxwPSfjg5rjg7zjgrnvvIgiTTpTUyIg5b2i5byP44CB5L6LOiA1OjMw77yJJykKCiAgICBwX3NwbGl0cyA9IHN1Yi5hZGRfcGFyc2VyKCJzcGxpdHMiLCBoZWxwPSLljLrplpPjgZTjgajjga7pgJrpgY7jgr/jgqTjg6DooajvvIjjgrnjg5fjg6rjg4Pjg4jooajvvInjgpLooajnpLrjgZnjgosiKQogICAgcF9zcGxpdHMuYWRkX2FyZ3VtZW50KCItLWRpc3RhbmNlIiwgdHlwZT1mbG9hdCwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0i6Led6Zui77yIa23vvIkiKQogICAgZ3JvdXAgPSBwX3NwbGl0cy5hZGRfbXV0dWFsbHlfZXhjbHVzaXZlX2dyb3VwKHJlcXVpcmVkPVRydWUpCiAgICBncm91cC5hZGRfYXJndW1lbnQoIi0tcGFjZSIsIGhlbHA9J+ODmuODvOOCue+8iCJNOlNTIiDlvaLlvI/jgIHkvos6IDU6MDDvvIknKQogICAgZ3JvdXAuYWRkX2FyZ3VtZW50KCItLXRhcmdldCIsIGhlbHA9J+ebruaomeOCv+OCpOODoO+8iCJNTTpTUyIg44G+44Gf44GvICJIOk1NOlNTIiDlvaLlvI/jgIHkvos6IDUwOjAw77yJJykKICAgIHBfc3BsaXRzLmFkZF9hcmd1bWVudCgiLS1pbnRlcnZhbCIsIHR5cGU9ZmxvYXQsIGRlZmF1bHQ9MS4wLCBoZWxwPSLljLrplpPluYXvvIhrbeOAgeaXouWumiAx77yJIikKICAgIHBfc3BsaXRzLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1mb3JtYXQiLCBjaG9pY2VzPSgidGFibGUiLCAiY3N2IiksIGRlZmF1bHQ9InRhYmxlIiwgaGVscD0i5Ye65Yqb5b2i5byP77yI5pei5a6aIHRhYmxl77yJIgogICAgKQoKICAgIHBfY2xpbWIgPSBzdWIuYWRkX3BhcnNlcigiY2xpbWIiLCBoZWxwPSLkuIDlrprjg5Hjg6/jg7zjgafnmbvlnYLjgZfjgZ/jgajjgY3jga7kuojmuKzjgr/jgqTjg6DjgpLooajnpLrjgZnjgovvvIjmjqjlrprlgKTvvIkiKQogICAgcF9jbGltYi5hZGRfYXJndW1lbnQoIi0tZGlzdGFuY2UiLCB0eXBlPWZsb2F0LCByZXF1aXJlZD1UcnVlLCBoZWxwPSLot53pm6LvvIhrbe+8iSIpCiAgICBwX2NsaW1iLmFkZF9hcmd1bWVudCgiLS1nYWluIiwgdHlwZT1mbG9hdCwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0i542y5b6X5qiZ6auY77yIbe+8iSIpCiAgICBwX2NsaW1iLmFkZF9hcmd1bWVudCgiLS13ZWlnaHQiLCB0eXBlPWZsb2F0LCByZXF1aXJlZD1UcnVlLCBoZWxwPSLnt4/ph43ph4/vvIhrZ+OAgeS9k+mHje+8i+apn+adkO+8iSIpCiAgICBwX2NsaW1iLmFkZF9hcmd1bWVudCgiLS1wb3dlciIsIHR5cGU9ZmxvYXQsIHJlcXVpcmVkPVRydWUsIGhlbHA9IuW5s+Wdh+ODkeODr+ODvO+8iFfvvIkiKQoKICAgIHBfY291cnNlID0gc3ViLmFkZF9wYXJzZXIoImNvdXJzZSIsIGhlbHA9IkdQWCDjgrPjg7zjgrnjgpLkuIDlrprjg5Hjg6/jg7zjgafotbDjgovljLrplpPjgZTjgajjga7oqIjnlLvjgpLooajnpLrjgZnjgovvvIjmjqjlrprlgKTvvIkiKQogICAgcF9jb3Vyc2UuYWRkX2FyZ3VtZW50KCItLWdweCIsIHJlcXVpcmVkPVRydWUsIGhlbHA9IkdQWCDjg5XjgqHjgqTjg6vjga7jg5HjgrkiKQogICAgcF9jb3Vyc2UuYWRkX2FyZ3VtZW50KCItLXBvd2VyIiwgdHlwZT1mbG9hdCwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0i5bmz5Z2H44OR44Ov44O877yIV++8iSIpCiAgICBwX2NvdXJzZS5hZGRfYXJndW1lbnQoIi0td2VpZ2h0IiwgdHlwZT1mbG9hdCwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0i57eP6YeN6YeP77yIa2fjgIHkvZPph43vvIvmqZ/mnZDvvIkiKQogICAgcF9jb3Vyc2UuYWRkX2FyZ3VtZW50KCItLXNlZ21lbnQiLCB0eXBlPWZsb2F0LCBkZWZhdWx0PTEuMCwgaGVscD0i5Yy66ZaT5bmF77yIa23jgIHml6LlrpogMe+8iSIpCgogICAgcmV0dXJuIHBhcnNlcgoKCmRlZiBtYWluKGFyZ3Y9Tm9uZSk6CiAgICAiIiJDTEkg44Gu44Ko44Oz44OI44Oq44Od44Kk44Oz44OI44CC57WQ5p6c44KS5qiZ5rqW5Ye65Yqb44Gr5pu444GN44CB57WC5LqG44Kz44O844OJ44KS6L+U44GZ44CCCgogICAg5YWl5Yqb44Ko44Op44O85pmC44Gv5qiZ5rqW44Ko44Op44O844Gr44Oh44OD44K744O844K444KS5Ye644GX44CB57WC5LqG44Kz44O844OJIDIg44KS6L+U44GZ44CCCiAgICAiIiIKICAgIHBhcnNlciA9IF9idWlsZF9wYXJzZXIoKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKGFyZ3YpCiAgICB0cnk6CiAgICAgICAgaWYgYXJncy5jb21tYW5kID09ICJwYWNlIjoKICAgICAgICAgICAgcHJpbnQoIiVzIC9rbSIgJSBmb3JtYXRfcGFjZShzcGVlZF90b19wYWNlX3NlYyhhcmdzLnNwZWVkKSkpCiAgICAgICAgZWxpZiBhcmdzLmNvbW1hbmQgPT0gImZpbmlzaCI6CiAgICAgICAgICAgIHBhY2Vfc2VjID0gcGFyc2VfcGFjZShhcmdzLnBhY2UpCiAgICAgICAgICAgIHByaW50KGZvcm1hdF9obXMoZmluaXNoX3RpbWVfc2VjKGFyZ3MuZGlzdGFuY2UsIHBhY2Vfc2VjKSkpCiAgICAgICAgZWxpZiBhcmdzLmNvbW1hbmQgPT0gInNwbGl0cyI6CiAgICAgICAgICAgIGlmIGFyZ3MucGFjZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHJvd3MgPSBzcGxpdF90YWJsZShhcmdzLmRpc3RhbmNlLCBwYWNlX3NlYz1wYXJzZV9wYWNlKGFyZ3MucGFjZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2YWxfa209YXJncy5pbnRlcnZhbCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJvd3MgPSBzcGxpdF90YWJsZShhcmdzLmRpc3RhbmNlLCB0YXJnZXRfdGltZV9zZWM9cGFyc2VfdGltZShhcmdzLnRhcmdldCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2YWxfa209YXJncy5pbnRlcnZhbCkKICAgICAgICAgICAgX3ByaW50X3NwbGl0cyhyb3dzLCBhcmdzLmZvcm1hdCkKICAgICAgICBlbGlmIGFyZ3MuY29tbWFuZCA9PSAiY2xpbWIiOgogICAgICAgICAgICBwcmludChmb3JtYXRfaG1zKGNsaW1iX3RpbWVfc2VjKGFyZ3MuZGlzdGFuY2UsIGFyZ3MuZ2FpbiwgYXJncy53ZWlnaHQsIGFyZ3MucG93ZXIpKSkKICAgICAgICBlbGlmIGFyZ3MuY29tbWFuZCA9PSAiY291cnNlIjoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgd2l0aCBvcGVuKGFyZ3MuZ3B4LCBlbmNvZGluZz0idXRmLTgtc2lnIikgYXMgZjoKICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gZi5yZWFkKCkKICAgICAgICAgICAgZXhjZXB0IChPU0Vycm9yLCBVbmljb2RlRGVjb2RlRXJyb3IpIGFzIGV4YzoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkdQWCDjg5XjgqHjgqTjg6vjgpLoqq3jgoHjgb7jgZvjgpM6ICVzIiAlIGV4YykKICAgICAgICAgICAgcm93cywgdG90YWwgPSBwbGFuX2NvdXJzZShsb2FkX2dweF9wb2ludHModGV4dCksIGFyZ3MucG93ZXIsIGFyZ3Mud2VpZ2h0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZ21lbnRfa209YXJncy5zZWdtZW50KQogICAgICAgICAgICBfcHJpbnRfY291cnNlKHJvd3MsIHRvdGFsKQogICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZXhjOgogICAgICAgIHByaW50KCJwYWNlY2FsYzog44Ko44Op44O8OiAlcyIgJSBleGMsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByZXR1cm4gMgogICAgcmV0dXJuIDAK
+"""pacecalc のコマンドラインインターフェース。
+
+使い方:
+    python -m pacecalc pace --speed 12
+    python -m pacecalc finish --distance 42.195 --pace 5:30
+    python -m pacecalc splits --distance 10 --pace 5:00
+    python -m pacecalc splits --distance 10 --target 50:00 --interval 5 --format csv
+    python -m pacecalc climb --distance 24.03 --gain 1211 --weight 76 --power 226.6
+    python -m pacecalc course --gpx course.gpx --power 230 --weight 76
+"""
+
+import argparse
+import csv
+import sys
+import unicodedata
+
+from .climb import climb_time_sec
+from .core import format_hms, format_pace, speed_to_pace_sec
+from .course import load_gpx_points, plan_course
+from .predict import finish_time_sec
+from .splits import split_table
+
+
+def parse_pace(text):
+    """"M:SS" 形式のペース文字列を秒/km に変換する（例: "5:30" → 330）。
+
+    秒は 0〜59 の整数 2 桁、分は 0 以上の整数とする。形式不正は ValueError。
+    """
+    parts = text.strip().split(":")
+    if len(parts) != 2:
+        raise ValueError("ペースは M:SS 形式で指定してください: %r" % text)
+    minutes_str, seconds_str = parts
+    if not minutes_str.isdigit() or not seconds_str.isdigit() or len(seconds_str) != 2:
+        raise ValueError("ペースは M:SS 形式で指定してください: %r" % text)
+    minutes, seconds = int(minutes_str), int(seconds_str)
+    if seconds >= 60:
+        raise ValueError("ペースの秒は 00〜59 で指定してください: %r" % text)
+    return minutes * 60 + seconds
+
+
+def parse_time(text):
+    """"MM:SS" または "H:MM:SS" 形式のタイム文字列を秒に変換する（例: "50:00" → 3000）。
+
+    "MM:SS" の分は 0 以上の整数（桁数制限なし）、秒は 2 桁の 00〜59。
+    "H:MM:SS" の時は 0 以上の整数、分・秒は 2 桁の 00〜59。形式不正は ValueError。
+    """
+    parts = text.strip().split(":")
+    if len(parts) not in (2, 3) or not all(p.isdigit() for p in parts):
+        raise ValueError("タイムは MM:SS または H:MM:SS 形式で指定してください: %r" % text)
+    if len(parts[-1]) != 2 or int(parts[-1]) >= 60:
+        raise ValueError("タイムの秒は 00〜59 の 2 桁で指定してください: %r" % text)
+    if len(parts) == 3 and (len(parts[1]) != 2 or int(parts[1]) >= 60):
+        raise ValueError("タイムの分は 00〜59 の 2 桁で指定してください: %r" % text)
+    total = 0
+    for part in parts:
+        total = total * 60 + int(part)
+    return total
+
+
+def _format_km(value):
+    """距離（km）を表示用に整形する（小数第 4 位まで、末尾の 0 は省く。例: 1.0 → "1"）。"""
+    text = "%.4f" % value
+    return text.rstrip("0").rstrip(".")
+
+
+def _display_width(text):
+    """端末上の表示幅を返す（全角文字は 2 桁として数える）。"""
+    return sum(2 if unicodedata.east_asian_width(ch) in ("W", "F") else 1 for ch in text)
+
+
+def _rjust(text, width):
+    """表示幅を考慮して右揃えする。"""
+    return " " * (width - _display_width(text)) + text
+
+
+def _print_splits(rows, fmt):
+    """スプリット表を表形式または CSV で標準出力に書く。"""
+    if fmt == "csv":
+        writer = csv.writer(sys.stdout, lineterminator="\n")
+        writer.writerow(["distance_km", "lap", "elapsed"])
+        for point, lap, elapsed in rows:
+            writer.writerow([_format_km(point), format_pace(lap), format_hms(elapsed)])
+        return
+    table = [("距離(km)", "ラップ", "累計")]
+    table += [(_format_km(p), format_pace(lap), format_hms(el)) for p, lap, el in rows]
+    widths = [max(_display_width(row[i]) for row in table) for i in range(3)]
+    for row in table:
+        print("  ".join(_rjust(cell, width) for cell, width in zip(row, widths)))
+
+
+def _print_course(rows, total_sec):
+    """コース計画の区間表と総所要時間を標準出力に書く。"""
+    table = [("区間(km)", "勾配(%)", "速度(km/h)", "所要", "累計")]
+    elapsed = 0.0
+    for start, end, gradient, speed, time_sec in rows:
+        elapsed += time_sec
+        table.append((
+            "%s-%s" % (_format_km(start), _format_km(end)),
+            "%+.1f" % gradient,
+            "%.1f" % speed,
+            format_pace(time_sec),
+            format_hms(elapsed),
+        ))
+    widths = [max(_display_width(row[i]) for row in table) for i in range(len(table[0]))]
+    for row in table:
+        print("  ".join(_rjust(cell, width) for cell, width in zip(row, widths)))
+    print("総所要時間: %s" % format_hms(total_sec))
+
+
+def _build_parser():
+    parser = argparse.ArgumentParser(
+        prog="pacecalc",
+        description="ラン／サイクリング向けのペース計算ツール",
+    )
+    sub = parser.add_subparsers(dest="command", metavar="COMMAND")
+    sub.required = True
+
+    p_pace = sub.add_parser("pace", help="速度（km/h）からペース（/km）を表示する")
+    p_pace.add_argument("--speed", type=float, required=True, help="速度（km/h）")
+
+    p_finish = sub.add_parser("finish", help="距離とペースから完走タイムを表示する")
+    p_finish.add_argument("--distance", type=float, required=True, help="距離（km）")
+    p_finish.add_argument("--pace", required=True, help='ペース（"M:SS" 形式、例: 5:30）')
+
+    p_splits = sub.add_parser("splits", help="区間ごとの通過タイム表（スプリット表）を表示する")
+    p_splits.add_argument("--distance", type=float, required=True, help="距離（km）")
+    group = p_splits.add_mutually_exclusive_group(required=True)
+    group.add_argument("--pace", help='ペース（"M:SS" 形式、例: 5:00）')
+    group.add_argument("--target", help='目標タイム（"MM:SS" または "H:MM:SS" 形式、例: 50:00）')
+    p_splits.add_argument("--interval", type=float, default=1.0, help="区間幅（km、既定 1）")
+    p_splits.add_argument(
+        "--format", choices=("table", "csv"), default="table", help="出力形式（既定 table）"
+    )
+
+    p_climb = sub.add_parser("climb", help="一定パワーで登坂したときの予測タイムを表示する（推定値）")
+    p_climb.add_argument("--distance", type=float, required=True, help="距離（km）")
+    p_climb.add_argument("--gain", type=float, required=True, help="獲得標高（m）")
+    p_climb.add_argument("--weight", type=float, required=True, help="総重量（kg、体重＋機材）")
+    p_climb.add_argument("--power", type=float, required=True, help="平均パワー（W）")
+
+    p_course = sub.add_parser("course", help="GPX コースを一定パワーで走る区間ごとの計画を表示する（推定値）")
+    p_course.add_argument("--gpx", required=True, help="GPX ファイルのパス")
+    p_course.add_argument("--power", type=float, required=True, help="平均パワー（W）")
+    p_course.add_argument("--weight", type=float, required=True, help="総重量（kg、体重＋機材）")
+    p_course.add_argument("--segment", type=float, default=1.0, help="区間幅（km、既定 1）")
+
+    return parser
+
+
+def main(argv=None):
+    """CLI のエントリポイント。結果を標準出力に書き、終了コードを返す。
+
+    入力エラー時は標準エラーにメッセージを出し、終了コード 2 を返す。
+    """
+    parser = _build_parser()
+    args = parser.parse_args(argv)
+    try:
+        if args.command == "pace":
+            print("%s /km" % format_pace(speed_to_pace_sec(args.speed)))
+        elif args.command == "finish":
+            pace_sec = parse_pace(args.pace)
+            print(format_hms(finish_time_sec(args.distance, pace_sec)))
+        elif args.command == "splits":
+            if args.pace is not None:
+                rows = split_table(args.distance, pace_sec=parse_pace(args.pace),
+                                   interval_km=args.interval)
+            else:
+                rows = split_table(args.distance, target_time_sec=parse_time(args.target),
+                                   interval_km=args.interval)
+            _print_splits(rows, args.format)
+        elif args.command == "climb":
+            print(format_hms(climb_time_sec(args.distance, args.gain, args.weight, args.power)))
+        elif args.command == "course":
+            try:
+                with open(args.gpx, encoding="utf-8-sig") as f:
+                    text = f.read()
+            except (OSError, UnicodeDecodeError) as exc:
+                raise ValueError("GPX ファイルを読めません: %s" % exc)
+            rows, total = plan_course(load_gpx_points(text), args.power, args.weight,
+                                      segment_km=args.segment)
+            _print_course(rows, total)
+    except ValueError as exc:
+        print("pacecalc: エラー: %s" % exc, file=sys.stderr)
+        return 2
+    return 0
