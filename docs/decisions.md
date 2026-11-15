@@ -1,1 +1,111 @@
-IyDoqK3oqIjliKTmlq3jga7oqJjpjLIKCiMjIFQwMDE6IOS4uOOCgeOBqOiyoOWApOOBruaJseOBhAoKLSAqKuS4uOOCgeaWueW8jyoqOiDku5Xmp5jjga7jgIzlm5vmjajkupTlhaXjgI3jgavlvpPjgYTjgIFQeXRob24g57WE44G/6L6844G/44GuIGByb3VuZCgpYO+8iOWBtuaVsOS4uOOCge+8ieOBp+OBr+OBquOBjwogIGBmbG9vcih4ICsgMC41KWAg44Gr44KI44KL5Zub5o2o5LqU5YWl44KS5o6h55So44GX44Gf77yI5L6LOiAzMzAuNSDihpIgIjU6MzEi77yJ44CCCiAgYGZvcm1hdF9obXNgIOOCguWQjOOBmOOBj+enkuOCkuWbm+aNqOS6lOWFpeOBl+OBpuOBi+OCieaZguODu+WIhuODu+enkuOBq+WIhuino+OBmeOCi+OAggotICoqYGZvcm1hdF9wYWNlYCDjga7osqDlgKQqKjog5LuV5qeY44Gr5piO6KiY44Gv44Gq44GE44GM44CB6LKg44Gu44Oa44O844K544Gv5oSP5ZGz44KS5oyB44Gf44GaCiAgYCJNOlNTImAg6KGo6KiY44KC56C057a744GZ44KL44Gf44KB44CBYGZvcm1hdF9obXNgIOOBqOaPg+OBiOOBpiBgVmFsdWVFcnJvcmAg44Go44GX44Gf44CCMCDjga8gYCIwOjAwImAg44KS6L+U44GZ44CCCgojIyBUMDAyOiDlrozotbDjgr/jgqTjg6DkuojmuKzjgaggQ0xJCgotICoqYC0tcGFjZWAg44Gu5pu45byPKio6IOS7leanmOOBriAiTTpTUyIg44Gr5Y6z5a+G44Gr5b6T44GE44CB56eS44GvIDIg5qGB44GuIDAw44CcNTkg44Gu44G/5Y+X44GR5LuY44GR44KLCiAg77yIIjU6MyLjg7siNTo2MCLjg7vosqDlgKTjg7vlsI/mlbDjga8gYFZhbHVlRXJyb3Jg77yJ44CC5YiG44GvIDAg5Lul5LiK44Gu5pW05pWw44Gn5qGB5pWw5Yi26ZmQ44Gq44GX44CCCiAg6Kej5p6Q6Zai5pWw44GvIGBwYWNlY2FsYy5jbGkucGFyc2VfcGFjZWAg44Go44GX44Gm5YWs6ZaL44GX44Gm44GE44KL44CCCi0gKipDTEkg44Gu44Ko44Op44O85Yem55CGKio6IGBWYWx1ZUVycm9yYO+8iDAg5Lul5LiL44Gu5YCk44KE5pu45byP5LiN5q2j77yJ44Gv44OI44Os44O844K544OQ44OD44Kv44KS5Ye644GV44Ga44CBCiAg5qiZ5rqW44Ko44Op44O844GrIGBwYWNlY2FsYzog44Ko44Op44O8OiAuLi5gIOOCkuWHuuOBl+OBpue1guS6huOCs+ODvOODiSAyIOOCkui/lOOBmeOAgmFyZ3BhcnNlIOOBruW8leaVsOOCqOODqeODvOOBqOWQjOOBmAogIOe1guS6huOCs+ODvOODieOBq+aPg+OBiOOBn+OAgmBtYWluKGFyZ3YpYCDjga/ntYLkuobjgrPjg7zjg4njgpLov5TjgZfjgIFgX19tYWluX18ucHlgIOOBjCBgc3lzLmV4aXRgIOOBmeOCi+OAggotICoqYHJpZWdlbF9wcmVkaWN0X3NlY2Ag44GuIGV4cG9uZW50Kio6IOS7leanmOOBruOAjOS4jeato+OBquWFpeWKm++8iDDku6XkuIvvvInjgI3jgasgZXhwb25lbnQg44KC5ZCr44KB44CBCiAgMCDku6XkuIvjgarjgokgYFZhbHVlRXJyb3JgIOOBqOOBl+OBn+OAggotICoq5YWs6ZaLIEFQSSDjga7ov73liqAqKjogYGZpbmlzaF90aW1lX3NlY2Ag44GoIGByaWVnZWxfcHJlZGljdF9zZWNgIOOCkiBgcGFjZWNhbGNgIOODkeODg+OCseODvOOCuOebtOS4i+OBi+OCieOCggogIGltcG9ydCDjgafjgY3jgovjgojjgYYgYF9faW5pdF9fLnB5YCDjgavov73liqDjgZfjgZ/vvIjml6LlrZggQVBJIOOBr+WkieabtOOBquOBl++8ieOAggoKIyMgVDAwMzogR2l0SHViIEFjdGlvbnMgQ0kKCi0gKirjg6/jg7zjgq/jg5Xjg63jg7zmpJzmn7vjg4bjgrnjg4jjga7ov73liqAqKjog5LuV5qeY44Gv44CM44Ov44O844Kv44OV44Ot44O844GoIFJFQURNRSDjga7jgb/jgI3jga7lpInmm7TjgaDjgYzjgIHlt6XloLTjg6vjg7zjg6vjga4KICDjgIzlpInmm7Tjgavjga/lv4XjgZrjg4bjgrnjg4jjgpLov73liqDjgI3jgavlvpPjgYTjgIFgdGVzdHMvdGVzdF9jaV93b3JrZmxvdy5weWAg44KS6L+95Yqg44GX44Gf77yI6KO95ZOB44Kz44O844OJ44Gv54Sh5aSJ5pu077yJ44CCCiAg5qiZ5rqW44Op44Kk44OW44Op44Oq44Gu44G/44Gu5Yi257SE44GnIFlBTUwg44OR44O844K144GM5L2/44GI44Gq44GE44Gf44KB44CB5b+F6aCI44Kt44O877yI44OI44Oq44Ks44O844O744Op44Oz44OK44O844O7UHl0aG9uCiAg44OQ44O844K444On44Oz44O744OG44K544OI44Kz44Oe44Oz44OJ77yJ44GM5pyf5b6F44Gp44GK44KK44Gu44Kk44Oz44OH44Oz44OI44Gn5pu444GL44KM44Gm44GE44KL44GT44Go44CB44K/44OW44KS5ZCr44G+44Gq44GE44GT44Go44KSCiAg6KGM5Y2Y5L2N44Gn56K66KqN44GX44Gm44GE44KL44CCCi0gKirjgqLjgq/jgrfjg6fjg7Pjga7jg5Djg7zjgrjjg6fjg7MqKjogYGFjdGlvbnMvY2hlY2tvdXRAdjRg44CBYGFjdGlvbnMvc2V0dXAtcHl0aG9uQHY1YCDjgpLkvb/nlKjjgZfjgZ/jgIIKCiMjIFQwMDQ6IOOCueODl+ODquODg+ODiOihqAoKLSAqKuODmuODvOOCueODu+ebruaomeOCv+OCpOODoOOBruaknOiovCoqOiDku5Xmp5jjga7jgIwwIOS7peS4i+OBquOCiSBWYWx1ZUVycm9y44CN44GvIGRpc3RhbmNlX2ttIC8gaW50ZXJ2YWxfa20g44Gu44G/44Gg44GM44CBCiAg5pei5a2Y6Zai5pWw44Go5o+D44GI44GmIGBwYWNlX3NlY2AgLyBgdGFyZ2V0X3RpbWVfc2VjYCDjgoIgMCDku6XkuIvjgarjgokgYFZhbHVlRXJyb3JgIOOBqOOBl+OBn+OAggotICoq5rWu5YuV5bCP5pWw54K56Kqk5beu44Gu5omx44GEKio6IOmAmumBjueCueOBr+iqpOW3ruOBrue0r+epjeOCkumBv+OBkeOCi+OBn+OCgSBgaSAqIGludGVydmFsX2ttYCDjgafmsYLjgoHjgovjgIIKICBgMC4zIC8gMC4xYCDjga7jgojjgYbjgaroqqTlt67jgafmpbXlsI/jga7nq6/mlbDljLrplpPjgYzlh7rjgarjgYTjgojjgYbjgIExZS05IGttIOacqua6gOOBruW3ruOBr+WJsuOCiuWIh+OCjOOBn+OCguOBruOBqOOBv+OBquOBmeOAggogIOacgOW+jOOBrumAmumBjueCueOBr+W4uOOBqyBgZGlzdGFuY2Vfa21gIOOBneOBruOCguOBruOBruWApOOCkuS9v+OBhuOAggotICoqYC0tdGFyZ2V0YCDjga7mm7jlvI8qKjogIk1NOlNTIiDjga7liIbjga/moYHmlbDliLbpmZDjgarjgZfvvIjkvos6ICIxMjU6MDAi77yJ44CB56eS44GvIDIg5qGB44GuIDAw44CcNTnjgIIKICAiSDpNTTpTUyIg44Gu5YiG44O756eS44GvIDIg5qGB44GuIDAw44CcNTnjgILop6PmnpDplqLmlbDjga8gYHBhY2VjYWxjLmNsaS5wYXJzZV90aW1lYCDjgajjgZfjgablhazplovjgZfjgZ/jgIIKLSAqKmAtLXBhY2VgIOOBqCBgLS10YXJnZXRgKio6IGFyZ3BhcnNlIOOBruaOkuS7luOCsOODq+ODvOODl++8iOW/hemgiO+8ieOBp+Wun+ijheOBl+OBn+OAguWQjOaZguaMh+WumuODu+OBqeOBoeOCieOCguOBquOBl+OBrwogIGFyZ3BhcnNlIOOBruOCqOODqeODvOOBqOOBl+OBpue1guS6huOCs+ODvOODiSAyIOOBq+OBquOCi+OAggotICoq6KGo56S65b2i5byPKio6IOi3nembouOBr+Wwj+aVsOesrCA0IOS9jeOBvuOBp+WHuuOBl+acq+WwvuOBriAwIOOCkuecgeOBj++8iOS+izogIjEwIuOAgSIyMS4wOTc1Iu+8ieOAguODqeODg+ODl+OBryBgZm9ybWF0X3BhY2VgCiAg44Gr44KI44KLICJNOlNTIu+8iDEg5pmC6ZaT5Lul5LiK44GvICI2NTowMCIg44Gu44KI44GG44Gr5YiG44Gn6KGo44GZ77yJ44CB57Sv6KiI44GvIGBmb3JtYXRfaG1zYCDjgavjgojjgosgIkg6TU06U1Mi44CCCiAg44Op44OD44OX44O757Sv6KiI44Gv44Gd44KM44Ge44KM54us56uL44Gr5Zub5o2o5LqU5YWl44GZ44KL44Gf44KB44CB6KGo56S65LiK44Gu44Op44OD44OX5ZCI6KiI44Go57Sv6KiI44GMIDEg56eS44Ga44KM44KL44GT44Go44GM44GC44KLCiAg77yI57Sv6KiI44Gv5Li444KB5YmN44Gu5YCk44GL44KJ6KiI566X44GX44Gm44GK44KK44CB5pyA57WC6KGM44Gu57Sv6KiI44Gv55uu5qiZ44K/44Kk44Og44Go5LiA6Ie044GZ44KL77yJ44CCCiAg6KGo5b2i5byP44Gv5YWo6KeS5paH5a2X44Gu6KGo56S65bmF44KS6ICD5oWu44GX44Gm5Y+z5o+D44GI44GZ44KL44CCCi0gKipDU1YqKjog6KaL5Ye644GX44Gv5qmf5qKw5Yem55CG44GX44KE44GZ44GE6Iux6Kqe77yIYGRpc3RhbmNlX2ttLGxhcCxlbGFwc2VkYO+8ieOBqOOBl+OAgeWApOOBr+ihqOW9ouW8j+OBqOWQjOOBmOabuOW8j+OBruaWh+Wtl+WIl+OBqOOBl+OBn+OAggotICoq5YWs6ZaLIEFQSSDjga7ov73liqAqKjogYHNwbGl0X3RhYmxlYCDjgpIgYHBhY2VjYWxjYCDjg5Hjg4PjgrHjg7zjgrjnm7TkuIvjgYvjgokgaW1wb3J0IOOBp+OBjeOCi+OCiOOBhuOBq+OBl+OBn+OAggoKIyMgVDAwNTog44OS44Or44Kv44Op44Kk44Og54mp55CG44Oi44OH44OrCgotICoqzrgg44Gu5rGC44KB5pa5Kio6IOS7leanmOOBruOAjOW5s+Wdh+WLvumFje+8iGdhaW4vZGlzdGFuY2XvvInjgI3jgavlvpPjgYTjgIFgzrggPSBhdGFuKGdhaW4gLyBkaXN0YW5jZSlgIOOBqOOBl+OBnwogIO+8iGRpc3RhbmNlIOOBr+mBk+OBruOCiuOBqOOBl+OBpuaJseOBhOOAgeaJgOimgeaZgumWk+OBryBgZGlzdGFuY2UgLyB2YO+8ieOAgumHjeWKm+WKoOmAn+W6puOBryA5LjgwNjY1IG0vc8KyIOOCkuS9v+OBhuOAggotICoq5YWl5Yqb5qSc6Ki844Gu6L+95YqgKio6IOS7leanmOOBriBWYWx1ZUVycm9yIOadoeS7tu+8iOi3nembouODu+ODkeODr+ODvOODu+mHjemHj+ODu+ebruaomeOCv+OCpOODoOOBjCAwIOS7peS4i++8ieOBq+WKoOOBiOOAgQogIOeNsuW+l+aomemrmOOBjOiyoOOAgWBjZGFgIC8gYGNycmAgLyBgYWlyX2RlbnNpdHlgIOOBjOiyoOOAgWBkcml2ZXRyYWluX2VmZmljaWVuY3lgIOOBjCAoMCwgMV0g44Gu56+E5Zuy5aSW44KCCiAgYFZhbHVlRXJyb3JgIOOBqOOBl+OBn+OAguS4i+OCiuOCkuWQq+OCgOiyoOOBrueNsuW+l+aomemrmOOBr+ODouODh+ODq+OBruWJjeaPkO+8iOeZu+Wdgu+8ieWkluOBruOBn+OCgeWPl+OBkeS7mOOBkeOBquOBhOOAggogIGBjZGFgIOOBqCBgY3JyYCDjgYzjgajjgoLjgasgMCDjga7lubPlnabjgarjganjgIHpgJ/luqbjgYzmnInpmZDjgavlrprjgb7jgonjgarjgYTloLTlkIjjgoIgYFZhbHVlRXJyb3JgIOOBqOOBmeOCi+OAggotICoq6Kej5rOVKio6IGBjbGltYl90aW1lX3NlY2Ag44Gv5oq15oqX44OR44Ov44O844GM6YCf5bqm44Gr44Gk44GE44Gm5Y2Y6Kq/5aKX5Yqg44Gn44GC44KL44GT44Go44KS5Yip55So44GX44CB5LiK6ZmQ44KS5YCN44CF44GrCiAg5bqD44GS44Gm44GL44KJ5LqM5YiG5rOV44Gn6Kej44GP44CCYHJlcXVpcmVkX3Bvd2VyX3dgIOOBr+mAn+W6puOBjOaXouefpeOBq+OBquOCi+OBn+OCgemWieOBmOOBn+W8j+OBp+ioiOeul+OBmeOCi+OAggotICoqQ0xJKio6IGBjbGltYmAg44K144OW44Kz44Oe44Oz44OJ44GvIENkQSDjgarjganjga7ku7vmhI/jg5Hjg6njg6Hjg7zjgr/jgpLlhazplovjgZvjgZrjgIHml6LlrprlgKTjgafoqIjnrpfjgZnjgovvvIjku5Xmp5jjga7lvJXmlbDjga7jgb/vvInjgIIKLSAqKuWFrOmWiyBBUEkg44Gu6L+95YqgKio6IGBjbGltYl90aW1lX3NlY2Ag44GoIGByZXF1aXJlZF9wb3dlcl93YCDjgpIgYHBhY2VjYWxjYCDjg5Hjg4PjgrHjg7zjgrjnm7TkuIvjgYvjgokgaW1wb3J0IOOBp+OBjeOCi+OCiOOBhuOBq+OBl+OBn+OAggoKIyMgVDAwNjogR1BY44Kz44O844K55a++5b+cCgotICoqcGxhbl9jb3Vyc2Ug44Gu5oi744KK5YCkKio6IOS7leanmOOBruOAjOWQhOWMuumWkyDigKYg44Go57Sv6KiI5pmC6ZaT44CN44KSIGAocm93cywgdG90YWxfdGltZV9zZWMpYCDjga7jgr/jg5fjg6vjgajjgZfjgZ/jgIIKICBgcm93c2Ag44Gv5LuV5qeY44Gp44GK44KKIDUg6KaB57SgIGAoc3RhcnRfa20sIGVuZF9rbSwgZ3JhZGllbnRfcGN0LCBzcGVlZF9rbWgsIHRpbWVfc2VjKWAg44Gu44Oq44K544OI44CCCiAg5Yy66ZaT44GU44Go44Gu57Sv6KiI44GvIENMSSDlgbTjgacgYHRpbWVfc2VjYCDjgpLotrPjgZfjgabooajnpLrjgZnjgovjgIIKLSAqKueJqeeQhuODkeODqeODoeODvOOCv+OBruWPl+OBkeaWuSoqOiDku5Xmp5jjga4gYCoqcGh5c2ljc2Ag44Gv44CBYGNsaW1iX3RpbWVfc2VjYCDjgajlkIzjgZjlkI3liY3jg7vml6LlrprlgKTjga7jgq3jg7zjg6/jg7zjg4nlvJXmlbAKICDvvIhgY2RhYCAvIGBjcnJgIC8gYGFpcl9kZW5zaXR5YCAvIGBkcml2ZXRyYWluX2VmZmljaWVuY3lg77yJ44Go44GX44Gm5piO56S644GX44Gf44CC5ZG844Gz5Ye644GX5pa544Gv5ZCM44GY44Gn44CBCiAg5pyq55+l44Gu44Kt44O844Ov44O844OJ44GvIGBUeXBlRXJyb3JgIOOBq+OBquOCiuaJk+OBoemWk+mBleOBhOOBq+awl+OBpeOBkeOCi+OAguaknOiovOadoeS7tuOCgiBjbGltYiDjgajmj4PjgYjjgZ/jgIIKLSAqKuS4i+OCiuOBruino+azlSoqOiBgY2xpbWIuX2NoZWNrX3BhcmFtc2Ag44Gv6LKg44Gu542y5b6X5qiZ6auY44KS5ouS5ZCm44GZ44KL44Gf44KB5rWB55So44Gb44Ga44CBYGNsaW1iLl9yZXNpc3RhbmNlX3Bvd2VyYAogIOOCkuS9v+OBo+OBpuiyoOOBruWLvumFjeOCguino+OBj+OAguaKteaKl+ODkeODr+ODvOOBr+S4i+OCiuOBp+OBr+Wwj+OBleOBhCB2IOOBp+iyoOOBq+OBquOCi+OBjOOAgeato+OBruagueOBr+OBn+OBoCAxIOOBpOOBquOBruOBpwogIFswLCDkuIrpmZDpgJ/luqZdIOOBruS6jOWIhuazleOBp+ino+OBkeOCi+OAguS4iumZkOmAn+W6puOBp+aKteaKl+ODkeODr+ODvOOBjOWFpeWKm+OBq+WxiuOBi+OBquOBkeOCjOOBsOS4iumZkOmAn+W6puOCkui/lOOBmeOAggotICoq5Yu+6YWN44Gu5a6a576pKio6IOWMuumWk+OBruWLvumFjeOBryAoZ2FpbiDiiJIgbG9zcykgLyDljLrplpPot53pm6Ig44Go44GX44Gf77yI5qiZ6auYIE5vbmUg44Gu6YOo5YiG44KS6Ieq54S244Gr6Zmk5aSW44Gn44GN44KL44Gf44KB77yJ44CCCiAg5qiZ6auY44GM5o+D44Gj44Gm44GE44KM44Gw5Yy66ZaT44Gu5aeL54K544O757WC54K544Gu5qiZ6auY5beuIC8g6Led6Zui44Go5ZCM44GY44CCCi0gKipHUFgg44Gu6Kqt44G/5pa5Kio6IGB0cmtwdGAg44KS5YSq5YWI44GX44CB44Gq44GR44KM44GwIGBydGVwdGAg44KS6Kqt44KA44CCYHdwdGAg44Gv6aCG5bqP44GM57WM6Lev44KS6KGo44GZ44Go44Gv6ZmQ44KJ44Gq44GE44Gf44KB5L2/44KP44Gq44GE44CCCiAg6KSH5pWw44GuIHRyayAvIHRya3NlZyDjga/mlofmm7jpoIbjgavpgKPntZDjgZfjgIHjgrvjgrDjg6Hjg7Pjg4jplpPjga7ot53pm6LjgoLnm7Tnt5rot53pm6LjgajjgZfjgabliqDjgYjjgovjgIIKICBYTUwg5LiN5q2j44O7bGF0L2xvbiDmrKDokL3jgoTnr4Tlm7LlpJbjg7tlbGUg44GM5pWw5YCk44Gn44Gq44GE5aC05ZCI44GvIGBWYWx1ZUVycm9yYOOAggotICoqQ0xJKio6IOS7leanmOOBruW8leaVsOOBq+WKoOOBiOOAgeWMuumWk+W5hSBgLS1zZWdtZW50YO+8iGtt44CB5pei5a6aIDHvvInjgpLku7vmhI/lvJXmlbDjgajjgZfjgabov73liqDjgZfjgZ/vvIhzcGxpdHMg44GuIGAtLWludGVydmFsYAogIOOBq+ebuOW9k++8ieOAguaJgOimgeOBryBgZm9ybWF0X3BhY2Vg77yIIk06U1Mi77yJ44CB57Sv6KiI44Go57eP5omA6KaB5pmC6ZaT44GvIGBmb3JtYXRfaG1zYO+8iCJIOk1NOlNTIu+8ieOBp+ihqOekuuOBmeOCi+OAggogIEdQWCDjg5XjgqHjgqTjg6vjga8gVVRGLTjvvIhCT00g5Y+v77yJ44Go44GX44Gm6Kqt44G/44CB6Kqt44KB44Gq44GE5aC05ZCI44Gv44Ko44Op44O857WC5LqG77yI57WC5LqG44Kz44O844OJIDLvvInjgajjgZnjgovjgIIKLSAqKuWFrOmWiyBBUEkg44Gu6L+95YqgKio6IGBsb2FkX2dweF9wb2ludHNgIC8gYGhhdmVyc2luZV9tYCAvIGBjb3Vyc2Vfc2VnbWVudHNgIC8gYHBsYW5fY291cnNlYCDjgpIKICBgcGFjZWNhbGNgIOODkeODg+OCseODvOOCuOebtOS4i+OBi+OCiSBpbXBvcnQg44Gn44GN44KL44KI44GG44Gr44GX44Gf44CCCgojIyBUMDA2Ujog56m644Gu5pyA57WC5Yy66ZaT44Gu5L+u5q2jCgotICoq5b6u5bCP44Gq56uv5pWw44Gv55u05YmN44Gu5Yy66ZaT44Gr5ZC45Y+O44GZ44KL77yI5YiH44KK5o2o44Gm44Gq44GE77yJKio6IOe3j+i3nembouOBruacq+WwviBgbWluKDEgbSwg5Yy66ZaT5bmFIMOXIDElKWAg5pyq5rqA44Gu5q6L44KK44GvCiAg54us56uL44GX44Gf5Yy66ZaT44Gr44Gb44Ga44CB5pyA57WC5Yy66ZaT44KS57eP6Led6Zui44G+44Gn5Ly444Gw44GZ44CC5YiH44KK5o2o44Gm44KL44Go57eP6Led6Zui44Go57eP5omA6KaB5pmC6ZaT44GM44KP44Ga44GL44Gr5rib44KL44Gf44KB44CB5ZC45Y+O44KS6YG444KT44Gg44CCCi0gKirjgZfjgY3jgYTlgKTjgpIgMSBtIOOBqOOBl+OBn+eQhueUsSoqOiDkuI3lhbflkIjjga/mta7li5XlsI/mlbDjga7oqqTlt67vvIgxZS0xMiBrbSDnqIvluqbvvInjgaDjgZHjgafjgarjgY/jgIFHUFgg44Gu5bqn5qiZ44Gu5Li444KBCiAg77yI5bCP5pWwIDYg5qGBIOKJkiAwLjEgbe+8ieOBp+OCgui1t+OBjeOCi+OAguWun+mam+OBqyAzIGttIOOBruOCs+ODvOOCueOCkuWwj+aVsCA2IOahgeOBp+abuOOBj+OBqOe3j+i3nembouOBjCAzLjAwMDA0IGttIOOBq+OBquOCiuOAgQogIOW+k+adpeOBruOBl+OBjeOBhOWApCAxZS05IGttIOOBp+OBryAiMy0zIiDjga7ljLrplpPjgYzlh7rjgZ/jgIIxIG0g5pyq5rqA44Gu5Yy66ZaT44Gv44Oa44O844K56YWN5YiG44Go44GX44Gm5oSP5ZGz44GM44Gq44GP44CBQ0xJIOOBrui3nembouihqOekugogIO+8iOWwj+aVsOesrCA0IOS9jSA9IDAuMSBt77yJ44Gn44KC5aeL54K544Go57WC54K544GM44G744G85ZCM44GY44Gr6KaL44GI44KL44Gf44KB44CB44G+44Go44KB44Gm5ZC45Y+O44GZ44KL44CC5Yy66ZaT5bmF44GM5qW156uv44Gr5bCP44GV44GECiAg77yIMC4xIGttIOacqua6gO+8ieWgtOWQiOOBq+WMuumWk+OCkumjsuOBv+i+vOOBv+OBmeOBjuOBquOBhOOCiOOBhuOAgeWMuumWk+W5heOBriAxJSDjgpLkuIrpmZDjgavjgZfjgZ/jgIIKLSAxIG0g5Lul5LiK44Gu56uv5pWw44Gv5b6T5p2l44Gp44GK44KK55+t44GE5Yy66ZaT44Go44GX44Gm5Ye644GZ77yI5pei5a2Y5LuV5qeY44Gv5aSJ44GI44Gq44GE77yJ44CCCgojIyBUMDA3OiDjg5Hjg4PjgrHjg7zjgrjjg7PjgrDvvIh2MS4wLjDvvIkKCi0gKirjg5Hjg4PjgrHjg7zjgrjmjIflrpoqKjogc2V0dXB0b29scyDjga7oh6rli5XmpJzlh7rjga/jg5Xjg6njg4Pjg4jjg6zjgqTjgqLjgqbjg4jjgacgYGRvY3NgIC8gYHRlc3RzYCDjgpLmi77jgYbmgZDjgozjgYzjgYLjgovjgZ/jgoHjgIEKICBgW3Rvb2wuc2V0dXB0b29sc10gcGFja2FnZXMgPSBbInBhY2VjYWxjIl1gIOOBp+aYjuekuuOBl+OBn+OAguS+neWtmOOBryBgZGVwZW5kZW5jaWVzID0gW11g77yI5qiZ5rqW44Op44Kk44OW44Op44Oq44Gu44G/77yJ44CCCi0gKipsb25nX2Rlc2NyaXB0aW9uKio6IGByZWFkbWUgPSAiUkVBRE1FLm1kImAg44Go44GX44CB5b2i5byP44Gv5ouh5by15a2Q44GL44KJIGB0ZXh0L21hcmtkb3duYCDjgavjgarjgovjgIIKICBkZXNjcmlwdGlvbiDjga/oi7Hoqp4gMSDooYzjgILjg6njgqTjgrvjg7Pjgrnjga/ku5Xmp5jjgavjgarjgYTjgZ/jgoHmjIflrprjgZfjgabjgYTjgarjgYTvvIjlhazplovliY3jgavmsbrjgoHjgovlv4XopoHjgYzjgYLjgovvvInjgIIKLSAqKuWei+ODkuODs+ODiCoqOiByZXF1aXJlcy1weXRob24g44GMIDMuMTAg5Lul5LiK44Gu44Gf44KB44CB57WE44G/6L6844G/44K444Kn44ON44Oq44Kv44K577yIYGxpc3RbLi4uXWAgLyBgdHVwbGVbLi4uXWDvvInjgpLkvb/jgaPjgZ/jgIIKICBgTm9uZWAg44KS5Y+W44KL5byV5pWw44GvIGBPcHRpb25hbFtmbG9hdF1gIOOBqOOBl+OBn+OAgkdQWCDjga7ngrnjg7vljLrplpPjg7voqIjnlLvooYzjga7jgr/jg5fjg6vlnovjga8gYHBhY2VjYWxjLmNvdXJzZWAg44GrCiAg5Yil5ZCNIGBQb2ludGAgLyBgU2VnbWVudGAgLyBgUGxhblJvd2Ag44Go44GX44Gm5a6a576p44GX44Gf77yIYF9fYWxsX19gIOOBq+OBr+WKoOOBiOOBpuOBhOOBquOBhO+8ieOAguaVsOWApOW8leaVsOOBryBgZmxvYXRgCiAg77yIUEVQIDQ4NCDjgavjgojjgoogYGludGAg44KC5Y+X44GR5LuY44GR44KL77yJ44CC5oyZ5YuV44Gv5aSJ44GI44Gm44GE44Gq44GE44CCCi0gKirjg4bjgrnjg4gqKjogYHRlc3RzL3Rlc3RfcGFja2FnaW5nLnB5YCDjgpLov73liqDjgIJweXByb2plY3QudG9tbCDjga7mpJzmn7vjga/mqJnmupbjg6njgqTjg5bjg6njg6rjga4gYHRvbWxsaWJgCiAg77yIMy4xMSDku6XkuIrvvInjgpLkvb/jgYTjgIEzLjEwIOOBp+OBryBza2lwIOOBmeOCi+OAggotICoq44OT44Or44OJ5oiQ5p6c54mpKio6IGBwaXAgaW5zdGFsbCAuYCDjgafkvZzjgonjgozjgosgYGJ1aWxkL2Djg7tgKi5lZ2ctaW5mby9g44O7YGRpc3QvYCDjgpIgYC5naXRpZ25vcmVgIOOBq+i/veWKoOOBl+OBnwogIO+8iOaknOiovOeUqOOBriBgLnZlbnYvYCDjga/ml6LjgavpmaTlpJbmuIjjgb/vvInjgIIK
+# 設計判断の記録
+
+## T001: 丸めと負値の扱い
+
+- **丸め方式**: 仕様の「四捨五入」に従い、Python 組み込みの `round()`（偶数丸め）ではなく
+  `floor(x + 0.5)` による四捨五入を採用した（例: 330.5 → "5:31"）。
+  `format_hms` も同じく秒を四捨五入してから時・分・秒に分解する。
+- **`format_pace` の負値**: 仕様に明記はないが、負のペースは意味を持たず
+  `"M:SS"` 表記も破綻するため、`format_hms` と揃えて `ValueError` とした。0 は `"0:00"` を返す。
+
+## T002: 完走タイム予測と CLI
+
+- **`--pace` の書式**: 仕様の "M:SS" に厳密に従い、秒は 2 桁の 00〜59 のみ受け付ける
+  （"5:3"・"5:60"・負値・小数は `ValueError`）。分は 0 以上の整数で桁数制限なし。
+  解析関数は `pacecalc.cli.parse_pace` として公開している。
+- **CLI のエラー処理**: `ValueError`（0 以下の値や書式不正）はトレースバックを出さず、
+  標準エラーに `pacecalc: エラー: ...` を出して終了コード 2 を返す。argparse の引数エラーと同じ
+  終了コードに揃えた。`main(argv)` は終了コードを返し、`__main__.py` が `sys.exit` する。
+- **`riegel_predict_sec` の exponent**: 仕様の「不正な入力（0以下）」に exponent も含め、
+  0 以下なら `ValueError` とした。
+- **公開 API の追加**: `finish_time_sec` と `riegel_predict_sec` を `pacecalc` パッケージ直下からも
+  import できるよう `__init__.py` に追加した（既存 API は変更なし）。
+
+## T003: GitHub Actions CI
+
+- **ワークフロー検査テストの追加**: 仕様は「ワークフローと README のみ」の変更だが、工場ルールの
+  「変更には必ずテストを追加」に従い、`tests/test_ci_workflow.py` を追加した（製品コードは無変更）。
+  標準ライブラリのみの制約で YAML パーサが使えないため、必須キー（トリガー・ランナー・Python
+  バージョン・テストコマンド）が期待どおりのインデントで書かれていること、タブを含まないことを
+  行単位で確認している。
+- **アクションのバージョン**: `actions/checkout@v4`、`actions/setup-python@v5` を使用した。
+
+## T004: スプリット表
+
+- **ペース・目標タイムの検証**: 仕様の「0 以下なら ValueError」は distance_km / interval_km のみだが、
+  既存関数と揃えて `pace_sec` / `target_time_sec` も 0 以下なら `ValueError` とした。
+- **浮動小数点誤差の扱い**: 通過点は誤差の累積を避けるため `i * interval_km` で求める。
+  `0.3 / 0.1` のような誤差で極小の端数区間が出ないよう、1e-9 km 未満の差は割り切れたものとみなす。
+  最後の通過点は常に `distance_km` そのものの値を使う。
+- **`--target` の書式**: "MM:SS" の分は桁数制限なし（例: "125:00"）、秒は 2 桁の 00〜59。
+  "H:MM:SS" の分・秒は 2 桁の 00〜59。解析関数は `pacecalc.cli.parse_time` として公開した。
+- **`--pace` と `--target`**: argparse の排他グループ（必須）で実装した。同時指定・どちらもなしは
+  argparse のエラーとして終了コード 2 になる。
+- **表示形式**: 距離は小数第 4 位まで出し末尾の 0 を省く（例: "10"、"21.0975"）。ラップは `format_pace`
+  による "M:SS"（1 時間以上は "65:00" のように分で表す）、累計は `format_hms` による "H:MM:SS"。
+  ラップ・累計はそれぞれ独立に四捨五入するため、表示上のラップ合計と累計が 1 秒ずれることがある
+  （累計は丸め前の値から計算しており、最終行の累計は目標タイムと一致する）。
+  表形式は全角文字の表示幅を考慮して右揃えする。
+- **CSV**: 見出しは機械処理しやすい英語（`distance_km,lap,elapsed`）とし、値は表形式と同じ書式の文字列とした。
+- **公開 API の追加**: `split_table` を `pacecalc` パッケージ直下から import できるようにした。
+
+## T005: ヒルクライム物理モデル
+
+- **θ の求め方**: 仕様の「平均勾配（gain/distance）」に従い、`θ = atan(gain / distance)` とした
+  （distance は道のりとして扱い、所要時間は `distance / v`）。重力加速度は 9.80665 m/s² を使う。
+- **入力検証の追加**: 仕様の ValueError 条件（距離・パワー・重量・目標タイムが 0 以下）に加え、
+  獲得標高が負、`cda` / `crr` / `air_density` が負、`drivetrain_efficiency` が (0, 1] の範囲外も
+  `ValueError` とした。下りを含む負の獲得標高はモデルの前提（登坂）外のため受け付けない。
+  `cda` と `crr` がともに 0 の平坦など、速度が有限に定まらない場合も `ValueError` とする。
+- **解法**: `climb_time_sec` は抵抗パワーが速度について単調増加であることを利用し、上限を倍々に
+  広げてから二分法で解く。`required_power_w` は速度が既知になるため閉じた式で計算する。
+- **CLI**: `climb` サブコマンドは CdA などの任意パラメータを公開せず、既定値で計算する（仕様の引数のみ）。
+- **公開 API の追加**: `climb_time_sec` と `required_power_w` を `pacecalc` パッケージ直下から import できるようにした。
+
+## T006: GPXコース対応
+
+- **plan_course の戻り値**: 仕様の「各区間 … と累計時間」を `(rows, total_time_sec)` のタプルとした。
+  `rows` は仕様どおり 5 要素 `(start_km, end_km, gradient_pct, speed_kmh, time_sec)` のリスト。
+  区間ごとの累計は CLI 側で `time_sec` を足して表示する。
+- **物理パラメータの受け方**: 仕様の `**physics` は、`climb_time_sec` と同じ名前・既定値のキーワード引数
+  （`cda` / `crr` / `air_density` / `drivetrain_efficiency`）として明示した。呼び出し方は同じで、
+  未知のキーワードは `TypeError` になり打ち間違いに気づける。検証条件も climb と揃えた。
+- **下りの解法**: `climb._check_params` は負の獲得標高を拒否するため流用せず、`climb._resistance_power`
+  を使って負の勾配も解く。抵抗パワーは下りでは小さい v で負になるが、正の根はただ 1 つなので
+  [0, 上限速度] の二分法で解ける。上限速度で抵抗パワーが入力に届かなければ上限速度を返す。
+- **勾配の定義**: 区間の勾配は (gain − loss) / 区間距離 とした（標高 None の部分を自然に除外できるため）。
+  標高が揃っていれば区間の始点・終点の標高差 / 距離と同じ。
+- **GPX の読み方**: `trkpt` を優先し、なければ `rtept` を読む。`wpt` は順序が経路を表すとは限らないため使わない。
+  複数の trk / trkseg は文書順に連結し、セグメント間の距離も直線距離として加える。
+  XML 不正・lat/lon 欠落や範囲外・ele が数値でない場合は `ValueError`。
+- **CLI**: 仕様の引数に加え、区間幅 `--segment`（km、既定 1）を任意引数として追加した（splits の `--interval`
+  に相当）。所要は `format_pace`（"M:SS"）、累計と総所要時間は `format_hms`（"H:MM:SS"）で表示する。
+  GPX ファイルは UTF-8（BOM 可）として読み、読めない場合はエラー終了（終了コード 2）とする。
+- **公開 API の追加**: `load_gpx_points` / `haversine_m` / `course_segments` / `plan_course` を
+  `pacecalc` パッケージ直下から import できるようにした。
+
+## T006R: 空の最終区間の修正
+
+- **微小な端数は直前の区間に吸収する（切り捨てない）**: 総距離の末尾 `min(1 m, 区間幅 × 1%)` 未満の残りは
+  独立した区間にせず、最終区間を総距離まで伸ばす。切り捨てると総距離と総所要時間がわずかに減るため、吸収を選んだ。
+- **しきい値を 1 m とした理由**: 不具合は浮動小数の誤差（1e-12 km 程度）だけでなく、GPX の座標の丸め
+  （小数 6 桁 ≒ 0.1 m）でも起きる。実際に 3 km のコースを小数 6 桁で書くと総距離が 3.00004 km になり、
+  従来のしきい値 1e-9 km では "3-3" の区間が出た。1 m 未満の区間はペース配分として意味がなく、CLI の距離表示
+  （小数第 4 位 = 0.1 m）でも始点と終点がほぼ同じに見えるため、まとめて吸収する。区間幅が極端に小さい
+  （0.1 km 未満）場合に区間を飲み込みすぎないよう、区間幅の 1% を上限にした。
+- 1 m 以上の端数は従来どおり短い区間として出す（既存仕様は変えない）。
+
+## T007: パッケージング（v1.0.0）
+
+- **パッケージ指定**: setuptools の自動検出はフラットレイアウトで `docs` / `tests` を拾う恐れがあるため、
+  `[tool.setuptools] packages = ["pacecalc"]` で明示した。依存は `dependencies = []`（標準ライブラリのみ）。
+- **long_description**: `readme = "README.md"` とし、形式は拡張子から `text/markdown` になる。
+  description は英語 1 行。ライセンスは仕様にないため指定していない（公開前に決める必要がある）。
+- **型ヒント**: requires-python が 3.10 以上のため、組み込みジェネリクス（`list[...]` / `tuple[...]`）を使った。
+  `None` を取る引数は `Optional[float]` とした。GPX の点・区間・計画行のタプル型は `pacecalc.course` に
+  別名 `Point` / `Segment` / `PlanRow` として定義した（`__all__` には加えていない）。数値引数は `float`
+  （PEP 484 により `int` も受け付ける）。挙動は変えていない。
+- **テスト**: `tests/test_packaging.py` を追加。pyproject.toml の検査は標準ライブラリの `tomllib`
+  （3.11 以上）を使い、3.10 では skip する。
+- **ビルド成果物**: `pip install .` で作られる `build/`・`*.egg-info/`・`dist/` を `.gitignore` に追加した
+  （検証用の `.venv/` は既に除外済み）。
