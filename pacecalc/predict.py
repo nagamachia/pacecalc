@@ -1,1 +1,34 @@
-IiIicGFjZWNhbGMg44Gu5a6M6LWw44K/44Kk44Og5LqI5ris6Zai5pWw44CCCgrot53pm6Ljgajjg5rjg7zjgrnjgYvjgonjga7lrozotbDjgr/jgqTjg6DoqIjnrpfjgIHjgYrjgojjgbMgUmllZ2VsIOW8j+OBq+OCiOOCi+WIpei3nembouOBruOCv+OCpOODoOS6iOa4rOOCkuaPkOS+m+OBmeOCi+OAggoiIiIKCgpkZWYgZmluaXNoX3RpbWVfc2VjKGRpc3RhbmNlX2ttOiBmbG9hdCwgcGFjZV9zZWM6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIui3nembou+8iGtt77yJ44Go44Oa44O844K577yI56eSL2tt77yJ44GL44KJ5a6M6LWw44K/44Kk44Og77yI56eS77yJ44KS6L+U44GZ44CCCgogICAg6Led6Zui44O744Oa44O844K544Gu44Gp44Gh44KJ44GL44GMIDAg5Lul5LiL44Gq44KJIFZhbHVlRXJyb3LjgIIKICAgICIiIgogICAgaWYgZGlzdGFuY2Vfa20gPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJkaXN0YW5jZV9rbSDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgaWYgcGFjZV9zZWMgPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJwYWNlX3NlYyDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgcmV0dXJuIGRpc3RhbmNlX2ttICogcGFjZV9zZWMKCgpkZWYgcmllZ2VsX3ByZWRpY3Rfc2VjKGtub3duX2Rpc3RhbmNlX2ttOiBmbG9hdCwga25vd25fdGltZV9zZWM6IGZsb2F0LCB0YXJnZXRfZGlzdGFuY2Vfa206IGZsb2F0LAogICAgICAgICAgICAgICAgICAgICAgIGV4cG9uZW50OiBmbG9hdCA9IDEuMDYpIC0+IGZsb2F0OgogICAgIiIiUmllZ2VsIOW8jyBUMiA9IFQxIMOXIChEMi9EMSleZXhwb25lbnQg44Gn55uu5qiZ6Led6Zui44Gu5LqI5ris44K/44Kk44Og77yI56eS77yJ44KS6L+U44GZ44CCCgogICAga25vd25fZGlzdGFuY2Vfa20gLyBrbm93bl90aW1lX3NlYyAvIHRhcmdldF9kaXN0YW5jZV9rbSAvIGV4cG9uZW50IOOBrgogICAg44GE44Ga44KM44GL44GMIDAg5Lul5LiL44Gq44KJIFZhbHVlRXJyb3LjgIIKICAgICIiIgogICAgaWYga25vd25fZGlzdGFuY2Vfa20gPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJrbm93bl9kaXN0YW5jZV9rbSDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgaWYga25vd25fdGltZV9zZWMgPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJrbm93bl90aW1lX3NlYyDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgaWYgdGFyZ2V0X2Rpc3RhbmNlX2ttIDw9IDA6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidGFyZ2V0X2Rpc3RhbmNlX2ttIOOBryAwIOOCiOOCiuWkp+OBjeOBhOWApOOCkuaMh+WumuOBl+OBpuOBj+OBoOOBleOBhCIpCiAgICBpZiBleHBvbmVudCA8PSAwOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImV4cG9uZW50IOOBryAwIOOCiOOCiuWkp+OBjeOBhOWApOOCkuaMh+WumuOBl+OBpuOBj+OBoOOBleOBhCIpCiAgICByZXR1cm4ga25vd25fdGltZV9zZWMgKiAodGFyZ2V0X2Rpc3RhbmNlX2ttIC8ga25vd25fZGlzdGFuY2Vfa20pICoqIGV4cG9uZW50Cg==
+"""pacecalc の完走タイム予測関数。
+
+距離とペースからの完走タイム計算、および Riegel 式による別距離のタイム予測を提供する。
+"""
+
+
+def finish_time_sec(distance_km: float, pace_sec: float) -> float:
+    """距離（km）とペース（秒/km）から完走タイム（秒）を返す。
+
+    距離・ペースのどちらかが 0 以下なら ValueError。
+    """
+    if distance_km <= 0:
+        raise ValueError("distance_km は 0 より大きい値を指定してください")
+    if pace_sec <= 0:
+        raise ValueError("pace_sec は 0 より大きい値を指定してください")
+    return distance_km * pace_sec
+
+
+def riegel_predict_sec(known_distance_km: float, known_time_sec: float, target_distance_km: float,
+                       exponent: float = 1.06) -> float:
+    """Riegel 式 T2 = T1 × (D2/D1)^exponent で目標距離の予測タイム（秒）を返す。
+
+    known_distance_km / known_time_sec / target_distance_km / exponent の
+    いずれかが 0 以下なら ValueError。
+    """
+    if known_distance_km <= 0:
+        raise ValueError("known_distance_km は 0 より大きい値を指定してください")
+    if known_time_sec <= 0:
+        raise ValueError("known_time_sec は 0 より大きい値を指定してください")
+    if target_distance_km <= 0:
+        raise ValueError("target_distance_km は 0 より大きい値を指定してください")
+    if exponent <= 0:
+        raise ValueError("exponent は 0 より大きい値を指定してください")
+    return known_time_sec * (target_distance_km / known_distance_km) ** exponent
