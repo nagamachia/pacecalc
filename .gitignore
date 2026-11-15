@@ -1,1 +1,7 @@
-X19weWNhY2hlX18vCioucHljClRBU0subWQKLnZlbnYvCmJ1aWxkLwoqLmVnZy1pbmZvLwpkaXN0Lwo=
+__pycache__/
+*.pyc
+TASK.md
+.venv/
+build/
+*.egg-info/
+dist/
