@@ -1,1 +1,55 @@
-IiIicGFjZWNhbGMg44Gu44K544OX44Oq44OD44OI6KGo77yI5Yy66ZaT44GU44Go44Gu6YCa6YGO44K/44Kk44Og6KGo77yJ55Sf5oiQ44CCCgrkuIDlrprjg5rjg7zjgrnvvIjjgqTjg7zjg5bjg7Pjg5rjg7zjgrnvvInjgafotbDjgaPjgZ/jgajjgY3jga7jgIHljLrplpPjgZTjgajjga7jg6njg4Pjg5fjgajntK/oqIjjgr/jgqTjg6DjgpLoqIjnrpfjgZnjgovjgIIKIiIiCgppbXBvcnQgbWF0aApmcm9tIHR5cGluZyBpbXBvcnQgT3B0aW9uYWwKCiMg5rWu5YuV5bCP5pWw54K56Kqk5beu44Gu5ZC45Y+O5bmF77yIa23vvInjgIIwLjEgbSDmnKrmuoDjga7nq6/mlbDjga/nq6/mlbDljLrplpPjgajjgZfjgabmibHjgo/jgarjgYTjgIIKX0VQU19LTSA9IDFlLTkKCgpkZWYgc3BsaXRfdGFibGUoZGlzdGFuY2Vfa206IGZsb2F0LCBwYWNlX3NlYzogT3B0aW9uYWxbZmxvYXRdID0gTm9uZSwKICAgICAgICAgICAgICAgIHRhcmdldF90aW1lX3NlYzogT3B0aW9uYWxbZmxvYXRdID0gTm9uZSwKICAgICAgICAgICAgICAgIGludGVydmFsX2ttOiBmbG9hdCA9IDEuMCkgLT4gbGlzdFt0dXBsZVtmbG9hdCwgZmxvYXQsIGZsb2F0XV06CiAgICAiIiLljLrplpPjgZTjgajjga7pgJrpgY7jgr/jgqTjg6DooajjgpLov5TjgZnjgIIKCiAgICBwYWNlX3NlY++8iOenki9rbe+8ieOBiyB0YXJnZXRfdGltZV9zZWPvvIjnm67mqJnjgr/jgqTjg6DjgIHnp5LvvInjga7jganjgaHjgonjgYvkuIDmlrnjgpLlv4XjgZrmjIflrprjgZnjgovjgIIKICAgIHRhcmdldF90aW1lX3NlYyDjga7loLTlkIjjga/jgqTjg7zjg5bjg7Pjg5rjg7zjgrnvvIh0YXJnZXRfdGltZV9zZWMgLyBkaXN0YW5jZV9rbe+8ieOBp+ioiOeul+OBmeOCi+OAggoKICAgIOaIu+OCiuWApOOBryAocG9pbnRfa20sIGxhcF9zZWMsIGVsYXBzZWRfc2VjKSDjga7jgr/jg5fjg6vjga7jg6rjgrnjg4jjgIJwb2ludF9rbSDjga8gaW50ZXJ2YWxfa20g5Yi744G/44Gn44CBCiAgICDmnIDlvozjga7opoHntKDjga8gZGlzdGFuY2Vfa20g44Gh44KH44GG44Gp77yI5Ymy44KK5YiH44KM44Gq44GE56uv5pWw44Gv55+t44GE5Yy66ZaT44Gr44Gq44KL77yJ44CCCiAgICBpbnRlcnZhbF9rbSDjgYwgZGlzdGFuY2Vfa20g44KI44KK5aSn44GN44GE5aC05ZCI44Gv5Yy66ZaTIDEg44Gk44Gg44GR44Gr44Gq44KL44CCCgogICAg5qyh44Gu5aC05ZCI44GvIFZhbHVlRXJyb3I6CiAgICAtIHBhY2Vfc2VjIOOBqCB0YXJnZXRfdGltZV9zZWMg44Gu5Lih5pa544KS5oyH5a6a44CB44G+44Gf44Gv44Gp44Gh44KJ44KC5pyq5oyH5a6aCiAgICAtIGRpc3RhbmNlX2tt44CBaW50ZXJ2YWxfa23jgIFwYWNlX3NlY+OAgXRhcmdldF90aW1lX3NlYyDjga7jgYTjgZrjgozjgYvjgYwgMCDku6XkuIsKICAgICIiIgogICAgaWYgKHBhY2Vfc2VjIGlzIE5vbmUpID09ICh0YXJnZXRfdGltZV9zZWMgaXMgTm9uZSk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicGFjZV9zZWMg44GoIHRhcmdldF90aW1lX3NlYyDjga7jganjgaHjgonjgYvkuIDmlrnjgaDjgZHjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgaWYgZGlzdGFuY2Vfa20gPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJkaXN0YW5jZV9rbSDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgaWYgaW50ZXJ2YWxfa20gPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJpbnRlcnZhbF9rbSDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgaWYgcGFjZV9zZWMgaXMgbm90IE5vbmU6CiAgICAgICAgaWYgcGFjZV9zZWMgPD0gMDoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicGFjZV9zZWMg44GvIDAg44KI44KK5aSn44GN44GE5YCk44KS5oyH5a6a44GX44Gm44GP44Gg44GV44GEIikKICAgICAgICBwYWNlID0gcGFjZV9zZWMKICAgIGVsc2U6CiAgICAgICAgaWYgdGFyZ2V0X3RpbWVfc2VjIDw9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInRhcmdldF90aW1lX3NlYyDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgICAgIHBhY2UgPSB0YXJnZXRfdGltZV9zZWMgLyBkaXN0YW5jZV9rbQoKICAgICMg6Kqk5beu44Gu57Sv56mN44KS6YG/44GR44KL44Gf44KB44CB6YCa6YGO54K544GvIGkgKiBpbnRlcnZhbF9rbSDjgafmsYLjgoHjgovjgIIKICAgIGZ1bGxfY291bnQgPSBpbnQobWF0aC5mbG9vcihkaXN0YW5jZV9rbSAvIGludGVydmFsX2ttICsgX0VQU19LTSkpCiAgICBwb2ludHMgPSBbaSAqIGludGVydmFsX2ttIGZvciBpIGluIHJhbmdlKDEsIGZ1bGxfY291bnQgKyAxKV0KICAgIHBvaW50cyA9IFtwIGZvciBwIGluIHBvaW50cyBpZiBwIDwgZGlzdGFuY2Vfa20gLSBfRVBTX0tNXQogICAgcG9pbnRzLmFwcGVuZChkaXN0YW5jZV9rbSkKCiAgICByb3dzID0gW10KICAgIHByZXYgPSAwLjAKICAgIGZvciBwb2ludCBpbiBwb2ludHM6CiAgICAgICAgcm93cy5hcHBlbmQoKHBvaW50LCAocG9pbnQgLSBwcmV2KSAqIHBhY2UsIHBvaW50ICogcGFjZSkpCiAgICAgICAgcHJldiA9IHBvaW50CiAgICByZXR1cm4gcm93cwo=
+"""pacecalc のスプリット表（区間ごとの通過タイム表）生成。
+
+一定ペース（イーブンペース）で走ったときの、区間ごとのラップと累計タイムを計算する。
+"""
+
+import math
+from typing import Optional
+
+# 浮動小数点誤差の吸収幅（km）。0.1 m 未満の端数は端数区間として扱わない。
+_EPS_KM = 1e-9
+
+
+def split_table(distance_km: float, pace_sec: Optional[float] = None,
+                target_time_sec: Optional[float] = None,
+                interval_km: float = 1.0) -> list[tuple[float, float, float]]:
+    """区間ごとの通過タイム表を返す。
+
+    pace_sec（秒/km）か target_time_sec（目標タイム、秒）のどちらか一方を必ず指定する。
+    target_time_sec の場合はイーブンペース（target_time_sec / distance_km）で計算する。
+
+    戻り値は (point_km, lap_sec, elapsed_sec) のタプルのリスト。point_km は interval_km 刻みで、
+    最後の要素は distance_km ちょうど（割り切れない端数は短い区間になる）。
+    interval_km が distance_km より大きい場合は区間 1 つだけになる。
+
+    次の場合は ValueError:
+    - pace_sec と target_time_sec の両方を指定、またはどちらも未指定
+    - distance_km、interval_km、pace_sec、target_time_sec のいずれかが 0 以下
+    """
+    if (pace_sec is None) == (target_time_sec is None):
+        raise ValueError("pace_sec と target_time_sec のどちらか一方だけを指定してください")
+    if distance_km <= 0:
+        raise ValueError("distance_km は 0 より大きい値を指定してください")
+    if interval_km <= 0:
+        raise ValueError("interval_km は 0 より大きい値を指定してください")
+    if pace_sec is not None:
+        if pace_sec <= 0:
+            raise ValueError("pace_sec は 0 より大きい値を指定してください")
+        pace = pace_sec
+    else:
+        if target_time_sec <= 0:
+            raise ValueError("target_time_sec は 0 より大きい値を指定してください")
+        pace = target_time_sec / distance_km
+
+    # 誤差の累積を避けるため、通過点は i * interval_km で求める。
+    full_count = int(math.floor(distance_km / interval_km + _EPS_KM))
+    points = [i * interval_km for i in range(1, full_count + 1)]
+    points = [p for p in points if p < distance_km - _EPS_KM]
+    points.append(distance_km)
+
+    rows = []
+    prev = 0.0
+    for point in points:
+        rows.append((point, (point - prev) * pace, point * pace))
+        prev = point
+    return rows
