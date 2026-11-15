@@ -1,1 +1,162 @@
-IiIicGFjZWNhbGMuY2xpbWLvvIjjg5Ljg6vjgq/jg6njgqTjg6DniannkIbjg6Ljg4fjg6vvvInjga7mpJzoqLzjg4bjgrnjg4jjgIIiIiIKCmltcG9ydCBjb250ZXh0bGliCmltcG9ydCBpbwppbXBvcnQgb3MKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwppbXBvcnQgdW5pdHRlc3QKClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAiLi4iKQpzeXMucGF0aC5pbnNlcnQoMCwgUk9PVCkKCmltcG9ydCBwYWNlY2FsYwpmcm9tIHBhY2VjYWxjLmNsaW1iIGltcG9ydCBHUkFWSVRZLCBjbGltYl90aW1lX3NlYywgcmVxdWlyZWRfcG93ZXJfdwpmcm9tIHBhY2VjYWxjLmNsaSBpbXBvcnQgbWFpbgoKIyDlr4zlo6vjgrnjg5Djg6vjg6njgqTjg7Pjga7lrp/muKzjgrHjg7zjgrkKRlVKSSA9IGRpY3QoZGlzdGFuY2Vfa209MjQuMDMsIGVsZXZhdGlvbl9nYWluX209MTIxMSwgdG90YWxfd2VpZ2h0X2tnPTc2KQpGVUpJX1BPV0VSID0gMjI2LjYKRlVKSV9BQ1RVQUxfU0VDID0gNTEzNSAgIyAxOjI1OjM1CgoKY2xhc3MgVGVzdE1vbm90b25pY2l0eSh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9tb3JlX3Bvd2VyX2lzX2Zhc3RlcihzZWxmKToKICAgICAgICB0aW1lcyA9IFtjbGltYl90aW1lX3NlYyhwb3dlcl93PXAsICoqRlVKSSkgZm9yIHAgaW4gKDEwMCwgMTUwLCAyMDAsIDI1MCwgMzAwLCA0MDApXQogICAgICAgIGZvciBzbG93ZXIsIGZhc3RlciBpbiB6aXAodGltZXMsIHRpbWVzWzE6XSk6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzcyhmYXN0ZXIsIHNsb3dlcikKCiAgICBkZWYgdGVzdF9oZWF2aWVyX2lzX3Nsb3dlcihzZWxmKToKICAgICAgICB0aW1lcyA9IFtjbGltYl90aW1lX3NlYygyNC4wMywgMTIxMSwgdywgRlVKSV9QT1dFUikgZm9yIHcgaW4gKDU1LCA2NSwgNzYsIDkwLCAxMTApXQogICAgICAgIGZvciBsaWdodGVyLCBoZWF2aWVyIGluIHppcCh0aW1lcywgdGltZXNbMTpdKToKICAgICAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKGhlYXZpZXIsIGxpZ2h0ZXIpCgogICAgZGVmIHRlc3Rfc3RlZXBlcl9pc19zbG93ZXIoc2VsZik6CiAgICAgICAgdGltZXMgPSBbY2xpbWJfdGltZV9zZWMoMTAsIGcsIDcwLCAyNTApIGZvciBnIGluICgwLCAyMDAsIDUwMCwgODAwKV0KICAgICAgICBmb3IgZWFzaWVyLCBoYXJkZXIgaW4gemlwKHRpbWVzLCB0aW1lc1sxOl0pOgogICAgICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIoaGFyZGVyLCBlYXNpZXIpCgogICAgZGVmIHRlc3RfZmFzdGVyX3RhcmdldF9uZWVkc19tb3JlX3Bvd2VyKHNlbGYpOgogICAgICAgIHBvd2VycyA9IFtyZXF1aXJlZF9wb3dlcl93KHRhcmdldF90aW1lX3NlYz10LCAqKkZVSkkpIGZvciB0IGluICg3MDAwLCA2MDAwLCA1MDAwLCA0MDAwKV0KICAgICAgICBmb3IgbG93ZXIsIGhpZ2hlciBpbiB6aXAocG93ZXJzLCBwb3dlcnNbMTpdKToKICAgICAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKGhpZ2hlciwgbG93ZXIpCgoKY2xhc3MgVGVzdFJvdW5kVHJpcCh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF90aW1lX3RvX3Bvd2VyX3RvX3RpbWUoc2VsZik6CiAgICAgICAgY2FzZXMgPSBbCiAgICAgICAgICAgICgyNC4wMywgMTIxMSwgNzYsIDIyNi42LCB7fSksCiAgICAgICAgICAgICgxMCwgMCwgODAsIDIwMCwge30pLCAgIyDlubPlnaYKICAgICAgICAgICAgKDUsIDYwMCwgNjAsIDM1MCwge30pLAogICAgICAgICAgICAoNDAsIDMwMCwgODUsIDE4MCwgZGljdChjZGE9MC4yNSwgY3JyPTAuMDA1LCBhaXJfZGVuc2l0eT0xLjIyNSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJpdmV0cmFpbl9lZmZpY2llbmN5PTAuOTUpKSwKICAgICAgICBdCiAgICAgICAgZm9yIGRpc3QsIGdhaW4sIHdlaWdodCwgcG93ZXIsIGt3IGluIGNhc2VzOgogICAgICAgICAgICB0ID0gY2xpbWJfdGltZV9zZWMoZGlzdCwgZ2Fpbiwgd2VpZ2h0LCBwb3dlciwgKiprdykKICAgICAgICAgICAgcCA9IHJlcXVpcmVkX3Bvd2VyX3coZGlzdCwgZ2Fpbiwgd2VpZ2h0LCB0LCAqKmt3KQogICAgICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHAsIHBvd2VyLCBwbGFjZXM9NiwgbXNnPShkaXN0LCBnYWluLCB3ZWlnaHQsIHBvd2VyKSkKCiAgICBkZWYgdGVzdF9wb3dlcl90b190aW1lX3RvX3Bvd2VyKHNlbGYpOgogICAgICAgIGZvciB0YXJnZXQgaW4gKDM2MDAsIDUxMzUsIDkwMDApOgogICAgICAgICAgICBwID0gcmVxdWlyZWRfcG93ZXJfdyh0YXJnZXRfdGltZV9zZWM9dGFyZ2V0LCAqKkZVSkkpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoY2xpbWJfdGltZV9zZWMocG93ZXJfdz1wLCAqKkZVSkkpLCB0YXJnZXQsIHBsYWNlcz00KQoKCmNsYXNzIFRlc3RQaHlzaWNzKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X3JlcXVpcmVkX3Bvd2VyX21hdGNoZXNfZm9ybXVsYShzZWxmKToKICAgICAgICAjIDMlIOWLvumFjeOBruaJi+ioiOeul+WApOOBqOS4gOiHtOOBmeOCi+OBk+OBqAogICAgICAgIGltcG9ydCBtYXRoCiAgICAgICAgZGlzdF9rbSwgZ2FpbiwgbSwgdCA9IDEwLCAzMDAsIDcwLCAxODAwCiAgICAgICAgdiA9IDEwMDAwIC8gdAogICAgICAgIHRoID0gbWF0aC5hdGFuKDMwMCAvIDEwMDAwKQogICAgICAgIGV4cGVjdGVkID0gKChtICogR1JBVklUWSAqIG1hdGguc2luKHRoKSArIDAuMDA0ICogbSAqIEdSQVZJVFkgKiBtYXRoLmNvcyh0aCkpICogdgogICAgICAgICAgICAgICAgICAgICsgMC41ICogMS4wICogMC4zMiAqIHYgKiogMykgLyAwLjk3CiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChyZXF1aXJlZF9wb3dlcl93KGRpc3Rfa20sIGdhaW4sIG0sIHQpLCBleHBlY3RlZCwgcGxhY2VzPTkpCgogICAgZGVmIHRlc3RfZmxhdF96ZXJvX2dhaW5fYWxsb3dlZChzZWxmKToKICAgICAgICB0ID0gY2xpbWJfdGltZV9zZWMoNDAsIDAsIDgwLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKHQsIDApCiAgICAgICAgIyDlubPlnaYgMjAwVyDjgarjgokgMzDjgJw0NSBrbS9oIOeoi+W6puOBruePvuWun+eahOOBquevhOWbsgogICAgICAgIHNwZWVkX2ttaCA9IDQwIC8gKHQgLyAzNjAwKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSgzMCA8IHNwZWVkX2ttaCA8IDQ1LCBzcGVlZF9rbWgpCgoKY2xhc3MgVGVzdFJlYWxXb3JsZCh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9mdWppX3N1YmFydV9saW5lX3dpdGhpbl8xMF9wZXJjZW50KHNlbGYpOgogICAgICAgIHByZWRpY3RlZCA9IGNsaW1iX3RpbWVfc2VjKHBvd2VyX3c9RlVKSV9QT1dFUiwgKipGVUpJKQogICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKGFicyhwcmVkaWN0ZWQgLSBGVUpJX0FDVFVBTF9TRUMpIC8gRlVKSV9BQ1RVQUxfU0VDLCAwLjEwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICLkuojmuKwgJS4wZiDnp5IgLyDlrp/muKwgJWQg56eSIiAlIChwcmVkaWN0ZWQsIEZVSklfQUNUVUFMX1NFQykpCgoKY2xhc3MgVGVzdFZhbGlkYXRpb24odW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfY2xpbWJfdGltZV9pbnZhbGlkKHNlbGYpOgogICAgICAgIGZvciBhcmdzIGluIFsoMCwgMTAwLCA3MCwgMjAwKSwgKC0xLCAxMDAsIDcwLCAyMDApLCAoMTAsIDEwMCwgMCwgMjAwKSwKICAgICAgICAgICAgICAgICAgICAgKDEwLCAxMDAsIC03MCwgMjAwKSwgKDEwLCAxMDAsIDcwLCAwKSwgKDEwLCAxMDAsIDcwLCAtMjAwKSwKICAgICAgICAgICAgICAgICAgICAgKDEwLCAtMSwgNzAsIDIwMCldOgogICAgICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IsIG1zZz1hcmdzKToKICAgICAgICAgICAgICAgIGNsaW1iX3RpbWVfc2VjKCphcmdzKQoKICAgIGRlZiB0ZXN0X3JlcXVpcmVkX3Bvd2VyX2ludmFsaWQoc2VsZik6CiAgICAgICAgZm9yIGFyZ3MgaW4gWygwLCAxMDAsIDcwLCAzNjAwKSwgKDEwLCAxMDAsIDAsIDM2MDApLCAoMTAsIDEwMCwgNzAsIDApLAogICAgICAgICAgICAgICAgICAgICAoMTAsIDEwMCwgNzAsIC0xKSwgKDEwLCAtMSwgNzAsIDM2MDApXToKICAgICAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yLCBtc2c9YXJncyk6CiAgICAgICAgICAgICAgICByZXF1aXJlZF9wb3dlcl93KCphcmdzKQoKICAgIGRlZiB0ZXN0X2ludmFsaWRfb3B0aW9uYWxfcGFyYW1zKHNlbGYpOgogICAgICAgIGZvciBrdyBpbiBbZGljdChkcml2ZXRyYWluX2VmZmljaWVuY3k9MCksIGRpY3QoZHJpdmV0cmFpbl9lZmZpY2llbmN5PTEuNSksCiAgICAgICAgICAgICAgICAgICBkaWN0KGNkYT0tMC4xKSwgZGljdChjcnI9LTAuMSksIGRpY3QoYWlyX2RlbnNpdHk9LTEpXToKICAgICAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yLCBtc2c9a3cpOgogICAgICAgICAgICAgICAgY2xpbWJfdGltZV9zZWMoMTAsIDEwMCwgNzAsIDIwMCwgKiprdykKICAgICAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yLCBtc2c9a3cpOgogICAgICAgICAgICAgICAgcmVxdWlyZWRfcG93ZXJfdygxMCwgMTAwLCA3MCwgMzYwMCwgKiprdykKCiAgICBkZWYgdGVzdF9ub19yZXNpc3RhbmNlX3JhaXNlcyhzZWxmKToKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBjbGltYl90aW1lX3NlYygxMCwgMCwgNzAsIDIwMCwgY2RhPTAsIGNycj0wKQoKICAgIGRlZiB0ZXN0X3BhY2thZ2VfZXhwb3J0cyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydElzKHBhY2VjYWxjLmNsaW1iX3RpbWVfc2VjLCBjbGltYl90aW1lX3NlYykKICAgICAgICBzZWxmLmFzc2VydElzKHBhY2VjYWxjLnJlcXVpcmVkX3Bvd2VyX3csIHJlcXVpcmVkX3Bvd2VyX3cpCgoKZGVmIHJ1bl9tYWluKGFyZ3YpOgogICAgb3V0LCBlcnIgPSBpby5TdHJpbmdJTygpLCBpby5TdHJpbmdJTygpCiAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KG91dCksIGNvbnRleHRsaWIucmVkaXJlY3Rfc3RkZXJyKGVycik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb2RlID0gbWFpbihhcmd2KQogICAgICAgIGV4Y2VwdCBTeXN0ZW1FeGl0IGFzIGV4YzoKICAgICAgICAgICAgY29kZSA9IGV4Yy5jb2RlCiAgICByZXR1cm4gY29kZSwgb3V0LmdldHZhbHVlKCksIGVyci5nZXR2YWx1ZSgpCgoKY2xhc3MgVGVzdENsaW1iQ2xpKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEFSR1MgPSBbImNsaW1iIiwgIi0tZGlzdGFuY2UiLCAiMjQuMDMiLCAiLS1nYWluIiwgIjEyMTEiLCAiLS13ZWlnaHQiLCAiNzYiLAogICAgICAgICAgICAiLS1wb3dlciIsICIyMjYuNiJdCgogICAgZGVmIHRlc3RfY2xpbWJfb3V0cHV0KHNlbGYpOgogICAgICAgIGNvZGUsIG91dCwgXyA9IHJ1bl9tYWluKHNlbGYuQVJHUykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvZGUsIDApCiAgICAgICAgc2VsZi5hc3NlcnRSZWdleChvdXQsIHIiXlxkKzpcZHsyfTpcZHsyfVxuJCIpCiAgICAgICAgZXhwZWN0ZWQgPSBwYWNlY2FsYy5mb3JtYXRfaG1zKGNsaW1iX3RpbWVfc2VjKHBvd2VyX3c9RlVKSV9QT1dFUiwgKipGVUpJKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG91dCwgZXhwZWN0ZWQgKyAiXG4iKQoKICAgIGRlZiB0ZXN0X2NsaW1iX2ludmFsaWQoc2VsZik6CiAgICAgICAgY29kZSwgb3V0LCBlcnIgPSBydW5fbWFpbihbImNsaW1iIiwgIi0tZGlzdGFuY2UiLCAiMTAiLCAiLS1nYWluIiwgIjEwMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0td2VpZ2h0IiwgIjcwIiwgIi0tcG93ZXIiLCAiMCJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29kZSwgMikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG91dCwgIiIpCiAgICAgICAgc2VsZi5hc3NlcnRJbigi44Ko44Op44O8IiwgZXJyKQoKICAgIGRlZiB0ZXN0X2NsaW1iX21pc3NpbmdfYXJnKHNlbGYpOgogICAgICAgIGNvZGUsIF8sIF8gPSBydW5fbWFpbihbImNsaW1iIiwgIi0tZGlzdGFuY2UiLCAiMTAiLCAiLS1nYWluIiwgIjEwMCIsICItLXdlaWdodCIsICI3MCJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29kZSwgMikKCiAgICBkZWYgdGVzdF9jbGltYl9zdWJwcm9jZXNzKHNlbGYpOgogICAgICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKFtzeXMuZXhlY3V0YWJsZSwgIi1tIiwgInBhY2VjYWxjIl0gKyBzZWxmLkFSR1MsIGN3ZD1ST09ULAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5yZXR1cm5jb2RlLCAwKQogICAgICAgIHNlbGYuYXNzZXJ0UmVnZXgocmVzdWx0LnN0ZG91dCwgciJeXGQrOlxkezJ9OlxkezJ9XG4kIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgdW5pdHRlc3QubWFpbigpCg==
+"""pacecalc.climb（ヒルクライム物理モデル）の検証テスト。"""
+
+import contextlib
+import io
+import os
+import subprocess
+import sys
+import unittest
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+sys.path.insert(0, ROOT)
+
+import pacecalc
+from pacecalc.climb import GRAVITY, climb_time_sec, required_power_w
+from pacecalc.cli import main
+
+# 富士スバルラインの実測ケース
+FUJI = dict(distance_km=24.03, elevation_gain_m=1211, total_weight_kg=76)
+FUJI_POWER = 226.6
+FUJI_ACTUAL_SEC = 5135  # 1:25:35
+
+
+class TestMonotonicity(unittest.TestCase):
+    def test_more_power_is_faster(self):
+        times = [climb_time_sec(power_w=p, **FUJI) for p in (100, 150, 200, 250, 300, 400)]
+        for slower, faster in zip(times, times[1:]):
+            self.assertLess(faster, slower)
+
+    def test_heavier_is_slower(self):
+        times = [climb_time_sec(24.03, 1211, w, FUJI_POWER) for w in (55, 65, 76, 90, 110)]
+        for lighter, heavier in zip(times, times[1:]):
+            self.assertGreater(heavier, lighter)
+
+    def test_steeper_is_slower(self):
+        times = [climb_time_sec(10, g, 70, 250) for g in (0, 200, 500, 800)]
+        for easier, harder in zip(times, times[1:]):
+            self.assertGreater(harder, easier)
+
+    def test_faster_target_needs_more_power(self):
+        powers = [required_power_w(target_time_sec=t, **FUJI) for t in (7000, 6000, 5000, 4000)]
+        for lower, higher in zip(powers, powers[1:]):
+            self.assertGreater(higher, lower)
+
+
+class TestRoundTrip(unittest.TestCase):
+    def test_time_to_power_to_time(self):
+        cases = [
+            (24.03, 1211, 76, 226.6, {}),
+            (10, 0, 80, 200, {}),  # 平坦
+            (5, 600, 60, 350, {}),
+            (40, 300, 85, 180, dict(cda=0.25, crr=0.005, air_density=1.225,
+                                    drivetrain_efficiency=0.95)),
+        ]
+        for dist, gain, weight, power, kw in cases:
+            t = climb_time_sec(dist, gain, weight, power, **kw)
+            p = required_power_w(dist, gain, weight, t, **kw)
+            self.assertAlmostEqual(p, power, places=6, msg=(dist, gain, weight, power))
+
+    def test_power_to_time_to_power(self):
+        for target in (3600, 5135, 9000):
+            p = required_power_w(target_time_sec=target, **FUJI)
+            self.assertAlmostEqual(climb_time_sec(power_w=p, **FUJI), target, places=4)
+
+
+class TestPhysics(unittest.TestCase):
+    def test_required_power_matches_formula(self):
+        # 3% 勾配の手計算値と一致すること
+        import math
+        dist_km, gain, m, t = 10, 300, 70, 1800
+        v = 10000 / t
+        th = math.atan(300 / 10000)
+        expected = ((m * GRAVITY * math.sin(th) + 0.004 * m * GRAVITY * math.cos(th)) * v
+                    + 0.5 * 1.0 * 0.32 * v ** 3) / 0.97
+        self.assertAlmostEqual(required_power_w(dist_km, gain, m, t), expected, places=9)
+
+    def test_flat_zero_gain_allowed(self):
+        t = climb_time_sec(40, 0, 80, 200)
+        self.assertGreater(t, 0)
+        # 平坦 200W なら 30〜45 km/h 程度の現実的な範囲
+        speed_kmh = 40 / (t / 3600)
+        self.assertTrue(30 < speed_kmh < 45, speed_kmh)
+
+
+class TestRealWorld(unittest.TestCase):
+    def test_fuji_subaru_line_within_10_percent(self):
+        predicted = climb_time_sec(power_w=FUJI_POWER, **FUJI)
+        self.assertLessEqual(abs(predicted - FUJI_ACTUAL_SEC) / FUJI_ACTUAL_SEC, 0.10,
+                             "予測 %.0f 秒 / 実測 %d 秒" % (predicted, FUJI_ACTUAL_SEC))
+
+
+class TestValidation(unittest.TestCase):
+    def test_climb_time_invalid(self):
+        for args in [(0, 100, 70, 200), (-1, 100, 70, 200), (10, 100, 0, 200),
+                     (10, 100, -70, 200), (10, 100, 70, 0), (10, 100, 70, -200),
+                     (10, -1, 70, 200)]:
+            with self.assertRaises(ValueError, msg=args):
+                climb_time_sec(*args)
+
+    def test_required_power_invalid(self):
+        for args in [(0, 100, 70, 3600), (10, 100, 0, 3600), (10, 100, 70, 0),
+                     (10, 100, 70, -1), (10, -1, 70, 3600)]:
+            with self.assertRaises(ValueError, msg=args):
+                required_power_w(*args)
+
+    def test_invalid_optional_params(self):
+        for kw in [dict(drivetrain_efficiency=0), dict(drivetrain_efficiency=1.5),
+                   dict(cda=-0.1), dict(crr=-0.1), dict(air_density=-1)]:
+            with self.assertRaises(ValueError, msg=kw):
+                climb_time_sec(10, 100, 70, 200, **kw)
+            with self.assertRaises(ValueError, msg=kw):
+                required_power_w(10, 100, 70, 3600, **kw)
+
+    def test_no_resistance_raises(self):
+        with self.assertRaises(ValueError):
+            climb_time_sec(10, 0, 70, 200, cda=0, crr=0)
+
+    def test_package_exports(self):
+        self.assertIs(pacecalc.climb_time_sec, climb_time_sec)
+        self.assertIs(pacecalc.required_power_w, required_power_w)
+
+
+def run_main(argv):
+    out, err = io.StringIO(), io.StringIO()
+    with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
+        try:
+            code = main(argv)
+        except SystemExit as exc:
+            code = exc.code
+    return code, out.getvalue(), err.getvalue()
+
+
+class TestClimbCli(unittest.TestCase):
+    ARGS = ["climb", "--distance", "24.03", "--gain", "1211", "--weight", "76",
+            "--power", "226.6"]
+
+    def test_climb_output(self):
+        code, out, _ = run_main(self.ARGS)
+        self.assertEqual(code, 0)
+        self.assertRegex(out, r"^\d+:\d{2}:\d{2}\n$")
+        expected = pacecalc.format_hms(climb_time_sec(power_w=FUJI_POWER, **FUJI))
+        self.assertEqual(out, expected + "\n")
+
+    def test_climb_invalid(self):
+        code, out, err = run_main(["climb", "--distance", "10", "--gain", "100",
+                                   "--weight", "70", "--power", "0"])
+        self.assertEqual(code, 2)
+        self.assertEqual(out, "")
+        self.assertIn("エラー", err)
+
+    def test_climb_missing_arg(self):
+        code, _, _ = run_main(["climb", "--distance", "10", "--gain", "100", "--weight", "70"])
+        self.assertEqual(code, 2)
+
+    def test_climb_subprocess(self):
+        result = subprocess.run([sys.executable, "-m", "pacecalc"] + self.ARGS, cwd=ROOT,
+                                capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0)
+        self.assertRegex(result.stdout, r"^\d+:\d{2}:\d{2}\n$")
+
+
+if __name__ == "__main__":
+    unittest.main()
