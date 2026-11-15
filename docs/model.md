@@ -1,1 +1,75 @@
-IyDjg5Ljg6vjgq/jg6njgqTjg6DniannkIbjg6Ljg4fjg6vvvIhgcGFjZWNhbGMuY2xpbWJg77yJCgpgY2xpbWJfdGltZV9zZWNgIC8gYHJlcXVpcmVkX3Bvd2VyX3dgIOOBjOS9v+OBhueJqeeQhuODouODh+ODq+OBruW8j+ODu+WJjeaPkOODu+mZkOeVjOOCkuOBvuOBqOOCgeOCi+OAggoqKuOBk+OBruODouODh+ODq+OBruWHuuWKm+OBr+aOqOWumuWApOOBp+OBguOCiuOAgeWun+mam+OBruOCv+OCpOODoOOCkuS/neiovOOBmeOCi+OCguOBruOBp+OBr+OBquOBhOOAgioqCgojIyDlvI8KCuS4gOWumuODkeODr+ODvOOBp+S4gOWumumAn+W6puOCkuS/neOBo+OBpuOBhOOCi+OBqOOBjeOAgeODmuODgOODq+OBq+WFpeOCjOOBn+ODkeODr+ODvOOBruOBhuOBoemnhuWLleezu+OBruaQjeWkseOCkumZpOOBhOOBn+WIhuOBjOOAgQrph43lipvjg7vou6LjgYzjgormirXmipfjg7vnqbrmsJfmirXmipfjgavph6PjgorlkIjjgYbjgajjgZnjgovvvIjlrprluLjjg6Ljg4fjg6vvvInjgIIKCmBgYApwb3dlciDDlyBkcml2ZXRyYWluX2VmZmljaWVuY3kgPSAobcK3Z8K3c2luzrggKyBDcnLCt23Ct2fCt2Nvc864KcK3diArIDAuNcK3z4HCt0NkQcK3dsKzCmBgYAoKfCDoqJjlj7cgfCDmhI/lkbMgfCDlvJXmlbAgLyDml6LlrprlgKQgfAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgcG93ZXIgfCDlubPlnYfjg5Hjg6/jg7zvvIhX77yJIHwgYHBvd2VyX3dgIHwKfCBkcml2ZXRyYWluX2VmZmljaWVuY3kgfCDpp4bli5Xns7vlirnnjocgfCBgZHJpdmV0cmFpbl9lZmZpY2llbmN5PTAuOTdgIHwKfCBtIHwg57eP6YeN6YeP77yI5L2T6YeN77yL6Ieq6Lui6LuK77yL6KOF5YKZ44CBa2fvvIkgfCBgdG90YWxfd2VpZ2h0X2tnYCB8CnwgZyB8IOmHjeWKm+WKoOmAn+W6pu+8iG0vc8Ky77yJIHwgOS44MDY2Ne+8iOWbuuWumu+8iSB8CnwgzrggfCDlubPlnYfli77phY3jga7op5LluqYgfCBgzrggPSBhdGFuKGVsZXZhdGlvbl9nYWluX20gLyAoZGlzdGFuY2Vfa20gw5cgMTAwMCkpYCB8CnwgQ3JyIHwg6Lui44GM44KK5oq15oqX5L+C5pWwIHwgYGNycj0wLjAwNGAgfAp8IM+BIHwg56m65rCX5a+G5bqm77yIa2cvbcKz77yJIHwgYGFpcl9kZW5zaXR5PTEuMGAgfAp8IENkQSB8IOepuuawl+aKteaKl+S/guaVsMOX5YmN6Z2i5oqV5b2x6Z2i56mN77yIbcKy77yJIHwgYGNkYT0wLjMyYCB8CnwgdiB8IOmAn+W6pu+8iG0vc++8iSB8IOino+OBqOOBl+OBpuaxguOCgeOCiyB8CgotIGBjbGltYl90aW1lX3NlY2A6IOS4iuW8j+OCkiB2IOOBq+OBpOOBhOOBpuaVsOWApOeahOOBq+ino+OBje+8iOS6jOWIhuazle+8ieOAgWDot53pm6IgLyB2YCDjgpLmiYDopoHmmYLplpPjgajjgZnjgovjgIIKICDlj7Povrrjga8gdiDiiaUgMCDjgafljZjoqr/lopfliqDjgarjga7jgafjgIHop6Pjga/jgZ/jgaAgMSDjgaTjgavlrprjgb7jgovjgIIKLSBgcmVxdWlyZWRfcG93ZXJfd2A6IGB2ID0g6Led6ZuiIC8g55uu5qiZ44K/44Kk44OgYCDjgpLlj7Povrrjgavku6PlhaXjgZfjgIFgZHJpdmV0cmFpbl9lZmZpY2llbmN5YCDjgaflibLjgaPjgaYKICDlv4XopoHjg5Hjg6/jg7zjgpLmsYLjgoHjgovvvIjplonjgZjjgZ/lvI/jgafoqIjnrpfjgafjgY3jgovvvInjgIIKCui3nembouOBr+mBk+OBruOCiu+8iOi1sOihjOi3nembou+8ieOBqOOBl+OBpuaJseOBhOOAgeW5s+Wdh+WLvumFjSBnYWluL2Rpc3RhbmNlIOOBi+OCiSDOuCDjgpLmsYLjgoHjgovjgIIKCiMjIOWJjeaPkAoKLSAqKuS4gOWumuWLvumFjei/keS8vCoqOiDjgrPjg7zjgrnlhajkvZPjgpLlubPlnYfli77phY3jga7kuIDmp5jjgarlnYLjgajjgb/jgarjgZnjgILli77phY3jga7lpInljJbjgIHlubPlnabljLrplpPjg7vkuIvjgorljLrplpPjga/ogIPjgYjjgarjgYTjgIIKLSAqKueEoemiqCoqOiDpoqjjga7lvbHpn7/jga/jgarjgYTvvIjlr77lnLDpgJ/luqbvvJ3lr77msJfpgJ/luqbvvInjgIIKLSAqKuS4gOWumuODkeODr+ODvCoqOiDlhajljLrplpPjgaflkIzjgZjjg5Hjg6/jg7zjgpLlh7rjgZfntprjgZHjgovjgILliqDmuJvpgJ/jg7vlgZzmraLjg7vjgrPjg7zjg4rjg7zjgafjga7muJvpgJ/jga/ogIPjgYjjgarjgYTjgIIKLSAqKuepuuawl+WvhuW6puOBruaXouWumuWApCAxLjAga2cvbcKzKio6IOa1t+mdouS7mOi/ke+8iOe0hCAxLjIyNSBrZy9twrPvvInjgafjga/jgarjgY/jgIHmqJnpq5ggMjAwMCBtIOWJjeW+jOOBrgogIOmrmOWcsOOBruODkuODq+OCr+ODqeOCpOODoOOCkuaDs+WumuOBl+OBn+WApOOAguS9juWcsOOBruOCs+ODvOOCueOBp+OBryBgYWlyX2RlbnNpdHk9MS4yYCDliY3lvozjgpLmjIflrprjgZnjgovjgajjgojjgYTjgIIKLSBDZEEgMC4zMiDjga/jg63jg7zjg4njg5DjgqTjgq/jgafjg5bjg6njgrHjg4Pjg4jjgpLmjIHjgaPjgZ/nmbvlnYLlp7/li6LjgIFDcnIgMC4wMDQg44Gv6IiX6KOF6Lev44Go5LiA6Iis55qE44Gq44Ot44O844OJ44K/44Kk44Ok44CBCiAg6aeG5YuV57O75Yq5546HIDAuOTcg44Gv5pW05YKZ44GV44KM44Gf44OB44Kn44O844Oz6aeG5YuV44KS5oOz5a6a44GX44Gf5YCk44CCCgojIyDpmZDnlYwKCi0g5Yu+6YWN44GM5aSn44GN44GP5aSJ5YyW44GZ44KL44Kz44O844K544Gn44Gv6Kqk5beu44GM5aSn44GN44GP44Gq44KL44CC44OR44Ov44O844Go5oq15oqX44Gu6Zai5L+C44GM6Z2e57ea5b2i77yI56m65rCX5oq15oqX44GvIHbCs++8ieOBquOBruOBp+OAgQogIOW5s+Wdh+WLvumFjeOBp+ioiOeul+OBl+OBn+WApOOBr+OAgee3qeaWnOmdouOBqOaApeaWnOmdouOBjOa3t+WcqOOBmeOCi+Wun+OCs+ODvOOCueOBqOOBr+S4gOiHtOOBl+OBquOBhOOAggotIOeZu+WdguS4reOBruWKoOa4m+mAn+OAgemiqOOAgei3r+mdoueKtuaFi+OAgeaomemrmOOBq+OCiOOCi+epuuawl+WvhuW6puOBruWkieWMluOAgeeWsuWKtOOBq+OCiOOCi+ODkeODr+ODvOS9juS4i+OBr+WPjeaYoOOBl+OBquOBhOOAggotIENkQeODu0NycuODu+WKueeOh+OBr+WAi+S6uuOChOapn+adkOOBp+Wkp+OBjeOBj+eVsOOBquOCi+OAguaXouWumuWApOOBr+ebruWuieOBq+OBmeOBjuOBquOBhOOAggotIOeNsuW+l+aomemrmOOBruOBv+OCkuWFpeWKm+OBqOOBmeOCi+OBn+OCgeOAgemAlOS4reOBq+S4i+OCiuOBjOOBguOCi+OCs+ODvOOCueOBp+OBr+ato+OBl+OBj+aJseOBiOOBquOBhOOAggotIOaknOiovOOBr+WvjOWjq+OCueODkOODq+ODqeOCpOODs++8iDI0LjAzIGtt44CB542y5b6X5qiZ6auYIDEyMTEgbeOAgee3j+mHjemHjyA3NiBrZ+OAgTIyNi42IFfjgIHlrp/muKwgMToyNTozNe+8ieOBrgogIDEg5L6L44Gn44CB5pei5a6a44OR44Op44Oh44O844K/44Gn44Gu5LqI5ris44Gv57SEIDE6MjA6NTXvvIjlrp/muKzjgojjgorntIQgNS41JSDpgJ/jgYTvvInjgILjg4bjgrnjg4jjgafjga8gwrExMCUg5Lul5YaF44KS56K66KqN44GX44Gm44GE44KL44CCCgojIyBHUFgg44Kz44O844K544G444Gu6YGp55So77yIYHBhY2VjYWxjLmNvdXJzZWDvvIkKCmBwbGFuX2NvdXJzZWAg44Gv44CBR1BYIOOBrueCueWIl+OCkiBgY291cnNlX3NlZ21lbnRzYCDjgafljLrplpPjgavliIfjgorjgIHljLrplpPjgZTjgajjga7li77phY3jgavkuIrjgajlkIzjgZjph6PjgorlkIjjgYTjga7lvI/jgpIK6YGp55So44GX44Gm5LiA5a6a44OR44Ov44O844Gn44Gu6YCf5bqm44Go5omA6KaB5pmC6ZaT44KS5rGC44KB44KL44CCCgotICoq6Led6ZuiKio6IOmao+OCiuWQiOOBhueCueOBrui3nembouOCkiBoYXZlcnNpbmUg5YWs5byP77yI5Zyw55CD44KS5Y2K5b6EIDYzNzEwMDguOCBtIOOBrueQg+OBqOOBv+OBquOBme+8ieOBp+axguOCgeOAgee0r+epjeOBmeOCi+OAggogIOawtOW5s+i3nembouOBruOBv+OBp+OAgeaomemrmOW3ruOBr+i3nembouOBq+WQq+OCgeOBquOBhOOAggotICoq5Yy66ZaTKio6IOe0r+epjei3nemboiBgc2VnbWVudF9rbWAg44GU44Go44Gr5Yy65YiH44KK44CB5pyA5b6M44Gu5Yy66ZaT44Gv57eP6Led6Zui44Gh44KH44GG44Gp44Gn57WC44KP44KL77yI56uv5pWw44Gv55+t44GE5Yy66ZaT77yJ44CCCiAg44Gf44Gg44GX56uv5pWw44GMIDEgbe+8iOWMuumWk+W5heOBriAxJSDjga7mlrnjgYzlsI/jgZXjgZHjgozjgbDjgZ3jgaHjgonvvInmnKrmuoDjga7jgajjgY3jga/ljLrplpPjgpLkvZzjgonjgZrjgIHnm7TliY3jga7ljLrplpPjgavlkLjlj47jgZnjgovjgIIKICDnt4/ot53pm6LjgYzljLrplpPluYXjga7lgI3mlbDjgaHjgofjgYbjganjga7jgrPjg7zjgrnjgafjgIHplbfjgZUgMCDjga7ljLrplpPvvIgiMy0zIuOAgeaJgOimgSAwOjAw77yJ44GM5Ye644Gq44GE44KI44GG44Gr44GZ44KL44Gf44KB44CCCiAg5Yy66ZaT44Gu5aKD55uu44Gu5qiZ6auY44Gv5YmN5b6M44Gu54K544GL44KJ57ea5b2i6KOc6ZaT44GZ44KL44CCCi0gKirli77phY0qKjogYGdyYWRpZW50X3BjdCA9IChnYWluX20g4oiSIGxvc3NfbSkgLyDljLrplpPot53pm6IobSkgw5cgMTAwYOOAgs64ID0gYXRhbihncmFkaWVudF9wY3QgLyAxMDApIOOBqOOBl+OAgQogIOWMuumWk+WGheOBr+S4gOWumuWLvumFjeOBqOOBv+OBquOBmeOAguS4i+OCiu+8iOiyoOOBruWLvumFje+8ieOCguWQjOOBmOW8j+OBp+ino+OBj++8iOmHjeWKm+mgheOBjOiyoOOBq+OBquOCiuOAgeaOqOmAsuWBtOOBq+WDjeOBj++8ieOAggotICoq5qiZ6auY44Gq44GX44Gu5omx44GEKio6IGA8ZWxlPmAg44GM44Gq44GE54K544Gv5qiZ6auYIGBOb25lYOOAguWJjeW+jOOBqeOBoeOCieOBi+OBjCBgTm9uZWAg44GuIDIg54K56ZaT44GvCiAgZ2FpbiAvIGxvc3Mg44KSIDAg44Go44GX44Gm5omx44GG77yI44Gd44Gu6YOo5YiG44Gv5bmz5Z2m44Go44G/44Gq44GZ77yJ44CCCi0gKirkuIvjgorjga7pgJ/luqbkuIrpmZAgNjAga20vaCoqOiDmgKXjgarkuIvjgorjgafjga/ph6PjgorlkIjjgYTjga7pgJ/luqbjgYzpnZ7luLjjgavlpKfjgY3jgY/jgarjgorjgIFgY2RhYCDjgYwgMCDjgarjganjga7loLTlkIjjga8KICDnmbrmlaPjgZnjgovjgZ/jgoHjgIHpgJ/luqbjgpIgNjAga20vaO+8iGBNQVhfU1BFRURfS01IYO+8ieOBp+mgreaJk+OBoeOBq+OBmeOCi+OAguWun+mam+OBq+OBr+S4i+OCiuOBp+OCguODmuODgOODq+OCkuWbnuOBl+e2muOBkeOCi+OBqOOBrwogIOmZkOOCieOBmuOAgeODluODrOODvOOCreOChOOCs+ODvOODiuODvOOBp+a4m+mAn+OBmeOCi+OBn+OCgeOAgeS4i+OCiuOBruaJgOimgeaZgumWk+OBr+efreOCgeOBq+WHuuOChOOBmeOBhOOAggotICoq5Yy66ZaT6ZaT44Gu5Yqg5rib6YCf44Gv6ICD44GI44Gq44GEKio6IOWMuumWk+OBruWig+ebruOBp+mAn+W6puOBjOeerOaZguOBq+WIh+OCiuabv+OCj+OCi+OBqOOBv+OBquOBme+8iOmBi+WLleOCqOODjeODq+OCruODvOOBruaMgeOBoei2iuOBl+OBquOBl++8ieOAggotIOeJqeeQhuODkeODqeODoeODvOOCv++8iGBjZGFgIC8gYGNycmAgLyBgYWlyX2RlbnNpdHlgIC8gYGRyaXZldHJhaW5fZWZmaWNpZW5jeWDvvInjga7ml6LlrprlgKTjga8gYGNsaW1iX3RpbWVfc2VjYCDjgajlkIzjgZjjgIIKICDlubPlnabjgarljLrplpPjga7pgJ/luqbjga8gYGNsaW1iX3RpbWVfc2VjYO+8iOeNsuW+l+aomemrmCAw77yJ44Go5LiA6Ie044GX44CB5LiA5a6a5Yu+6YWN44Gu44Kz44O844K544Gu57eP5omA6KaB5pmC6ZaT44GvCiAgYGNsaW1iX3RpbWVfc2VjYO+8iOWQjOOBmOi3nembouODu+eNsuW+l+aomemrmO+8ieOBqOS4gOiHtOOBmeOCi+OAggo=
+# ヒルクライム物理モデル（`pacecalc.climb`）
+
+`climb_time_sec` / `required_power_w` が使う物理モデルの式・前提・限界をまとめる。
+**このモデルの出力は推定値であり、実際のタイムを保証するものではない。**
+
+## 式
+
+一定パワーで一定速度を保っているとき、ペダルに入れたパワーのうち駆動系の損失を除いた分が、
+重力・転がり抵抗・空気抵抗に釣り合うとする（定常モデル）。
+
+```
+power × drivetrain_efficiency = (m·g·sinθ + Crr·m·g·cosθ)·v + 0.5·ρ·CdA·v³
+```
+
+| 記号 | 意味 | 引数 / 既定値 |
+| --- | --- | --- |
+| power | 平均パワー（W） | `power_w` |
+| drivetrain_efficiency | 駆動系効率 | `drivetrain_efficiency=0.97` |
+| m | 総重量（体重＋自転車＋装備、kg） | `total_weight_kg` |
+| g | 重力加速度（m/s²） | 9.80665（固定） |
+| θ | 平均勾配の角度 | `θ = atan(elevation_gain_m / (distance_km × 1000))` |
+| Crr | 転がり抵抗係数 | `crr=0.004` |
+| ρ | 空気密度（kg/m³） | `air_density=1.0` |
+| CdA | 空気抵抗係数×前面投影面積（m²） | `cda=0.32` |
+| v | 速度（m/s） | 解として求める |
+
+- `climb_time_sec`: 上式を v について数値的に解き（二分法）、`距離 / v` を所要時間とする。
+  右辺は v ≥ 0 で単調増加なので、解はただ 1 つに定まる。
+- `required_power_w`: `v = 距離 / 目標タイム` を右辺に代入し、`drivetrain_efficiency` で割って
+  必要パワーを求める（閉じた式で計算できる）。
+
+距離は道のり（走行距離）として扱い、平均勾配 gain/distance から θ を求める。
+
+## 前提
+
+- **一定勾配近似**: コース全体を平均勾配の一様な坂とみなす。勾配の変化、平坦区間・下り区間は考えない。
+- **無風**: 風の影響はない（対地速度＝対気速度）。
+- **一定パワー**: 全区間で同じパワーを出し続ける。加減速・停止・コーナーでの減速は考えない。
+- **空気密度の既定値 1.0 kg/m³**: 海面付近（約 1.225 kg/m³）ではなく、標高 2000 m 前後の
+  高地のヒルクライムを想定した値。低地のコースでは `air_density=1.2` 前後を指定するとよい。
+- CdA 0.32 はロードバイクでブラケットを持った登坂姿勢、Crr 0.004 は舗装路と一般的なロードタイヤ、
+  駆動系効率 0.97 は整備されたチェーン駆動を想定した値。
+
+## 限界
+
+- 勾配が大きく変化するコースでは誤差が大きくなる。パワーと抵抗の関係が非線形（空気抵抗は v³）なので、
+  平均勾配で計算した値は、緩斜面と急斜面が混在する実コースとは一致しない。
+- 登坂中の加減速、風、路面状態、標高による空気密度の変化、疲労によるパワー低下は反映しない。
+- CdA・Crr・効率は個人や機材で大きく異なる。既定値は目安にすぎない。
+- 獲得標高のみを入力とするため、途中に下りがあるコースでは正しく扱えない。
+- 検証は富士スバルライン（24.03 km、獲得標高 1211 m、総重量 76 kg、226.6 W、実測 1:25:35）の
+  1 例で、既定パラメータでの予測は約 1:20:55（実測より約 5.5% 速い）。テストでは ±10% 以内を確認している。
+
+## GPX コースへの適用（`pacecalc.course`）
+
+`plan_course` は、GPX の点列を `course_segments` で区間に切り、区間ごとの勾配に上と同じ釣り合いの式を
+適用して一定パワーでの速度と所要時間を求める。
+
+- **距離**: 隣り合う点の距離を haversine 公式（地球を半径 6371008.8 m の球とみなす）で求め、累積する。
+  水平距離のみで、標高差は距離に含めない。
+- **区間**: 累積距離 `segment_km` ごとに区切り、最後の区間は総距離ちょうどで終わる（端数は短い区間）。
+  ただし端数が 1 m（区間幅の 1% の方が小さければそちら）未満のときは区間を作らず、直前の区間に吸収する。
+  総距離が区間幅の倍数ちょうどのコースで、長さ 0 の区間（"3-3"、所要 0:00）が出ないようにするため。
+  区間の境目の標高は前後の点から線形補間する。
+- **勾配**: `gradient_pct = (gain_m − loss_m) / 区間距離(m) × 100`。θ = atan(gradient_pct / 100) とし、
+  区間内は一定勾配とみなす。下り（負の勾配）も同じ式で解く（重力項が負になり、推進側に働く）。
+- **標高なしの扱い**: `<ele>` がない点は標高 `None`。前後どちらかが `None` の 2 点間は
+  gain / loss を 0 として扱う（その部分は平坦とみなす）。
+- **下りの速度上限 60 km/h**: 急な下りでは釣り合いの速度が非常に大きくなり、`cda` が 0 などの場合は
+  発散するため、速度を 60 km/h（`MAX_SPEED_KMH`）で頭打ちにする。実際には下りでもペダルを回し続けるとは
+  限らず、ブレーキやコーナーで減速するため、下りの所要時間は短めに出やすい。
+- **区間間の加減速は考えない**: 区間の境目で速度が瞬時に切り替わるとみなす（運動エネルギーの持ち越しなし）。
+- 物理パラメータ（`cda` / `crr` / `air_density` / `drivetrain_efficiency`）の既定値は `climb_time_sec` と同じ。
+  平坦な区間の速度は `climb_time_sec`（獲得標高 0）と一致し、一定勾配のコースの総所要時間は
+  `climb_time_sec`（同じ距離・獲得標高）と一致する。
