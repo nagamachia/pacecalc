@@ -1,1 +1,53 @@
-IiIicGFjZWNhbGMg44Gu44Kz44Ki5aSJ5o+b6Zai5pWw44CCCgrjg5rjg7zjgrnvvIjnp5Iva23vvInjgajpgJ/luqbvvIhrbS9o77yJ44Gu55u45LqS5aSJ5o+b44CB44GK44KI44Gz6KGo56S655So44Gu5pu45byP5YyW44KS5o+Q5L6b44GZ44KL44CCCiIiIgoKaW1wb3J0IG1hdGgKClNFQ09ORFNfUEVSX0hPVVIgPSAzNjAwLjAKCgpkZWYgX3JvdW5kX2hhbGZfdXAodmFsdWU6IGZsb2F0KSAtPiBpbnQ6CiAgICAiIiLlm5vmjajkupTlhaXjgZfjgaYgaW50IOOCkui/lOOBme+8iFB5dGhvbiDntYTjgb/ovrzjgb/jga4gcm91bmQg44Gv5YG25pWw5Li444KB44Gu44Gf44KB5L2/44KP44Gq44GE77yJ44CCIiIiCiAgICByZXR1cm4gaW50KG1hdGguZmxvb3IodmFsdWUgKyAwLjUpKQoKCmRlZiBzcGVlZF90b19wYWNlX3NlYyhzcGVlZF9rbWg6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIumAn+W6pu+8iGttL2jvvInjgYvjgonjg5rjg7zjgrnvvIjnp5Iva23vvInjgpLov5TjgZnjgIIwIOS7peS4i+OBryBWYWx1ZUVycm9y44CCIiIiCiAgICBpZiBzcGVlZF9rbWggPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJzcGVlZF9rbWgg44GvIDAg44KI44KK5aSn44GN44GE5YCk44KS5oyH5a6a44GX44Gm44GP44Gg44GV44GEIikKICAgIHJldHVybiBTRUNPTkRTX1BFUl9IT1VSIC8gc3BlZWRfa21oCgoKZGVmIHBhY2VfdG9fc3BlZWRfa21oKHBhY2Vfc2VjOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLjg5rjg7zjgrnvvIjnp5Iva23vvInjgYvjgonpgJ/luqbvvIhrbS9o77yJ44KS6L+U44GZ44CCMCDku6XkuIvjga8gVmFsdWVFcnJvcuOAgiIiIgogICAgaWYgcGFjZV9zZWMgPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJwYWNlX3NlYyDjga8gMCDjgojjgorlpKfjgY3jgYTlgKTjgpLmjIflrprjgZfjgabjgY/jgaDjgZXjgYQiKQogICAgcmV0dXJuIFNFQ09ORFNfUEVSX0hPVVIgLyBwYWNlX3NlYwoKCmRlZiBmb3JtYXRfcGFjZShwYWNlX3NlYzogZmxvYXQpIC0+IHN0cjoKICAgICIiIuenki9rbSDjgpIgIk06U1MiIOW9ouW8j+OBruaWh+Wtl+WIl+OBq+OBmeOCi++8iOS+izogMzMwIOKGkiAiNTozMCLvvInjgIIKCiAgICDnp5Ljga/lm5vmjajkupTlhaXjgZfjgIE1OS41IOenkuS7peS4iuOBr+WIhuOBuOe5sOOCiuS4iuOBkuOCi++8iOS+izogMzU5LjYg4oaSICI2OjAwIu+8ieOAggogICAg6LKg5YCk44GvIFZhbHVlRXJyb3LjgIIKICAgICIiIgogICAgaWYgcGFjZV9zZWMgPCAwOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInBhY2Vfc2VjIOOBryAwIOS7peS4iuOBruWApOOCkuaMh+WumuOBl+OBpuOBj+OBoOOBleOBhCIpCiAgICB0b3RhbCA9IF9yb3VuZF9oYWxmX3VwKHBhY2Vfc2VjKQogICAgbWludXRlcywgc2Vjb25kcyA9IGRpdm1vZCh0b3RhbCwgNjApCiAgICByZXR1cm4gIiVkOiUwMmQiICUgKG1pbnV0ZXMsIHNlY29uZHMpCgoKZGVmIGZvcm1hdF9obXMoc2Vjb25kczogZmxvYXQpIC0+IHN0cjoKICAgICIiIuenkuOCkiAiSDpNTTpTUyIg5b2i5byP44Gu5paH5a2X5YiX44Gr44GZ44KL77yI5L6LOiAzNzI1IOKGkiAiMTowMjowNSLvvInjgIIKCiAgICDnp5Ljga/lm5vmjajkupTlhaXjgZfjgIHliIbjg7vmmYLjgbjjga7nubDjgorkuIrjgYzjgorjgoLlh6bnkIbjgZnjgovjgILosqDlgKTjga8gVmFsdWVFcnJvcuOAggogICAgIiIiCiAgICBpZiBzZWNvbmRzIDwgMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJzZWNvbmRzIOOBryAwIOS7peS4iuOBruWApOOCkuaMh+WumuOBl+OBpuOBj+OBoOOBleOBhCIpCiAgICB0b3RhbCA9IF9yb3VuZF9oYWxmX3VwKHNlY29uZHMpCiAgICBob3VycywgcmVzdCA9IGRpdm1vZCh0b3RhbCwgMzYwMCkKICAgIG1pbnV0ZXMsIHNlY3MgPSBkaXZtb2QocmVzdCwgNjApCiAgICByZXR1cm4gIiVkOiUwMmQ6JTAyZCIgJSAoaG91cnMsIG1pbnV0ZXMsIHNlY3MpCg==
+"""pacecalc のコア変換関数。
+
+ペース（秒/km）と速度（km/h）の相互変換、および表示用の書式化を提供する。
+"""
+
+import math
+
+SECONDS_PER_HOUR = 3600.0
+
+
+def _round_half_up(value: float) -> int:
+    """四捨五入して int を返す（Python 組み込みの round は偶数丸めのため使わない）。"""
+    return int(math.floor(value + 0.5))
+
+
+def speed_to_pace_sec(speed_kmh: float) -> float:
+    """速度（km/h）からペース（秒/km）を返す。0 以下は ValueError。"""
+    if speed_kmh <= 0:
+        raise ValueError("speed_kmh は 0 より大きい値を指定してください")
+    return SECONDS_PER_HOUR / speed_kmh
+
+
+def pace_to_speed_kmh(pace_sec: float) -> float:
+    """ペース（秒/km）から速度（km/h）を返す。0 以下は ValueError。"""
+    if pace_sec <= 0:
+        raise ValueError("pace_sec は 0 より大きい値を指定してください")
+    return SECONDS_PER_HOUR / pace_sec
+
+
+def format_pace(pace_sec: float) -> str:
+    """秒/km を "M:SS" 形式の文字列にする（例: 330 → "5:30"）。
+
+    秒は四捨五入し、59.5 秒以上は分へ繰り上げる（例: 359.6 → "6:00"）。
+    負値は ValueError。
+    """
+    if pace_sec < 0:
+        raise ValueError("pace_sec は 0 以上の値を指定してください")
+    total = _round_half_up(pace_sec)
+    minutes, seconds = divmod(total, 60)
+    return "%d:%02d" % (minutes, seconds)
+
+
+def format_hms(seconds: float) -> str:
+    """秒を "H:MM:SS" 形式の文字列にする（例: 3725 → "1:02:05"）。
+
+    秒は四捨五入し、分・時への繰り上がりも処理する。負値は ValueError。
+    """
+    if seconds < 0:
+        raise ValueError("seconds は 0 以上の値を指定してください")
+    total = _round_half_up(seconds)
+    hours, rest = divmod(total, 3600)
+    minutes, secs = divmod(rest, 60)
+    return "%d:%02d:%02d" % (hours, minutes, secs)
