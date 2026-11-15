@@ -1,1 +1,343 @@
-IiIicGFjZWNhbGMuY291cnNl77yIR1BYIOOCs+ODvOOCueWvvuW/nO+8ieOBruODhuOCueODiOOAgiIiIgoKaW1wb3J0IGNvbnRleHRsaWIKaW1wb3J0IGlvCmltcG9ydCBtYXRoCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmltcG9ydCB0ZW1wZmlsZQppbXBvcnQgdW5pdHRlc3QKClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAiLi4iKQpzeXMucGF0aC5pbnNlcnQoMCwgUk9PVCkKCmltcG9ydCBwYWNlY2FsYwpmcm9tIHBhY2VjYWxjLmNsaSBpbXBvcnQgbWFpbgpmcm9tIHBhY2VjYWxjLmNsaW1iIGltcG9ydCBjbGltYl90aW1lX3NlYwpmcm9tIHBhY2VjYWxjLmNvcmUgaW1wb3J0IHNwZWVkX3RvX3BhY2Vfc2VjCmZyb20gcGFjZWNhbGMuY291cnNlIGltcG9ydCAoTUFYX1NQRUVEX0tNSCwgY291cnNlX3NlZ21lbnRzLCBoYXZlcnNpbmVfbSwgbG9hZF9ncHhfcG9pbnRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYW5fY291cnNlKQpmcm9tIHBhY2VjYWxjLnByZWRpY3QgaW1wb3J0IGZpbmlzaF90aW1lX3NlYwoKIyDotaTpgZPkuIrjgafntYzluqYgMSDluqbjgYLjgZ/jgorjga7ot53pm6LvvIhrbe+8ieOAgmhhdmVyc2luZV9tIOOBqOWQjOOBmOWcsOeQg+WNiuW+hOOBi+OCieaxguOCgeOCi+OAggpLTV9QRVJfREVHID0gMiAqIG1hdGgucGkgKiA2MzcxMDA4LjggLyAzNjAgLyAxMDAwLjAKU1RFUF9LTSA9IDAuMQoKCmRlZiBtYWtlX2dweChlbGV2YXRpb25zLCBuYW1lc3BhY2U9VHJ1ZSwgc3RlcF9rbT1TVEVQX0tNKToKICAgICIiIui1pOmBk+S4iuOCkuadseOBuCBzdGVwX2ttIOOBlOOBqOOBq+mAsuOCgOeCueWIl+OBriBHUFgg5paH5a2X5YiX44KS5L2c44KL77yI5qiZ6auYIE5vbmUg44GvIGVsZSDjgarjgZfvvInjgIIiIiIKICAgIHB0cyA9IFtdCiAgICBmb3IgaSwgZWxlIGluIGVudW1lcmF0ZShlbGV2YXRpb25zKToKICAgICAgICBsb24gPSBpICogc3RlcF9rbSAvIEtNX1BFUl9ERUcKICAgICAgICBpbm5lciA9ICIiIGlmIGVsZSBpcyBOb25lIGVsc2UgIjxlbGU+JXI8L2VsZT4iICUgZWxlCiAgICAgICAgcHRzLmFwcGVuZCgnPHRya3B0IGxhdD0iMCIgbG9uPSIlciI+JXM8L3Rya3B0PicgJSAobG9uLCBpbm5lcikpCiAgICB4bWxucyA9ICcgeG1sbnM9Imh0dHA6Ly93d3cudG9wb2dyYWZpeC5jb20vR1BYLzEvMSInIGlmIG5hbWVzcGFjZSBlbHNlICIiCiAgICByZXR1cm4gKCc8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PlxuJwogICAgICAgICAgICAnPGdweCB2ZXJzaW9uPSIxLjEiIGNyZWF0b3I9InRlc3QiJXM+PHRyaz48bmFtZT50PC9uYW1lPjx0cmtzZWc+JXMnCiAgICAgICAgICAgICc8L3Rya3NlZz48L3Ryaz48L2dweD4nICUgKHhtbG5zLCAiIi5qb2luKHB0cykpKQoKCiMgNSBrbeOAgTEwMCBtIOOBlOOBqOOBqyA1IG0g55m744KL5LiA5a6a5Yu+6YWNIDUlIOOBrueZu+OCiu+8iOeNsuW+l+aomemrmCAyNTAgbe+8iQpDTElNQl9HUFggPSBtYWtlX2dweChbMTAwLjAgKyA1LjAgKiBpIGZvciBpIGluIHJhbmdlKDUxKV0pCiMgNSBrbSDjga7lubPlnaYKRkxBVF9HUFggPSBtYWtlX2dweChbNTAuMF0gKiA1MSkKCgpkZWYgbWFrZV9yb3VuZGVkX2dweChuX3BvaW50cywgc3RlcF9rbSwgZGlnaXRzPTYpOgogICAgIiIibWFrZV9ncHgg44Go5ZCM44GY57WM6Lev44Gn44CB57WM5bqm44KS5bCP5pWwIGRpZ2l0cyDmoYHjgavkuLjjgoHjgZ8gR1BYIOOCkuS9nOOCi++8iOWun+mam+OBriBHUFgg44Gr5aSa44GE5b2i5byP77yJ44CCCgogICAg5Li444KB44Gr44KI44KK57eP6Led6Zui44GM5Yy66ZaT5bmF44Gu5YCN5pWw44GL44KJ44KP44Ga44GL77yI5pWwIGNt77yJ44Gr44Ga44KM44KL44CC5qiZ6auY44GvIDEwMCBtIOOBmuOBpOeZu+OCi+S4gOWumuWLvumFjeOAggogICAgIiIiCiAgICBwdHMgPSBbJzx0cmtwdCBsYXQ9IjAiIGxvbj0iJS4qZiI+PGVsZT4lcjwvZWxlPjwvdHJrcHQ+JwogICAgICAgICAgICUgKGRpZ2l0cywgaSAqIHN0ZXBfa20gLyBLTV9QRVJfREVHLCAxMDAuMCArIDUuMCAqIGkpIGZvciBpIGluIHJhbmdlKG5fcG9pbnRzKV0KICAgIHJldHVybiAoJzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+XG48Z3B4IHZlcnNpb249IjEuMSIgY3JlYXRvcj0idGVzdCI+JwogICAgICAgICAgICAnPHRyaz48dHJrc2VnPiVzPC90cmtzZWc+PC90cms+PC9ncHg+JyAlICIiLmpvaW4ocHRzKSkKCgpkZWYgcnVuX21haW4oYXJndik6CiAgICBvdXQsIGVyciA9IGlvLlN0cmluZ0lPKCksIGlvLlN0cmluZ0lPKCkKICAgIHdpdGggY29udGV4dGxpYi5yZWRpcmVjdF9zdGRvdXQob3V0KSwgY29udGV4dGxpYi5yZWRpcmVjdF9zdGRlcnIoZXJyKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGNvZGUgPSBtYWluKGFyZ3YpCiAgICAgICAgZXhjZXB0IFN5c3RlbUV4aXQgYXMgZXhjOgogICAgICAgICAgICBjb2RlID0gZXhjLmNvZGUKICAgIHJldHVybiBjb2RlLCBvdXQuZ2V0dmFsdWUoKSwgZXJyLmdldHZhbHVlKCkKCgpjbGFzcyBUZXN0SGF2ZXJzaW5lKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X29uZV9kZWdyZWVfb25fZXF1YXRvcihzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKGhhdmVyc2luZV9tKDAsIDAsIDAsIDEpIC8gMTAwMC4wLCAxMTEuMTksIGRlbHRhPTAuMDUpCgogICAgZGVmIHRlc3RfemVyb19hbmRfc3ltbWV0cnkoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChoYXZlcnNpbmVfbSgzNS4wLCAxMzkuMCwgMzUuMCwgMTM5LjApLCAwLjApCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChoYXZlcnNpbmVfbSgzNS4wLCAxMzkuMCwgMzUuNSwgMTM5LjcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGF2ZXJzaW5lX20oMzUuNSwgMTM5LjcsIDM1LjAsIDEzOS4wKSkKCiAgICBkZWYgdGVzdF9tZXJpZGlhbihzZWxmKToKICAgICAgICAjIOWtkOWNiOe3muaWueWQkeOCgiAxIOW6piDiiZIgMTExLjE5IGtt77yI55CD5L2T6L+R5Ly877yJCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChoYXZlcnNpbmVfbSgxMCwgMjAsIDExLCAyMCkgLyAxMDAwLjAsIDExMS4xOSwgZGVsdGE9MC4wNSkKCgpjbGFzcyBUZXN0TG9hZEdweCh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF93aXRoX25hbWVzcGFjZShzZWxmKToKICAgICAgICBwdHMgPSBsb2FkX2dweF9wb2ludHMobWFrZV9ncHgoWzEuMCwgMi4wLCAzLjBdKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihwdHMpLCAzKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocHRzWzBdLCAoMC4wLCAwLjAsIDEuMCkpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwdHNbMl1bMl0sIDMuMCkKCiAgICBkZWYgdGVzdF93aXRob3V0X25hbWVzcGFjZShzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvYWRfZ3B4X3BvaW50cyhtYWtlX2dweChbMS4wLCAyLjBdLCBuYW1lc3BhY2U9RmFsc2UpKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRfZ3B4X3BvaW50cyhtYWtlX2dweChbMS4wLCAyLjBdKSkpCgogICAgZGVmIHRlc3RfbWlzc2luZ19lbGVfaXNfbm9uZShzZWxmKToKICAgICAgICBwdHMgPSBsb2FkX2dweF9wb2ludHMobWFrZV9ncHgoWzEuMCwgTm9uZSwgMy4wXSkpCiAgICAgICAgc2VsZi5hc3NlcnRJc05vbmUocHRzWzFdWzJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocHRzWzJdWzJdLCAzLjApCgogICAgZGVmIHRlc3RfcnRlcHRfZmFsbGJhY2soc2VsZik6CiAgICAgICAgdGV4dCA9ICgnPGdweCB4bWxucz0iaHR0cDovL3d3dy50b3BvZ3JhZml4LmNvbS9HUFgvMS8wIj48cnRlPicKICAgICAgICAgICAgICAgICc8cnRlcHQgbGF0PSIzNS4xIiBsb249IjEzOS4yIj48ZWxlPjEwPC9lbGU+PC9ydGVwdD4nCiAgICAgICAgICAgICAgICAnPHJ0ZXB0IGxhdD0iMzUuMiIgbG9uPSIxMzkuMyIvPjwvcnRlPjwvZ3B4PicpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsb2FkX2dweF9wb2ludHModGV4dCksIFsoMzUuMSwgMTM5LjIsIDEwLjApLCAoMzUuMiwgMTM5LjMsIE5vbmUpXSkKCiAgICBkZWYgdGVzdF9pbnZhbGlkKHNlbGYpOgogICAgICAgIGZvciB0ZXh0IGluICgibm90IHhtbCIsICI8Z3B4Pjx0cms+PHRya3NlZz48dHJrcHQgbGF0PScwJy8+PC90cmtzZWc+PC90cms+PC9ncHg+IiwKICAgICAgICAgICAgICAgICAgICAgIjxncHg+PHRyaz48dHJrc2VnPjx0cmtwdCBsYXQ9J2EnIGxvbj0nMCcvPjwvdHJrc2VnPjwvdHJrPjwvZ3B4PiIsCiAgICAgICAgICAgICAgICAgICAgICI8Z3B4Pjx0cms+PHRya3NlZz48dHJrcHQgbGF0PScwJyBsb249JzAnPjxlbGU+eDwvZWxlPjwvdHJrcHQ+IgogICAgICAgICAgICAgICAgICAgICAiPC90cmtzZWc+PC90cms+PC9ncHg+Iik6CiAgICAgICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoVmFsdWVFcnJvciwgbXNnPXRleHQpOgogICAgICAgICAgICAgICAgbG9hZF9ncHhfcG9pbnRzKHRleHQpCgoKY2xhc3MgVGVzdENvdXJzZVNlZ21lbnRzKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X2NvbnN0YW50X2NsaW1iKHNlbGYpOgogICAgICAgIHNlZ3MgPSBjb3Vyc2Vfc2VnbWVudHMobG9hZF9ncHhfcG9pbnRzKENMSU1CX0dQWCksIHNlZ21lbnRfa209MS4wKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlZ3MpLCA1KQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc3VtKHNbMl0gZm9yIHMgaW4gc2VncyksIDUuMCwgcGxhY2VzPTYpCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzZWdzWy0xXVsxXSwgNS4wLCBwbGFjZXM9NikKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHN1bShzWzNdIGZvciBzIGluIHNlZ3MpLCAyNTAuMCwgcGxhY2VzPTYpCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzdW0oc1s0XSBmb3IgcyBpbiBzZWdzKSwgMC4wLCBwbGFjZXM9NikKICAgICAgICBmb3Igc3RhcnQsIGVuZCwgZGlzdCwgZ2FpbiwgbG9zcywgZ3JhZGllbnQgaW4gc2VnczoKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChnYWluLCA1MC4wLCBwbGFjZXM9NCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChncmFkaWVudCwgNS4wLCBwbGFjZXM9NCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChlbmQgLSBzdGFydCwgZGlzdCkKCiAgICBkZWYgdGVzdF9mcmFjdGlvbmFsX2xhc3Rfc2VnbWVudChzZWxmKToKICAgICAgICBzZWdzID0gY291cnNlX3NlZ21lbnRzKGxvYWRfZ3B4X3BvaW50cyhDTElNQl9HUFgpLCBzZWdtZW50X2ttPTIuMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWdzKSwgMykKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHNlZ3NbLTFdWzJdLCAxLjAsIHBsYWNlcz02KQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc3VtKHNbM10gZm9yIHMgaW4gc2VncyksIDI1MC4wLCBwbGFjZXM9NikKCiAgICBkZWYgdGVzdF9leGFjdF9tdWx0aXBsZV9oYXNfbm9fZW1wdHlfc2VnbWVudChzZWxmKToKICAgICAgICAjIOWbnuW4sO+8iFQwMDZS77yJOiDnt4/ot53pm6LjgYzljLrplpPluYXjga7lgI3mlbDjgaHjgofjgYbjganjga7jgajjgY3jgIHplbfjgZUgMCDjga7mnIDntYLljLrplpPjgpLkvZzjgonjgarjgYQKICAgICAgICBjYXNlcyA9IFsKICAgICAgICAgICAgKG1ha2VfZ3B4KFswLjBdICogMzEpLCAxLjAsIDMpLCAgICAgICAgICAgICMgMy4wIGttIC8gMSBrbQogICAgICAgICAgICAobWFrZV9ncHgoWzAuMF0gKiAzMSksIDAuMSwgMzApLCAgICAgICAgICAgIyAzLjAga20gLyAwLjEga20KICAgICAgICAgICAgKG1ha2VfZ3B4KFswLjBdICogNjEsIHN0ZXBfa209MC4wNSksIDAuMywgMTApLCAgIyAzLjAga20gLyAwLjMga20KICAgICAgICAgICAgKG1ha2Vfcm91bmRlZF9ncHgoMzEsIDAuMSksIDEuMCwgMyksICAgICAgICMg5Li444KB44Gn57eP6Led6ZuiIDMuMDAwMDQga20KICAgICAgICAgICAgKG1ha2Vfcm91bmRlZF9ncHgoMzEsIDAuMSwgZGlnaXRzPTcpLCAxLjAsIDMpLCAgIyDkuLjjgoHjgafnt4/ot53pm6IgMi45OTk5OTkga20KICAgICAgICAgICAgKG1ha2Vfcm91bmRlZF9ncHgoMzEsIDAuMSksIDAuNSwgNiksCiAgICAgICAgXQogICAgICAgIGZvciBncHgsIHNlZ19rbSwgZXhwZWN0ZWQgaW4gY2FzZXM6CiAgICAgICAgICAgIHdpdGggc2VsZi5zdWJUZXN0KHNlZ19rbT1zZWdfa20sIGV4cGVjdGVkPWV4cGVjdGVkKToKICAgICAgICAgICAgICAgIHB0cyA9IGxvYWRfZ3B4X3BvaW50cyhncHgpCiAgICAgICAgICAgICAgICBzZWdzID0gY291cnNlX3NlZ21lbnRzKHB0cywgc2VnbWVudF9rbT1zZWdfa20pCiAgICAgICAgICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWdzKSwgZXhwZWN0ZWQpCiAgICAgICAgICAgICAgICBmb3Igc3RhcnQsIGVuZCwgZGlzdCwgX2dhaW4sIF9sb3NzLCBfZ3JhZCBpbiBzZWdzOgogICAgICAgICAgICAgICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcihkaXN0LCBzZWdfa20gKiAwLjUpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChlbmQgLSBzdGFydCwgZGlzdCkKICAgICAgICAgICAgICAgICMg5Yy66ZaT44Gv44GZ44GN6ZaT44Gq44GPIDAg44GL44KJ57eP6Led6Zui44G+44Gn57aa44GPCiAgICAgICAgICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlZ3NbMF1bMF0sIDAuMCkKICAgICAgICAgICAgICAgIGZvciBhLCBiIGluIHppcChzZWdzLCBzZWdzWzE6XSk6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhWzFdLCBiWzBdKQogICAgICAgICAgICAgICAgdG90YWwgPSBzdW0oaGF2ZXJzaW5lX20ocFswXSwgcFsxXSwgcVswXSwgcVsxXSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBwLCBxIGluIHppcChwdHMsIHB0c1sxOl0pKSAvIDEwMDAuMAogICAgICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzZWdzWy0xXVsxXSwgdG90YWwsIHBsYWNlcz05KQoKICAgIGRlZiB0ZXN0X3RpbnlfcmVtYWluZGVyX2Fic29yYmVkX2ludG9fcHJldmlvdXMoc2VsZik6CiAgICAgICAgIyDlvq7lsI/jgarnq6/mlbDjga/nm7TliY3jga7ljLrplpPjgavlkLjlj47jgZXjgozjgIHot53pm6LjgajnjbLlvpfmqJnpq5jjga/lpLHjgo/jgozjgarjgYQKICAgICAgICBwdHMgPSBsb2FkX2dweF9wb2ludHMobWFrZV9yb3VuZGVkX2dweCgzMSwgMC4xKSkKICAgICAgICBzZWdzID0gY291cnNlX3NlZ21lbnRzKHB0cywgc2VnbWVudF9rbT0xLjApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWdzWy0xXVswXSwgMi4wKQogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcihzZWdzWy0xXVsxXSwgMy4wKQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc3VtKHNbM10gZm9yIHMgaW4gc2VncyksIDE1MC4wLCBwbGFjZXM9NikKCiAgICBkZWYgdGVzdF9zaG9ydF9yZW1haW5kZXJfa2VwdChzZWxmKToKICAgICAgICAjIOWQuOWPjuOBmeOCi+OBruOBryAxIG0g5pyq5rqA44Gu44G/44CC44Gd44KM5Lul5LiK44Gu56uv5pWw44Gv5b6T5p2l44Gp44GK44KK55+t44GE5Yy66ZaT44Go44GX44Gm5Ye644GZCiAgICAgICAgc2VncyA9IGNvdXJzZV9zZWdtZW50cyhsb2FkX2dweF9wb2ludHMobWFrZV9ncHgoWzAuMF0gKiAzMSkpLCBzZWdtZW50X2ttPTAuOTk4KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlZ3MpLCA0KQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc2Vnc1stMV1bMl0sIDAuMDA2LCBwbGFjZXM9NikKICAgICAgICBzZWdzID0gY291cnNlX3NlZ21lbnRzKGxvYWRfZ3B4X3BvaW50cyhtYWtlX2dweChbMC4wXSAqIDMxKSksIHNlZ21lbnRfa209MC45OTk4KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlZ3MpLCAzKQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc2Vnc1stMV1bMl0sIDEuMDAwNCwgcGxhY2VzPTYpCgogICAgZGVmIHRlc3RfYm91bmRhcnlfaW50ZXJwb2xhdGlvbihzZWxmKToKICAgICAgICAjIOeCueOBrumWk+malCAwLjMga20g44Go5Yy66ZaT5bmFIDEga20g44GM44Ga44KM44Gm44GE44Gm44KC542y5b6X5qiZ6auY44Gv5L+d5a2Y44GV44KM44KLCiAgICAgICAgc2VncyA9IGNvdXJzZV9zZWdtZW50cyhsb2FkX2dweF9wb2ludHMoCiAgICAgICAgICAgIG1ha2VfZ3B4KFsxMC4wICogaSBmb3IgaSBpbiByYW5nZSgxMSldLCBzdGVwX2ttPTAuMykpLCBzZWdtZW50X2ttPTEuMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWdzKSwgMykKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHN1bShzWzNdIGZvciBzIGluIHNlZ3MpLCAxMDAuMCwgcGxhY2VzPTYpCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzZWdzWzBdWzNdLCAxMDAuMCAvIDMuMCwgcGxhY2VzPTQpCgogICAgZGVmIHRlc3RfZGVzY2VudChzZWxmKToKICAgICAgICBzZWdzID0gY291cnNlX3NlZ21lbnRzKGxvYWRfZ3B4X3BvaW50cyhtYWtlX2dweChbMzAwLjAgLSA1LjAgKiBpIGZvciBpIGluIHJhbmdlKDIxKV0pKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWdzKSwgMikKICAgICAgICBmb3IgcyBpbiBzZWdzOgogICAgICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHNbM10sIDAuMCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzWzRdLCA1MC4wLCBwbGFjZXM9NCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbChzWzVdLCAtNS4wLCBwbGFjZXM9NCkKCiAgICBkZWYgdGVzdF9taXNzaW5nX2VsZXZhdGlvbl9jb3VudHNfemVybyhzZWxmKToKICAgICAgICBzZWdzID0gY291cnNlX3NlZ21lbnRzKGxvYWRfZ3B4X3BvaW50cyhtYWtlX2dweChbTm9uZV0gKiAyMSkpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlZ3MpLCAyKQogICAgICAgIGZvciBzIGluIHNlZ3M6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoKHNbM10sIHNbNF0sIHNbNV0pLCAoMC4wLCAwLjAsIDAuMCkpCiAgICAgICAgIyDkuIDpg6jjgaDjgZHmrKDjgZHjgabjgYTjgovloLTlkIjjgIHmrKDjgZHjgZ/ngrnjgavmjqXjgZnjgovpg6jliIbjgaDjgZEgMCDjgavjgarjgosKICAgICAgICBlbGV2YXRpb25zID0gWzEwLjAgKiBpIGZvciBpIGluIHJhbmdlKDExKV0KICAgICAgICBlbGV2YXRpb25zWzVdID0gTm9uZQogICAgICAgIHNlZ3MgPSBjb3Vyc2Vfc2VnbWVudHMobG9hZF9ncHhfcG9pbnRzKG1ha2VfZ3B4KGVsZXZhdGlvbnMpKSkKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHNlZ3NbMF1bM10sIDgwLjAsIHBsYWNlcz02KQoKICAgIGRlZiB0ZXN0X2ludmFsaWQoc2VsZik6CiAgICAgICAgcHRzID0gbG9hZF9ncHhfcG9pbnRzKENMSU1CX0dQWCkKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBjb3Vyc2Vfc2VnbWVudHMocHRzLCBzZWdtZW50X2ttPTApCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgY291cnNlX3NlZ21lbnRzKHB0c1s6MV0pCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgY291cnNlX3NlZ21lbnRzKFsoMC4wLCAwLjAsIDEuMCksICgwLjAsIDAuMCwgMi4wKV0pCgoKY2xhc3MgVGVzdFBsYW5Db3Vyc2UodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfZmxhdF9tYXRjaGVzX2ZpbmlzaF90aW1lKHNlbGYpOgogICAgICAgIHB0cyA9IGxvYWRfZ3B4X3BvaW50cyhGTEFUX0dQWCkKICAgICAgICByb3dzLCB0b3RhbCA9IHBsYW5fY291cnNlKHB0cywgMjAwLCA3NikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyb3dzKSwgNSkKICAgICAgICAjIOW5s+WdpuOBquOCiSBUMDA1IOOBriBjbGltYl90aW1lX3NlY++8iOeNsuW+l+aomemrmCAw77yJ44Go5ZCM44GY6YCf5bqm44Gr44Gq44KLCiAgICAgICAgZmxhdF90aW1lID0gY2xpbWJfdGltZV9zZWMoNS4wLCAwLCA3NiwgMjAwKQogICAgICAgIGZsYXRfc3BlZWQgPSA1LjAgLyBmbGF0X3RpbWUgKiAzNjAwLjAKICAgICAgICBmb3Igcm93IGluIHJvd3M6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwocm93WzNdLCBmbGF0X3NwZWVkLCBwbGFjZXM9NikKICAgICAgICAjIOOBneOBrumAn+W6puOBruODmuODvOOCueOBpyBUMDAyIOOBriBmaW5pc2hfdGltZV9zZWMg44KS6KiI566X44GZ44KL44Go57eP5omA6KaB5pmC6ZaT44Go5LiA6Ie044GZ44KLCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbCh0b3RhbCwgZmluaXNoX3RpbWVfc2VjKDUuMCwgc3BlZWRfdG9fcGFjZV9zZWMoZmxhdF9zcGVlZCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2VzPTMpCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbCh0b3RhbCwgc3VtKHJbNF0gZm9yIHIgaW4gcm93cykpCgogICAgZGVmIHRlc3RfY2xpbWJfc2xvd2VyX3RoYW5fZmxhdChzZWxmKToKICAgICAgICBfLCBmbGF0X3RvdGFsID0gcGxhbl9jb3Vyc2UobG9hZF9ncHhfcG9pbnRzKEZMQVRfR1BYKSwgMjMwLCA3NikKICAgICAgICByb3dzLCBjbGltYl90b3RhbCA9IHBsYW5fY291cnNlKGxvYWRfZ3B4X3BvaW50cyhDTElNQl9HUFgpLCAyMzAsIDc2KQogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcihjbGltYl90b3RhbCwgZmxhdF90b3RhbCkKICAgICAgICBmbGF0X3Jvd3MsIF8gPSBwbGFuX2NvdXJzZShsb2FkX2dweF9wb2ludHMoRkxBVF9HUFgpLCAyMzAsIDc2KQogICAgICAgIGZvciBjbGltYl9yb3csIGZsYXRfcm93IGluIHppcChyb3dzLCBmbGF0X3Jvd3MpOgogICAgICAgICAgICBzZWxmLmFzc2VydExlc3MoY2xpbWJfcm93WzNdLCBmbGF0X3Jvd1szXSkKICAgICAgICAjIOS4gOWumuWLvumFjeOBquOCiSBjbGltYl90aW1lX3NlYyDjgajkuIDoh7TjgZnjgosKICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKGNsaW1iX3RvdGFsLCBjbGltYl90aW1lX3NlYyg1LjAsIDI1MCwgNzYsIDIzMCksIGRlbHRhPTAuMDEpCgogICAgZGVmIHRlc3Rfc3RlZXBfZGVzY2VudF9jYXBwZWQoc2VsZik6CiAgICAgICAgcHRzID0gbG9hZF9ncHhfcG9pbnRzKG1ha2VfZ3B4KFsxMDAwLjAgLSAxNS4wICogaSBmb3IgaSBpbiByYW5nZSgyMSldKSkKICAgICAgICByb3dzLCB0b3RhbCA9IHBsYW5fY291cnNlKHB0cywgMjAwLCA3NikKICAgICAgICBmb3Igcm93IGluIHJvd3M6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwocm93WzNdLCBNQVhfU1BFRURfS01IKQogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwodG90YWwsIDIuMCAvIE1BWF9TUEVFRF9LTUggKiAzNjAwLjApCgogICAgZGVmIHRlc3RfZ2VudGxlX2Rlc2NlbnRfYmV0d2VlbihzZWxmKToKICAgICAgICBwdHMgPSBsb2FkX2dweF9wb2ludHMobWFrZV9ncHgoWzEwMC4wIC0gMC41ICogaSBmb3IgaSBpbiByYW5nZSgyMSldKSkgICMgLTAuNSUKICAgICAgICByb3dzLCBfID0gcGxhbl9jb3Vyc2UocHRzLCAyMDAsIDc2KQogICAgICAgIGZsYXRfcm93cywgXyA9IHBsYW5fY291cnNlKGxvYWRfZ3B4X3BvaW50cyhGTEFUX0dQWCksIDIwMCwgNzYpCiAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKHJvd3NbMF1bM10sIGZsYXRfcm93c1swXVszXSkKICAgICAgICBzZWxmLmFzc2VydExlc3Mocm93c1swXVszXSwgTUFYX1NQRUVEX0tNSCkKCiAgICBkZWYgdGVzdF9waHlzaWNzX2t3YXJncyhzZWxmKToKICAgICAgICBwdHMgPSBsb2FkX2dweF9wb2ludHMoRkxBVF9HUFgpCiAgICAgICAgXywgYmFzZSA9IHBsYW5fY291cnNlKHB0cywgMjAwLCA3NikKICAgICAgICBfLCBhZXJvID0gcGxhbl9jb3Vyc2UocHRzLCAyMDAsIDc2LCBjZGE9MC4yNSkKICAgICAgICBzZWxmLmFzc2VydExlc3MoYWVybywgYmFzZSkKCiAgICBkZWYgdGVzdF9pbnZhbGlkKHNlbGYpOgogICAgICAgIHB0cyA9IGxvYWRfZ3B4X3BvaW50cyhGTEFUX0dQWCkKICAgICAgICBmb3Iga3dhcmdzIGluIChkaWN0KHBvd2VyX3c9MCwgdG90YWxfd2VpZ2h0X2tnPTc2KSwgZGljdChwb3dlcl93PTIwMCwgdG90YWxfd2VpZ2h0X2tnPTApLAogICAgICAgICAgICAgICAgICAgICAgIGRpY3QocG93ZXJfdz0yMDAsIHRvdGFsX3dlaWdodF9rZz03NiwgY2RhPS0xKSwKICAgICAgICAgICAgICAgICAgICAgICBkaWN0KHBvd2VyX3c9MjAwLCB0b3RhbF93ZWlnaHRfa2c9NzYsIGRyaXZldHJhaW5fZWZmaWNpZW5jeT0xLjUpKToKICAgICAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhWYWx1ZUVycm9yLCBtc2c9a3dhcmdzKToKICAgICAgICAgICAgICAgIHBsYW5fY291cnNlKHB0cywgKiprd2FyZ3MpCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhUeXBlRXJyb3IpOgogICAgICAgICAgICBwbGFuX2NvdXJzZShwdHMsIDIwMCwgNzYsIHVua25vd249MSkKCiAgICBkZWYgdGVzdF9leHBvcnRlZChzZWxmKToKICAgICAgICBmb3IgbmFtZSBpbiAoImxvYWRfZ3B4X3BvaW50cyIsICJoYXZlcnNpbmVfbSIsICJjb3Vyc2Vfc2VnbWVudHMiLCAicGxhbl9jb3Vyc2UiKToKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGhhc2F0dHIocGFjZWNhbGMsIG5hbWUpKQoKCmNsYXNzIFRlc3RQbGFuQ291cnNlRXhhY3RNdWx0aXBsZSh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9ub196ZXJvX3RpbWVfcm93KHNlbGYpOgogICAgICAgICMg5Zue5biw77yIVDAwNlLvvIk6IOaJgOimgSAwIOenkuOBruWMuumWk+OBjOioiOeUu+OBq+WHuuOBquOBhAogICAgICAgIHB0cyA9IGxvYWRfZ3B4X3BvaW50cyhtYWtlX3JvdW5kZWRfZ3B4KDMxLCAwLjEpKQogICAgICAgIHJvd3MsIHRvdGFsID0gcGxhbl9jb3Vyc2UocHRzLCAyMzAsIDc2LCBzZWdtZW50X2ttPTEuMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyb3dzKSwgMykKICAgICAgICBmb3Igcm93IGluIHJvd3M6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcihyb3dbNF0sIDYwLjApCiAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbCh0b3RhbCwgc3VtKHJbNF0gZm9yIHIgaW4gcm93cykpCgogICAgZGVmIHRlc3RfY2xpX2hhc19ub19lbXB0eV9yb3coc2VsZik6CiAgICAgICAgZmQsIHBhdGggPSB0ZW1wZmlsZS5ta3N0ZW1wKHN1ZmZpeD0iLmdweCIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIG9zLmZkb3BlbihmZCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICAgICAgZi53cml0ZShtYWtlX3JvdW5kZWRfZ3B4KDMxLCAwLjEpKQogICAgICAgICAgICBjb2RlLCBvdXQsIGVyciA9IHJ1bl9tYWluKFsiY291cnNlIiwgIi0tZ3B4IiwgcGF0aCwgIi0tcG93ZXIiLCAiMjMwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0td2VpZ2h0IiwgIjc2Il0pCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgb3MucmVtb3ZlKHBhdGgpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb2RlLCAwLCBlcnIpCiAgICAgICAgbGluZXMgPSBvdXQuc3BsaXRsaW5lcygpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsZW4obGluZXMpLCAxICsgMyArIDEpCiAgICAgICAgc2VsZi5hc3NlcnRJbigiMi0zIiwgbGluZXNbM10pCiAgICAgICAgc2VsZi5hc3NlcnROb3RJbigiMy0zIiwgb3V0KQoKCmNsYXNzIFRlc3RDb3Vyc2VDbGkodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHNldFVwKHNlbGYpOgogICAgICAgIGZkLCBzZWxmLnBhdGggPSB0ZW1wZmlsZS5ta3N0ZW1wKHN1ZmZpeD0iLmdweCIpCiAgICAgICAgd2l0aCBvcy5mZG9wZW4oZmQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShDTElNQl9HUFgpCgogICAgZGVmIHRlYXJEb3duKHNlbGYpOgogICAgICAgIG9zLnJlbW92ZShzZWxmLnBhdGgpCgogICAgZGVmIHRlc3RfdGFibGUoc2VsZik6CiAgICAgICAgY29kZSwgb3V0LCBlcnIgPSBydW5fbWFpbihbImNvdXJzZSIsICItLWdweCIsIHNlbGYucGF0aCwgIi0tcG93ZXIiLCAiMjMwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLS13ZWlnaHQiLCAiNzYiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvZGUsIDAsIGVycikKICAgICAgICBsaW5lcyA9IG91dC5zcGxpdGxpbmVzKCkKICAgICAgICBzZWxmLmFzc2VydEluKCLljLrplpMoa20pIiwgbGluZXNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRJbigi5Yu+6YWNKCUpIiwgbGluZXNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRJbigi6YCf5bqmKGttL2gpIiwgbGluZXNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRJbigi57Sv6KiIIiwgbGluZXNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsZW4obGluZXMpLCAxICsgNSArIDEpCiAgICAgICAgc2VsZi5hc3NlcnRJbigiMC0xIiwgbGluZXNbMV0pCiAgICAgICAgc2VsZi5hc3NlcnRJbigiKzUuMCIsIGxpbmVzWzFdKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oIjQtNSIsIGxpbmVzWzVdKQogICAgICAgIHRvdGFsID0gY2xpbWJfdGltZV9zZWMoNS4wLCAyNTAsIDc2LCAyMzApCiAgICAgICAgZXhwZWN0ZWQgPSBwYWNlY2FsYy5mb3JtYXRfaG1zKHRvdGFsKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGluZXNbLTFdLCAi57eP5omA6KaB5pmC6ZaTOiAlcyIgJSBleHBlY3RlZCkKICAgICAgICBzZWxmLmFzc2VydFRydWUobGluZXNbNV0uZW5kc3dpdGgoZXhwZWN0ZWQpKQoKICAgIGRlZiB0ZXN0X2Vycm9ycyhzZWxmKToKICAgICAgICBjb2RlLCBfLCBlcnIgPSBydW5fbWFpbihbImNvdXJzZSIsICItLWdweCIsIHNlbGYucGF0aCArICIubWlzc2luZyIsICItLXBvd2VyIiwgIjIzMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLXdlaWdodCIsICI3NiJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29kZSwgMikKICAgICAgICBzZWxmLmFzc2VydEluKCLjgqjjg6njg7wiLCBlcnIpCiAgICAgICAgY29kZSwgXywgZXJyID0gcnVuX21haW4oWyJjb3Vyc2UiLCAiLS1ncHgiLCBzZWxmLnBhdGgsICItLXBvd2VyIiwgIjAiLCAiLS13ZWlnaHQiLCAiNzYiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvZGUsIDIpCgogICAgZGVmIHRlc3Rfc3VicHJvY2VzcyhzZWxmKToKICAgICAgICByZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgW3N5cy5leGVjdXRhYmxlLCAiLW0iLCAicGFjZWNhbGMiLCAiY291cnNlIiwgIi0tZ3B4Iiwgc2VsZi5wYXRoLAogICAgICAgICAgICAgIi0tcG93ZXIiLCAiMjMwIiwgIi0td2VpZ2h0IiwgIjc2IiwgIi0tc2VnbWVudCIsICIyLjUiXSwKICAgICAgICAgICAgY3dkPVJPT1QsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5yZXR1cm5jb2RlLCAwLCByZXN1bHQuc3RkZXJyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHJlc3VsdC5zdGRvdXQuc3BsaXRsaW5lcygpKSwgMSArIDIgKyAxKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICB1bml0dGVzdC5tYWluKCkK
+"""pacecalc.course（GPX コース対応）のテスト。"""
+
+import contextlib
+import io
+import math
+import os
+import subprocess
+import sys
+import tempfile
+import unittest
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+sys.path.insert(0, ROOT)
+
+import pacecalc
+from pacecalc.cli import main
+from pacecalc.climb import climb_time_sec
+from pacecalc.core import speed_to_pace_sec
+from pacecalc.course import (MAX_SPEED_KMH, course_segments, haversine_m, load_gpx_points,
+                             plan_course)
+from pacecalc.predict import finish_time_sec
+
+# 赤道上で経度 1 度あたりの距離（km）。haversine_m と同じ地球半径から求める。
+KM_PER_DEG = 2 * math.pi * 6371008.8 / 360 / 1000.0
+STEP_KM = 0.1
+
+
+def make_gpx(elevations, namespace=True, step_km=STEP_KM):
+    """赤道上を東へ step_km ごとに進む点列の GPX 文字列を作る（標高 None は ele なし）。"""
+    pts = []
+    for i, ele in enumerate(elevations):
+        lon = i * step_km / KM_PER_DEG
+        inner = "" if ele is None else "<ele>%r</ele>" % ele
+        pts.append('<trkpt lat="0" lon="%r">%s</trkpt>' % (lon, inner))
+    xmlns = ' xmlns="http://www.topografix.com/GPX/1/1"' if namespace else ""
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<gpx version="1.1" creator="test"%s><trk><name>t</name><trkseg>%s'
+            '</trkseg></trk></gpx>' % (xmlns, "".join(pts)))
+
+
+# 5 km、100 m ごとに 5 m 登る一定勾配 5% の登り（獲得標高 250 m）
+CLIMB_GPX = make_gpx([100.0 + 5.0 * i for i in range(51)])
+# 5 km の平坦
+FLAT_GPX = make_gpx([50.0] * 51)
+
+
+def make_rounded_gpx(n_points, step_km, digits=6):
+    """make_gpx と同じ経路で、経度を小数 digits 桁に丸めた GPX を作る（実際の GPX に多い形式）。
+
+    丸めにより総距離が区間幅の倍数からわずか（数 cm）にずれる。標高は 100 m ずつ登る一定勾配。
+    """
+    pts = ['<trkpt lat="0" lon="%.*f"><ele>%r</ele></trkpt>'
+           % (digits, i * step_km / KM_PER_DEG, 100.0 + 5.0 * i) for i in range(n_points)]
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="test">'
+            '<trk><trkseg>%s</trkseg></trk></gpx>' % "".join(pts))
+
+
+def run_main(argv):
+    out, err = io.StringIO(), io.StringIO()
+    with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
+        try:
+            code = main(argv)
+        except SystemExit as exc:
+            code = exc.code
+    return code, out.getvalue(), err.getvalue()
+
+
+class TestHaversine(unittest.TestCase):
+    def test_one_degree_on_equator(self):
+        self.assertAlmostEqual(haversine_m(0, 0, 0, 1) / 1000.0, 111.19, delta=0.05)
+
+    def test_zero_and_symmetry(self):
+        self.assertEqual(haversine_m(35.0, 139.0, 35.0, 139.0), 0.0)
+        self.assertAlmostEqual(haversine_m(35.0, 139.0, 35.5, 139.7),
+                               haversine_m(35.5, 139.7, 35.0, 139.0))
+
+    def test_meridian(self):
+        # 子午線方向も 1 度 ≒ 111.19 km（球体近似）
+        self.assertAlmostEqual(haversine_m(10, 20, 11, 20) / 1000.0, 111.19, delta=0.05)
+
+
+class TestLoadGpx(unittest.TestCase):
+    def test_with_namespace(self):
+        pts = load_gpx_points(make_gpx([1.0, 2.0, 3.0]))
+        self.assertEqual(len(pts), 3)
+        self.assertEqual(pts[0], (0.0, 0.0, 1.0))
+        self.assertEqual(pts[2][2], 3.0)
+
+    def test_without_namespace(self):
+        self.assertEqual(load_gpx_points(make_gpx([1.0, 2.0], namespace=False)),
+                         load_gpx_points(make_gpx([1.0, 2.0])))
+
+    def test_missing_ele_is_none(self):
+        pts = load_gpx_points(make_gpx([1.0, None, 3.0]))
+        self.assertIsNone(pts[1][2])
+        self.assertEqual(pts[2][2], 3.0)
+
+    def test_rtept_fallback(self):
+        text = ('<gpx xmlns="http://www.topografix.com/GPX/1/0"><rte>'
+                '<rtept lat="35.1" lon="139.2"><ele>10</ele></rtept>'
+                '<rtept lat="35.2" lon="139.3"/></rte></gpx>')
+        self.assertEqual(load_gpx_points(text), [(35.1, 139.2, 10.0), (35.2, 139.3, None)])
+
+    def test_invalid(self):
+        for text in ("not xml", "<gpx><trk><trkseg><trkpt lat='0'/></trkseg></trk></gpx>",
+                     "<gpx><trk><trkseg><trkpt lat='a' lon='0'/></trkseg></trk></gpx>",
+                     "<gpx><trk><trkseg><trkpt lat='0' lon='0'><ele>x</ele></trkpt>"
+                     "</trkseg></trk></gpx>"):
+            with self.assertRaises(ValueError, msg=text):
+                load_gpx_points(text)
+
+
+class TestCourseSegments(unittest.TestCase):
+    def test_constant_climb(self):
+        segs = course_segments(load_gpx_points(CLIMB_GPX), segment_km=1.0)
+        self.assertEqual(len(segs), 5)
+        self.assertAlmostEqual(sum(s[2] for s in segs), 5.0, places=6)
+        self.assertAlmostEqual(segs[-1][1], 5.0, places=6)
+        self.assertAlmostEqual(sum(s[3] for s in segs), 250.0, places=6)
+        self.assertAlmostEqual(sum(s[4] for s in segs), 0.0, places=6)
+        for start, end, dist, gain, loss, gradient in segs:
+            self.assertAlmostEqual(gain, 50.0, places=4)
+            self.assertAlmostEqual(gradient, 5.0, places=4)
+            self.assertAlmostEqual(end - start, dist)
+
+    def test_fractional_last_segment(self):
+        segs = course_segments(load_gpx_points(CLIMB_GPX), segment_km=2.0)
+        self.assertEqual(len(segs), 3)
+        self.assertAlmostEqual(segs[-1][2], 1.0, places=6)
+        self.assertAlmostEqual(sum(s[3] for s in segs), 250.0, places=6)
+
+    def test_exact_multiple_has_no_empty_segment(self):
+        # 回帰（T006R）: 総距離が区間幅の倍数ちょうどのとき、長さ 0 の最終区間を作らない
+        cases = [
+            (make_gpx([0.0] * 31), 1.0, 3),            # 3.0 km / 1 km
+            (make_gpx([0.0] * 31), 0.1, 30),           # 3.0 km / 0.1 km
+            (make_gpx([0.0] * 61, step_km=0.05), 0.3, 10),  # 3.0 km / 0.3 km
+            (make_rounded_gpx(31, 0.1), 1.0, 3),       # 丸めで総距離 3.00004 km
+            (make_rounded_gpx(31, 0.1, digits=7), 1.0, 3),  # 丸めで総距離 2.999999 km
+            (make_rounded_gpx(31, 0.1), 0.5, 6),
+        ]
+        for gpx, seg_km, expected in cases:
+            with self.subTest(seg_km=seg_km, expected=expected):
+                pts = load_gpx_points(gpx)
+                segs = course_segments(pts, segment_km=seg_km)
+                self.assertEqual(len(segs), expected)
+                for start, end, dist, _gain, _loss, _grad in segs:
+                    self.assertGreater(dist, seg_km * 0.5)
+                    self.assertAlmostEqual(end - start, dist)
+                # 区間はすき間なく 0 から総距離まで続く
+                self.assertEqual(segs[0][0], 0.0)
+                for a, b in zip(segs, segs[1:]):
+                    self.assertEqual(a[1], b[0])
+                total = sum(haversine_m(p[0], p[1], q[0], q[1])
+                            for p, q in zip(pts, pts[1:])) / 1000.0
+                self.assertAlmostEqual(segs[-1][1], total, places=9)
+
+    def test_tiny_remainder_absorbed_into_previous(self):
+        # 微小な端数は直前の区間に吸収され、距離と獲得標高は失われない
+        pts = load_gpx_points(make_rounded_gpx(31, 0.1))
+        segs = course_segments(pts, segment_km=1.0)
+        self.assertEqual(segs[-1][0], 2.0)
+        self.assertGreater(segs[-1][1], 3.0)
+        self.assertAlmostEqual(sum(s[3] for s in segs), 150.0, places=6)
+
+    def test_short_remainder_kept(self):
+        # 吸収するのは 1 m 未満のみ。それ以上の端数は従来どおり短い区間として出す
+        segs = course_segments(load_gpx_points(make_gpx([0.0] * 31)), segment_km=0.998)
+        self.assertEqual(len(segs), 4)
+        self.assertAlmostEqual(segs[-1][2], 0.006, places=6)
+        segs = course_segments(load_gpx_points(make_gpx([0.0] * 31)), segment_km=0.9998)
+        self.assertEqual(len(segs), 3)
+        self.assertAlmostEqual(segs[-1][2], 1.0004, places=6)
+
+    def test_boundary_interpolation(self):
+        # 点の間隔 0.3 km と区間幅 1 km がずれていても獲得標高は保存される
+        segs = course_segments(load_gpx_points(
+            make_gpx([10.0 * i for i in range(11)], step_km=0.3)), segment_km=1.0)
+        self.assertEqual(len(segs), 3)
+        self.assertAlmostEqual(sum(s[3] for s in segs), 100.0, places=6)
+        self.assertAlmostEqual(segs[0][3], 100.0 / 3.0, places=4)
+
+    def test_descent(self):
+        segs = course_segments(load_gpx_points(make_gpx([300.0 - 5.0 * i for i in range(21)])))
+        self.assertEqual(len(segs), 2)
+        for s in segs:
+            self.assertAlmostEqual(s[3], 0.0)
+            self.assertAlmostEqual(s[4], 50.0, places=4)
+            self.assertAlmostEqual(s[5], -5.0, places=4)
+
+    def test_missing_elevation_counts_zero(self):
+        segs = course_segments(load_gpx_points(make_gpx([None] * 21)))
+        self.assertEqual(len(segs), 2)
+        for s in segs:
+            self.assertEqual((s[3], s[4], s[5]), (0.0, 0.0, 0.0))
+        # 一部だけ欠けている場合、欠けた点に接する部分だけ 0 になる
+        elevations = [10.0 * i for i in range(11)]
+        elevations[5] = None
+        segs = course_segments(load_gpx_points(make_gpx(elevations)))
+        self.assertAlmostEqual(segs[0][3], 80.0, places=6)
+
+    def test_invalid(self):
+        pts = load_gpx_points(CLIMB_GPX)
+        with self.assertRaises(ValueError):
+            course_segments(pts, segment_km=0)
+        with self.assertRaises(ValueError):
+            course_segments(pts[:1])
+        with self.assertRaises(ValueError):
+            course_segments([(0.0, 0.0, 1.0), (0.0, 0.0, 2.0)])
+
+
+class TestPlanCourse(unittest.TestCase):
+    def test_flat_matches_finish_time(self):
+        pts = load_gpx_points(FLAT_GPX)
+        rows, total = plan_course(pts, 200, 76)
+        self.assertEqual(len(rows), 5)
+        # 平坦なら T005 の climb_time_sec（獲得標高 0）と同じ速度になる
+        flat_time = climb_time_sec(5.0, 0, 76, 200)
+        flat_speed = 5.0 / flat_time * 3600.0
+        for row in rows:
+            self.assertAlmostEqual(row[3], flat_speed, places=6)
+        # その速度のペースで T002 の finish_time_sec を計算すると総所要時間と一致する
+        self.assertAlmostEqual(total, finish_time_sec(5.0, speed_to_pace_sec(flat_speed)),
+                               places=3)
+        self.assertAlmostEqual(total, sum(r[4] for r in rows))
+
+    def test_climb_slower_than_flat(self):
+        _, flat_total = plan_course(load_gpx_points(FLAT_GPX), 230, 76)
+        rows, climb_total = plan_course(load_gpx_points(CLIMB_GPX), 230, 76)
+        self.assertGreater(climb_total, flat_total)
+        flat_rows, _ = plan_course(load_gpx_points(FLAT_GPX), 230, 76)
+        for climb_row, flat_row in zip(rows, flat_rows):
+            self.assertLess(climb_row[3], flat_row[3])
+        # 一定勾配なら climb_time_sec と一致する
+        self.assertAlmostEqual(climb_total, climb_time_sec(5.0, 250, 76, 230), delta=0.01)
+
+    def test_steep_descent_capped(self):
+        pts = load_gpx_points(make_gpx([1000.0 - 15.0 * i for i in range(21)]))
+        rows, total = plan_course(pts, 200, 76)
+        for row in rows:
+            self.assertAlmostEqual(row[3], MAX_SPEED_KMH)
+        self.assertAlmostEqual(total, 2.0 / MAX_SPEED_KMH * 3600.0)
+
+    def test_gentle_descent_between(self):
+        pts = load_gpx_points(make_gpx([100.0 - 0.5 * i for i in range(21)]))  # -0.5%
+        rows, _ = plan_course(pts, 200, 76)
+        flat_rows, _ = plan_course(load_gpx_points(FLAT_GPX), 200, 76)
+        self.assertGreater(rows[0][3], flat_rows[0][3])
+        self.assertLess(rows[0][3], MAX_SPEED_KMH)
+
+    def test_physics_kwargs(self):
+        pts = load_gpx_points(FLAT_GPX)
+        _, base = plan_course(pts, 200, 76)
+        _, aero = plan_course(pts, 200, 76, cda=0.25)
+        self.assertLess(aero, base)
+
+    def test_invalid(self):
+        pts = load_gpx_points(FLAT_GPX)
+        for kwargs in (dict(power_w=0, total_weight_kg=76), dict(power_w=200, total_weight_kg=0),
+                       dict(power_w=200, total_weight_kg=76, cda=-1),
+                       dict(power_w=200, total_weight_kg=76, drivetrain_efficiency=1.5)):
+            with self.assertRaises(ValueError, msg=kwargs):
+                plan_course(pts, **kwargs)
+        with self.assertRaises(TypeError):
+            plan_course(pts, 200, 76, unknown=1)
+
+    def test_exported(self):
+        for name in ("load_gpx_points", "haversine_m", "course_segments", "plan_course"):
+            self.assertTrue(hasattr(pacecalc, name))
+
+
+class TestPlanCourseExactMultiple(unittest.TestCase):
+    def test_no_zero_time_row(self):
+        # 回帰（T006R）: 所要 0 秒の区間が計画に出ない
+        pts = load_gpx_points(make_rounded_gpx(31, 0.1))
+        rows, total = plan_course(pts, 230, 76, segment_km=1.0)
+        self.assertEqual(len(rows), 3)
+        for row in rows:
+            self.assertGreater(row[4], 60.0)
+        self.assertAlmostEqual(total, sum(r[4] for r in rows))
+
+    def test_cli_has_no_empty_row(self):
+        fd, path = tempfile.mkstemp(suffix=".gpx")
+        try:
+            with os.fdopen(fd, "w", encoding="utf-8") as f:
+                f.write(make_rounded_gpx(31, 0.1))
+            code, out, err = run_main(["course", "--gpx", path, "--power", "230",
+                                       "--weight", "76"])
+        finally:
+            os.remove(path)
+        self.assertEqual(code, 0, err)
+        lines = out.splitlines()
+        self.assertEqual(len(lines), 1 + 3 + 1)
+        self.assertIn("2-3", lines[3])
+        self.assertNotIn("3-3", out)
+
+
+class TestCourseCli(unittest.TestCase):
+    def setUp(self):
+        fd, self.path = tempfile.mkstemp(suffix=".gpx")
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(CLIMB_GPX)
+
+    def tearDown(self):
+        os.remove(self.path)
+
+    def test_table(self):
+        code, out, err = run_main(["course", "--gpx", self.path, "--power", "230",
+                                   "--weight", "76"])
+        self.assertEqual(code, 0, err)
+        lines = out.splitlines()
+        self.assertIn("区間(km)", lines[0])
+        self.assertIn("勾配(%)", lines[0])
+        self.assertIn("速度(km/h)", lines[0])
+        self.assertIn("累計", lines[0])
+        self.assertEqual(len(lines), 1 + 5 + 1)
+        self.assertIn("0-1", lines[1])
+        self.assertIn("+5.0", lines[1])
+        self.assertIn("4-5", lines[5])
+        total = climb_time_sec(5.0, 250, 76, 230)
+        expected = pacecalc.format_hms(total)
+        self.assertEqual(lines[-1], "総所要時間: %s" % expected)
+        self.assertTrue(lines[5].endswith(expected))
+
+    def test_errors(self):
+        code, _, err = run_main(["course", "--gpx", self.path + ".missing", "--power", "230",
+                                 "--weight", "76"])
+        self.assertEqual(code, 2)
+        self.assertIn("エラー", err)
+        code, _, err = run_main(["course", "--gpx", self.path, "--power", "0", "--weight", "76"])
+        self.assertEqual(code, 2)
+
+    def test_subprocess(self):
+        result = subprocess.run(
+            [sys.executable, "-m", "pacecalc", "course", "--gpx", self.path,
+             "--power", "230", "--weight", "76", "--segment", "2.5"],
+            cwd=ROOT, capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(len(result.stdout.splitlines()), 1 + 2 + 1)
+
+
+if __name__ == "__main__":
+    unittest.main()
