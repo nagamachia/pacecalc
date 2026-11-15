@@ -1,1 +1,44 @@
-IiIiR2l0SHViIEFjdGlvbnMg44Ov44O844Kv44OV44Ot44O877yILmdpdGh1Yi93b3JrZmxvd3MvdGVzdC55bWzvvInjga7lhoXlrrnjgpLmpJzmn7vjgZnjgovjg4bjgrnjg4jjgIIKCuaomea6luODqeOCpOODluODqeODquOBruOBv+OCkuS9v+OBhuOBn+OCgSBZQU1MIOODkeODvOOCteOBr+S9v+OCj+OBmuOAgeW/hemgiOOCreODvOOBqOWApOOBjArmnJ/lvoXjganjgYrjgorjga7jgqTjg7Pjg4fjg7Pjg4jjgafoqJjov7DjgZXjgozjgabjgYTjgovjgYvjgpLooYzljZjkvY3jgafnorroqo3jgZnjgovjgIIKIiIiCgppbXBvcnQgb3MKaW1wb3J0IHVuaXR0ZXN0CgpST09UID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKV09SS0ZMT1cgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIi5naXRodWIiLCAid29ya2Zsb3dzIiwgInRlc3QueW1sIikKCgpjbGFzcyBUZXN0Q0lXb3JrZmxvdyh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBzZXRVcENsYXNzKGNscyk6CiAgICAgICAgd2l0aCBvcGVuKFdPUktGTE9XLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICBjbHMudGV4dCA9IGYucmVhZCgpCiAgICAgICAgY2xzLmxpbmVzID0gY2xzLnRleHQuc3BsaXRsaW5lcygpCgogICAgZGVmIHRlc3Rfbm9fdGFicyhzZWxmKToKICAgICAgICAjIFlBTUwg44Gn44Gv44Kk44Oz44OH44Oz44OI44Gr44K/44OW44KS5L2/44GI44Gq44GECiAgICAgICAgc2VsZi5hc3NlcnROb3RJbigiXHQiLCBzZWxmLnRleHQpCgogICAgZGVmIHRlc3RfdHJpZ2dlcnMoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRJbigib246Iiwgc2VsZi5saW5lcykKICAgICAgICBzZWxmLmFzc2VydEluKCIgIHB1c2g6Iiwgc2VsZi5saW5lcykKICAgICAgICBzZWxmLmFzc2VydEluKCIgIHB1bGxfcmVxdWVzdDoiLCBzZWxmLmxpbmVzKQoKICAgIGRlZiB0ZXN0X3J1bm5lcl9hbmRfcHl0aG9uKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0SW4oImpvYnM6Iiwgc2VsZi5saW5lcykKICAgICAgICBzZWxmLmFzc2VydEluKCIgICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdCIsIHNlbGYubGluZXMpCiAgICAgICAgc2VsZi5hc3NlcnRJbigiICAgICAgICB1c2VzOiBhY3Rpb25zL3NldHVwLXB5dGhvbkB2NSIsIHNlbGYubGluZXMpCiAgICAgICAgc2VsZi5hc3NlcnRJbignICAgICAgICAgIHB5dGhvbi12ZXJzaW9uOiAiMy4xMiInLCBzZWxmLmxpbmVzKQoKICAgIGRlZiB0ZXN0X2NoZWNrb3V0X2FuZF90ZXN0X3N0ZXAoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRJbigiICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHY0Iiwgc2VsZi5saW5lcykKICAgICAgICBzZWxmLmFzc2VydEluKAogICAgICAgICAgICAiICAgICAgICBydW46IHB5dGhvbiAtbSB1bml0dGVzdCBkaXNjb3ZlciAtcyB0ZXN0cyIsIHNlbGYubGluZXMKICAgICAgICApCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHVuaXR0ZXN0Lm1haW4oKQo=
+"""GitHub Actions ワークフロー（.github/workflows/test.yml）の内容を検査するテスト。
+
+標準ライブラリのみを使うため YAML パーサは使わず、必須キーと値が
+期待どおりのインデントで記述されているかを行単位で確認する。
+"""
+
+import os
+import unittest
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WORKFLOW = os.path.join(ROOT, ".github", "workflows", "test.yml")
+
+
+class TestCIWorkflow(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        with open(WORKFLOW, encoding="utf-8") as f:
+            cls.text = f.read()
+        cls.lines = cls.text.splitlines()
+
+    def test_no_tabs(self):
+        # YAML ではインデントにタブを使えない
+        self.assertNotIn("\t", self.text)
+
+    def test_triggers(self):
+        self.assertIn("on:", self.lines)
+        self.assertIn("  push:", self.lines)
+        self.assertIn("  pull_request:", self.lines)
+
+    def test_runner_and_python(self):
+        self.assertIn("jobs:", self.lines)
+        self.assertIn("    runs-on: ubuntu-latest", self.lines)
+        self.assertIn("        uses: actions/setup-python@v5", self.lines)
+        self.assertIn('          python-version: "3.12"', self.lines)
+
+    def test_checkout_and_test_step(self):
+        self.assertIn("        uses: actions/checkout@v4", self.lines)
+        self.assertIn(
+            "        run: python -m unittest discover -s tests", self.lines
+        )
+
+
+if __name__ == "__main__":
+    unittest.main()
