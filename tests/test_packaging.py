@@ -1,1 +1,124 @@
-IiIi44OR44OD44Kx44O844K444Oz44Kw77yIcHlwcm9qZWN0LnRvbWzjg7vjg5Djg7zjgrjjg6fjg7Pjg7vlnovjg5Ljg7Pjg4jjg7tSRUFETUXjg7tDSEFOR0VMT0fvvInjgpLmpJzmn7vjgZnjgovjg4bjgrnjg4jjgIIiIiIKCmltcG9ydCBjb250ZXh0bGliCmltcG9ydCBpbXBvcnRsaWIKaW1wb3J0IGlvCmltcG9ydCBvcwppbXBvcnQgdHlwaW5nCmltcG9ydCB1bml0dGVzdAoKaW1wb3J0IHBhY2VjYWxjCmZyb20gcGFjZWNhbGMgaW1wb3J0IGNsaQoKdHJ5OgogICAgaW1wb3J0IHRvbWxsaWIKZXhjZXB0IEltcG9ydEVycm9yOiAgIyBQeXRob24gMy4xMCDjgavjga8gdG9tbGxpYiDjgYzjgarjgYQKICAgIHRvbWxsaWIgPSBOb25lCgpST09UID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKCgpkZWYgX3JlYWQobmFtZSk6CiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKFJPT1QsIG5hbWUpLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIHJldHVybiBmLnJlYWQoKQoKCkB1bml0dGVzdC5za2lwSWYodG9tbGxpYiBpcyBOb25lLCAidG9tbGxpYiDjgYzjgarjgYTvvIhQeXRob24gMy4xMSDmnKrmuoDvvIkiKQpjbGFzcyBUZXN0UHlwcm9qZWN0KHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHNldFVwQ2xhc3MoY2xzKToKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICJweXByb2plY3QudG9tbCIpLCAicmIiKSBhcyBmOgogICAgICAgICAgICBjbHMuZGF0YSA9IHRvbWxsaWIubG9hZChmKQoKICAgIGRlZiB0ZXN0X2J1aWxkX2JhY2tlbmQoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWxmLmRhdGFbImJ1aWxkLXN5c3RlbSJdWyJidWlsZC1iYWNrZW5kIl0sICJzZXR1cHRvb2xzLmJ1aWxkX21ldGEiKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShhbnkoci5zdGFydHN3aXRoKCJzZXR1cHRvb2xzIikgZm9yIHIgaW4gc2VsZi5kYXRhWyJidWlsZC1zeXN0ZW0iXVsicmVxdWlyZXMiXSkpCgogICAgZGVmIHRlc3RfbWV0YWRhdGEoc2VsZik6CiAgICAgICAgcHJvamVjdCA9IHNlbGYuZGF0YVsicHJvamVjdCJdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwcm9qZWN0WyJuYW1lIl0sICJwYWNlY2FsYyIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwcm9qZWN0WyJ2ZXJzaW9uIl0sICIxLjAuMCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwcm9qZWN0WyJyZXF1aXJlcy1weXRob24iXSwgIj49My4xMCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwcm9qZWN0WyJyZWFkbWUiXSwgIlJFQURNRS5tZCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwcm9qZWN0LmdldCgiZGVwZW5kZW5jaWVzIiwgW10pLCBbXSkKICAgICAgICAjIGRlc2NyaXB0aW9uIOOBr+iLseiqniAxIOihjAogICAgICAgIGRlc2NyaXB0aW9uID0gcHJvamVjdFsiZGVzY3JpcHRpb24iXQogICAgICAgIHNlbGYuYXNzZXJ0Tm90SW4oIlxuIiwgZGVzY3JpcHRpb24pCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGRlc2NyaXB0aW9uLmlzYXNjaWkoKSkKCiAgICBkZWYgdGVzdF9jb25zb2xlX3NjcmlwdChzZWxmKToKICAgICAgICB0YXJnZXQgPSBzZWxmLmRhdGFbInByb2plY3QiXVsic2NyaXB0cyJdWyJwYWNlY2FsYyJdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCh0YXJnZXQsICJwYWNlY2FsYy5jbGk6bWFpbiIpCiAgICAgICAgbW9kdWxlX25hbWUsIGZ1bmNfbmFtZSA9IHRhcmdldC5zcGxpdCgiOiIpCiAgICAgICAgZnVuYyA9IGdldGF0dHIoaW1wb3J0bGliLmltcG9ydF9tb2R1bGUobW9kdWxlX25hbWUpLCBmdW5jX25hbWUpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGNhbGxhYmxlKGZ1bmMpKQoKICAgIGRlZiB0ZXN0X3ZlcnNpb25fbWF0Y2hlc19wYWNrYWdlKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2VsZi5kYXRhWyJwcm9qZWN0Il1bInZlcnNpb24iXSwgcGFjZWNhbGMuX192ZXJzaW9uX18pCgoKY2xhc3MgVGVzdFZlcnNpb24odW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfdmVyc2lvbihzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBhY2VjYWxjLl9fdmVyc2lvbl9fLCAiMS4wLjAiKQoKICAgIGRlZiB0ZXN0X3B1YmxpY19hcGlfa2VwdChzZWxmKToKICAgICAgICBmb3IgbmFtZSBpbiBbInNwZWVkX3RvX3BhY2Vfc2VjIiwgInBhY2VfdG9fc3BlZWRfa21oIiwgImZvcm1hdF9wYWNlIiwgImZvcm1hdF9obXMiLAogICAgICAgICAgICAgICAgICAgICAiZmluaXNoX3RpbWVfc2VjIiwgInJpZWdlbF9wcmVkaWN0X3NlYyIsICJzcGxpdF90YWJsZSIsICJjbGltYl90aW1lX3NlYyIsCiAgICAgICAgICAgICAgICAgICAgICJyZXF1aXJlZF9wb3dlcl93IiwgImxvYWRfZ3B4X3BvaW50cyIsICJoYXZlcnNpbmVfbSIsICJjb3Vyc2Vfc2VnbWVudHMiLAogICAgICAgICAgICAgICAgICAgICAicGxhbl9jb3Vyc2UiXToKICAgICAgICAgICAgc2VsZi5hc3NlcnRJbihuYW1lLCBwYWNlY2FsYy5fX2FsbF9fKQogICAgICAgICAgICBzZWxmLmFzc2VydFRydWUoY2FsbGFibGUoZ2V0YXR0cihwYWNlY2FsYywgbmFtZSkpKQoKICAgIGRlZiB0ZXN0X2NvbnNvbGVfZW50cnlfcmV0dXJuc19leGl0X2NvZGUoc2VsZik6CiAgICAgICAgIyDjgrPjg7Pjgr3jg7zjg6vjgrnjgq/jg6rjg5fjg4jjga8gc3lzLmV4aXQobWFpbigpKSDjgaflkbzjgbDjgozjgovjgZ/jgoHjgIHntYLkuobjgrPjg7zjg4njgpLov5TjgZnjgZPjgagKICAgICAgICBvdXQgPSBpby5TdHJpbmdJTygpCiAgICAgICAgd2l0aCBjb250ZXh0bGliLnJlZGlyZWN0X3N0ZG91dChvdXQpOgogICAgICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNsaS5tYWluKFsicGFjZSIsICItLXNwZWVkIiwgIjEyIl0pLCAwKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwob3V0LmdldHZhbHVlKCksICI1OjAwIC9rbVxuIikKCgpjbGFzcyBUZXN0VHlwZUhpbnRzKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIFBVQkxJQyA9IFsic3BlZWRfdG9fcGFjZV9zZWMiLCAicGFjZV90b19zcGVlZF9rbWgiLCAiZm9ybWF0X3BhY2UiLCAiZm9ybWF0X2htcyIsCiAgICAgICAgICAgICAgImZpbmlzaF90aW1lX3NlYyIsICJyaWVnZWxfcHJlZGljdF9zZWMiLCAic3BsaXRfdGFibGUiLCAiY2xpbWJfdGltZV9zZWMiLAogICAgICAgICAgICAgICJyZXF1aXJlZF9wb3dlcl93IiwgImxvYWRfZ3B4X3BvaW50cyIsICJoYXZlcnNpbmVfbSIsICJjb3Vyc2Vfc2VnbWVudHMiLAogICAgICAgICAgICAgICJwbGFuX2NvdXJzZSJdCgogICAgZGVmIHRlc3RfYWxsX3BhcmFtc19hbmRfcmV0dXJuX2Fubm90YXRlZChzZWxmKToKICAgICAgICBpbXBvcnQgaW5zcGVjdAogICAgICAgIGZvciBuYW1lIGluIHNlbGYuUFVCTElDOgogICAgICAgICAgICBmdW5jID0gZ2V0YXR0cihwYWNlY2FsYywgbmFtZSkKICAgICAgICAgICAgaGludHMgPSB0eXBpbmcuZ2V0X3R5cGVfaGludHMoZnVuYykKICAgICAgICAgICAgcGFyYW1zID0gaW5zcGVjdC5zaWduYXR1cmUoZnVuYykucGFyYW1ldGVycwogICAgICAgICAgICB3aXRoIHNlbGYuc3ViVGVzdChuYW1lPW5hbWUpOgogICAgICAgICAgICAgICAgc2VsZi5hc3NlcnRJbigicmV0dXJuIiwgaGludHMpCiAgICAgICAgICAgICAgICBmb3IgcGFyYW0gaW4gcGFyYW1zOgogICAgICAgICAgICAgICAgICAgIHNlbGYuYXNzZXJ0SW4ocGFyYW0sIGhpbnRzKQoKICAgIGRlZiB0ZXN0X3NvbWVfaGludHMoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRJcyh0eXBpbmcuZ2V0X3R5cGVfaGludHMocGFjZWNhbGMuZm9ybWF0X3BhY2UpWyJyZXR1cm4iXSwgc3RyKQogICAgICAgIHNlbGYuYXNzZXJ0SXModHlwaW5nLmdldF90eXBlX2hpbnRzKHBhY2VjYWxjLnNwZWVkX3RvX3BhY2Vfc2VjKVsic3BlZWRfa21oIl0sIGZsb2F0KQoKCmNsYXNzIFRlc3REb2NzKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X3JlYWRtZV9iYWRnZV9hdF90b3Aoc2VsZik6CiAgICAgICAgbGluZXMgPSBbbGluZSBmb3IgbGluZSBpbiBfcmVhZCgiUkVBRE1FLm1kIikuc3BsaXRsaW5lcygpIGlmIGxpbmUuc3RyaXAoKV0KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxpbmVzWzBdLCAiIyBwYWNlY2FsYyIpCiAgICAgICAgc2VsZi5hc3NlcnRJbigKICAgICAgICAgICAgImh0dHBzOi8vZ2l0aHViLmNvbS9uYWdhbWFjaGlhL3BhY2VjYWxjL2FjdGlvbnMvd29ya2Zsb3dzL3Rlc3QueW1sL2JhZGdlLnN2ZyIsIGxpbmVzWzFdKQoKICAgIGRlZiB0ZXN0X3JlYWRtZV9pbnN0YWxsKHNlbGYpOgogICAgICAgIHJlYWRtZSA9IF9yZWFkKCJSRUFETUUubWQiKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oIiMjIOOCpOODs+OCueODiOODvOODqyIsIHJlYWRtZSkKICAgICAgICBzZWxmLmFzc2VydEluKCJnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL25hZ2FtYWNoaWEvcGFjZWNhbGMuZ2l0IiwgcmVhZG1lKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oInBpcCBpbnN0YWxsIC4iLCByZWFkbWUpCiAgICAgICAgc2VsZi5hc3NlcnRJbigicGlwIGluc3RhbGwgZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9uYWdhbWFjaGlhL3BhY2VjYWxjIiwgcmVhZG1lKQoKICAgIGRlZiB0ZXN0X2NoYW5nZWxvZyhzZWxmKToKICAgICAgICBjaGFuZ2Vsb2cgPSBfcmVhZCgiQ0hBTkdFTE9HLm1kIikKICAgICAgICBzZWxmLmFzc2VydEluKCIjIyBbMS4wLjBdIiwgY2hhbmdlbG9nKQogICAgICAgIGZvciB0YXNrIGluIFsiVDAwMSIsICJUMDAyIiwgIlQwMDMiLCAiVDAwNCIsICJUMDA1IiwgIlQwMDYiLCAiVDAwNlIiXToKICAgICAgICAgICAgc2VsZi5hc3NlcnRJbih0YXNrLCBjaGFuZ2Vsb2cpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHVuaXR0ZXN0Lm1haW4oKQo=
+"""パッケージング（pyproject.toml・バージョン・型ヒント・README・CHANGELOG）を検査するテスト。"""
+
+import contextlib
+import importlib
+import io
+import os
+import typing
+import unittest
+
+import pacecalc
+from pacecalc import cli
+
+try:
+    import tomllib
+except ImportError:  # Python 3.10 には tomllib がない
+    tomllib = None
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def _read(name):
+    with open(os.path.join(ROOT, name), encoding="utf-8") as f:
+        return f.read()
+
+
+@unittest.skipIf(tomllib is None, "tomllib がない（Python 3.11 未満）")
+class TestPyproject(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        with open(os.path.join(ROOT, "pyproject.toml"), "rb") as f:
+            cls.data = tomllib.load(f)
+
+    def test_build_backend(self):
+        self.assertEqual(self.data["build-system"]["build-backend"], "setuptools.build_meta")
+        self.assertTrue(any(r.startswith("setuptools") for r in self.data["build-system"]["requires"]))
+
+    def test_metadata(self):
+        project = self.data["project"]
+        self.assertEqual(project["name"], "pacecalc")
+        self.assertEqual(project["version"], "1.0.0")
+        self.assertEqual(project["requires-python"], ">=3.10")
+        self.assertEqual(project["readme"], "README.md")
+        self.assertEqual(project.get("dependencies", []), [])
+        # description は英語 1 行
+        description = project["description"]
+        self.assertNotIn("\n", description)
+        self.assertTrue(description.isascii())
+
+    def test_console_script(self):
+        target = self.data["project"]["scripts"]["pacecalc"]
+        self.assertEqual(target, "pacecalc.cli:main")
+        module_name, func_name = target.split(":")
+        func = getattr(importlib.import_module(module_name), func_name)
+        self.assertTrue(callable(func))
+
+    def test_version_matches_package(self):
+        self.assertEqual(self.data["project"]["version"], pacecalc.__version__)
+
+
+class TestVersion(unittest.TestCase):
+    def test_version(self):
+        self.assertEqual(pacecalc.__version__, "1.0.0")
+
+    def test_public_api_kept(self):
+        for name in ["speed_to_pace_sec", "pace_to_speed_kmh", "format_pace", "format_hms",
+                     "finish_time_sec", "riegel_predict_sec", "split_table", "climb_time_sec",
+                     "required_power_w", "load_gpx_points", "haversine_m", "course_segments",
+                     "plan_course"]:
+            self.assertIn(name, pacecalc.__all__)
+            self.assertTrue(callable(getattr(pacecalc, name)))
+
+    def test_console_entry_returns_exit_code(self):
+        # コンソールスクリプトは sys.exit(main()) で呼ばれるため、終了コードを返すこと
+        out = io.StringIO()
+        with contextlib.redirect_stdout(out):
+            self.assertEqual(cli.main(["pace", "--speed", "12"]), 0)
+        self.assertEqual(out.getvalue(), "5:00 /km\n")
+
+
+class TestTypeHints(unittest.TestCase):
+    PUBLIC = ["speed_to_pace_sec", "pace_to_speed_kmh", "format_pace", "format_hms",
+              "finish_time_sec", "riegel_predict_sec", "split_table", "climb_time_sec",
+              "required_power_w", "load_gpx_points", "haversine_m", "course_segments",
+              "plan_course"]
+
+    def test_all_params_and_return_annotated(self):
+        import inspect
+        for name in self.PUBLIC:
+            func = getattr(pacecalc, name)
+            hints = typing.get_type_hints(func)
+            params = inspect.signature(func).parameters
+            with self.subTest(name=name):
+                self.assertIn("return", hints)
+                for param in params:
+                    self.assertIn(param, hints)
+
+    def test_some_hints(self):
+        self.assertIs(typing.get_type_hints(pacecalc.format_pace)["return"], str)
+        self.assertIs(typing.get_type_hints(pacecalc.speed_to_pace_sec)["speed_kmh"], float)
+
+
+class TestDocs(unittest.TestCase):
+    def test_readme_badge_at_top(self):
+        lines = [line for line in _read("README.md").splitlines() if line.strip()]
+        self.assertEqual(lines[0], "# pacecalc")
+        self.assertIn(
+            "https://github.com/nagamachia/pacecalc/actions/workflows/test.yml/badge.svg", lines[1])
+
+    def test_readme_install(self):
+        readme = _read("README.md")
+        self.assertIn("## インストール", readme)
+        self.assertIn("git clone https://github.com/nagamachia/pacecalc.git", readme)
+        self.assertIn("pip install .", readme)
+        self.assertIn("pip install git+https://github.com/nagamachia/pacecalc", readme)
+
+    def test_changelog(self):
+        changelog = _read("CHANGELOG.md")
+        self.assertIn("## [1.0.0]", changelog)
+        for task in ["T001", "T002", "T003", "T004", "T005", "T006", "T006R"]:
+            self.assertIn(task, changelog)
+
+
+if __name__ == "__main__":
+    unittest.main()
